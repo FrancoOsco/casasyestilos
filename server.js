@@ -280,7 +280,11 @@ app.post('/api/admin/upload-image', requireAdmin, upload.single('file'), async (
   }
 });
 
-app.get('/admin*', (req, res) => {
+// Serve admin static files (pages folder) at /admin
+app.use('/admin', express.static(path.join(__dirname, 'pages')));
+
+// Ensure /admin serves admin.html
+app.get('/admin', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages', 'admin.html'));
 });
 
