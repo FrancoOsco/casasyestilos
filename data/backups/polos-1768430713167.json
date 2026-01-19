@@ -1,0 +1,95 @@
+{
+  "POLOS": [
+    {
+      "id": "producto-001",
+      "nombre": "Nombre del producto 1",
+      "subnombre": "Subtítulo o línea corta del producto",
+      "marca": "Casas y Estilos",
+      "img": "/img/placeholder/producto-1.jpg",
+      "img2": "/img/placeholder/producto-1-2.jpg",
+      "precio_desde": 0.0,
+      "descripcion_corta": "Descripción corta, un frase atractiva y resumida.",
+      "descripcion": "Descripción larga y detallada del producto. Aquí explicas materiales, uso recomendado, ventajas y cualquier detalle técnico o comercial que quieras destacar.",
+      "features": ["Característica 1", "Característica 2", "Característica 3"],
+      "specs": {
+        "Material exterior": "Descripción del material exterior",
+        "Relleno": "Descripción del relleno o interior",
+        "Acolchado": "Tipo de acolchado (si aplica)",
+        "Dimensión standard": "Ancho x Largo",
+        "Peso aproximado": "Peso en kg",
+        "Uso recomendado": "Hotelero / Hogar / Industrial",
+        "Lavado": "Instrucciones de lavado",
+        "Colores disponibles": "Lista de colores"
+      },
+      "models": [
+        {
+          "model": "Talla / Versión 1",
+          "length": "Dimensiones o referencia",
+          "spec": "Especificación breve por modelo"
+        },
+        {
+          "model": "Talla / Versión 2",
+          "length": "Dimensiones o referencia",
+          "spec": "Especificación breve por modelo"
+        }
+      ],
+      "categorias": ["Categoría principal", "Subcategoría", "Tipo"],
+      "tags": ["tag1", "tag2", "tag3"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - NOMBRE EMPRESA",
+          "info": "Cuenta: 000 0000000 0 00\nCCI: 0 00000000000000000"
+        },
+        {
+          "name": "BBVA - NOMBRE EMPRESA",
+          "info": "Cuenta: 0000 0000000000000"
+        }
+      ]
+    },
+    {
+      "id": "producto-002",
+      "nombre": "Nombre del producto 2",
+      "subnombre": "Subtítulo o línea corta alternativa",
+      "marca": "Casas y Estilos",
+      "img": "/img/placeholder/producto-2.jpg",
+      "img2": "/img/placeholder/producto-2-2.jpg",
+      "precio_desde": 0.0,
+      "descripcion_corta": "Descripción corta alternativa para el segundo producto.",
+      "descripcion": "Descripción larga y detallada del segundo producto. Puedes adaptar texto para destacar diferencias frente al producto 1 (mayor gramaje, otro material, etc.).",
+      "features": ["Característica A", "Característica B", "Característica C"],
+      "specs": {
+        "Material exterior": "Descripción del material exterior",
+        "Relleno": "Descripción del relleno o interior",
+        "Dimensión": "Ancho x Largo",
+        "Gramaje relleno": "g/m² (si aplica)",
+        "Cuidado": "Instrucciones de cuidado y lavado"
+      },
+      "models": [
+        {
+          "model": "Versión estándar",
+          "length": "Dimensiones",
+          "spec": "Breve especificación"
+        },
+        {
+          "model": "Versión XL",
+          "length": "Dimensiones XL",
+          "spec": "Breve especificación"
+        }
+      ],
+      "categorias": ["Categoría principal", "Tipo"],
+      "tags": ["tagA", "tagB", "tagC"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - NOMBRE EMPRESA",
+          "info": "Cuenta: 000 0000000 0 00\nCCI: 0 00000000000000000"
+        },
+        {
+          "name": "BBVA - NOMBRE EMPRESA",
+          "info": "Cuenta: 0000 0000000000000"
+        }
+      ]
+    }
+  ]
+}

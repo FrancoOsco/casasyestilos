@@ -1,0 +1,1432 @@
+{
+  "MOSQUITEROS": [
+    {
+      "id": "mosquiteros-producto-001",
+      "nombre": "Mosquitero Cama 1 Plaza - Dosel",
+      "subnombre": "Dosel clásico para cama individual",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Dosel ligero y elegante, instalación sencilla para cama 1 plaza.",
+      "descripcion": "Mosquitero tipo dosel diseñado para camas individuales. Fabricado en malla fina resistente, con punto de sujeción superior y caída completa para protección nocturna. Fácil de montar sin herramientas y apto para lavado doméstico.",
+      "features": [
+        "Malla fina de poliéster",
+        "Sujeción superior para dosel",
+        "Fácil montaje y lavado",
+        "Diseño que permite ventilación natural"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster 100%",
+        "Apertura de malla": "18 x 16 mesh aprox.",
+        "Dimensión standard": "200 x 100 x 250 cm (caída variable)",
+        "Peso aproximado": "230 g",
+        "Uso recomendado": "Camas individuales, habitaciones",
+        "Lavado": "Lavado a mano o ciclo suave; secado a la sombra",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "200 x 100 x 250 cm",
+          "spec": "Dosel para cama individual, caída total"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Dosel", "Camas"],
+      "tags": ["dosel", "cama 1p", "poliéster"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-002",
+      "nombre": "Mosquitero Cama 2 Plazas - Dosel",
+      "subnombre": "Dosel amplio para cama doble",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Dosel grande con caída completa para cama de dos plazas.",
+      "descripcion": "Mosquitero tipo dosel para camas matrimoniales o de dos plazas. Ofrece cobertura completa, costuras reforzadas y caída amplia para estilo y protección. Ideal para habitaciones hoteleras y residenciales.",
+      "features": [
+        "Cobertura total para cama 2 plazas",
+        "Costuras reforzadas",
+        "Punto de anclaje central resistente",
+        "Tacto suave y buena visibilidad"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster 100%",
+        "Apertura de malla": "18 x 16 mesh aprox.",
+        "Dimensión standard": "220 x 180 x 260 cm",
+        "Peso aproximado": "360 g",
+        "Uso recomendado": "Camas matrimoniales, suites",
+        "Lavado": "Lavado suave; colgar para secar",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "220 x 180 x 260 cm",
+          "spec": "Dosel para cama doble con caída amplia"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Dosel", "Camas"],
+      "tags": ["dosel", "cama 2p", "hotelero"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-003",
+      "nombre": "Mosquitero Enrollable para Ventana",
+      "subnombre": "Sistema enrollable con carcasa compacta",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Enrollable vertical para ventanas con mecanismo suave.",
+      "descripcion": "Mosquitero enrollable diseñado para ventanas. Incluye carcasa protectora, sistema de muelle de alta durabilidad y guía inferior para ajuste hermético. Ideal donde se requiere ocultar la malla cuando no se usa.",
+      "features": [
+        "Mecanismo enrollable con carcasa",
+        "Guía inferior para cierre hermético",
+        "Muelle de retorno de larga vida",
+        "Fácil operación"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster + carcasa aluminio",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "Ancho hasta 120 cm (a medida)",
+        "Peso aproximado": "1.1 kg (según tamaño)",
+        "Uso recomendado": "Ventanas residenciales y hoteleras",
+        "Lavado": "Limpiar con paño húmedo; no sumergir carcasa",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "Enrollable ventana (hasta 120 cm)",
+          "length": "Ancho variable",
+          "spec": "Carcasa + malla enrollable"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Enrollables", "Ventanas"],
+      "tags": ["enrollable", "ventana", "carcasa"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-004",
+      "nombre": "Mosquitero Enrollable para Puerta",
+      "subnombre": "Sistema enrollable para puertas con guía robusta",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Enrollable para puertas con guía y cierre seguro.",
+      "descripcion": "Mosquitero enrollable pensado para puertas de acceso a balcones o terrazas. Cuenta con carcasa, guías laterales y sistema de bloqueo que facilita el paso y evita entradas de insectos cuando está cerrado.",
+      "features": [
+        "Carcasa resistente",
+        "Guías laterales y bloqueo",
+        "Malla durable",
+        "Apta para puertas de terraza"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster + perfiles aluminio",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "Ancho hasta 200 cm",
+        "Peso aproximado": "1.6 kg (según tamaño)",
+        "Uso recomendado": "Puertas exteriores y acceso a terrazas",
+        "Lavado": "Limpiar con paño; evitar inmersión",
+        "Color disponible": "Blanco, marrón"
+      },
+      "models": [
+        {
+          "model": "Enrollable puerta (hasta 200 cm)",
+          "length": "Ancho variable",
+          "spec": "Carcasa + guía + bloqueo"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Enrollables", "Puertas"],
+      "tags": ["enrollable", "puerta", "terraza"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-005",
+      "nombre": "Mosquitero Fijo para Ventana - Perfil Aluminio",
+      "subnombre": "Marco fijo de aluminio con malla resistente",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Solución fija con marco de aluminio para ventilación segura.",
+      "descripcion": "Mosquitero con marco de aluminio diseñado para instalación permanente en ventanas. Proporciona un ajuste limpio y discreto, con malla de alta densidad y acabados anticorrosión para ambientes húmedos.",
+      "features": [
+        "Marco de aluminio anodizado",
+        "Malla de alta densidad",
+        "Instalación permanente",
+        "Acabado anticorrosión"
+      ],
+      "specs": {
+        "Material exterior": "Marco aluminio + malla poliéster/fibra vidri0",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "A medida según ventana",
+        "Peso aproximado": "Varía según tamaño",
+        "Uso recomendado": "Ventanas residenciales y hoteleras",
+        "Lavado": "Desmontable para limpieza; limpiar marco con paño",
+        "Color disponible": "Aluminio natural, blanco"
+      },
+      "models": [
+        {
+          "model": "Fijo a medida",
+          "length": "A medida",
+          "spec": "Marco aluminio + malla instalada"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Fijos", "Ventanas"],
+      "tags": ["fijo", "aluminio", "ventana"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-006",
+      "nombre": "Mosquitero Magnético para Puerta - Auto cierre",
+      "subnombre": "Cierre magnético para paso cómodo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Instalación sin marco con tiras magnéticas para auto cierre.",
+      "descripcion": "Mosquitero magnético ideal para puertas de paso frecuente. Se instala mediante velcro o cinta adhesiva resistente; las tiras magnéticas permiten un paso sin manos y se cierran automáticamente evitando insectos.",
+      "features": [
+        "Cierre magnético central",
+        "Instalación sin marco",
+        "Paso manos libres",
+        "Desmontable para lavado"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster + tiras magnéticas",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "200 x 90 cm",
+        "Peso aproximado": "320 g",
+        "Uso recomendado": "Puertas interiores y exteriores",
+        "Lavado": "Lavar malla; retirar tiras magnéticas antes de lavar",
+        "Color disponible": "Negro, gris"
+      },
+      "models": [
+        {
+          "model": "Standard puerta",
+          "length": "200 x 90 cm",
+          "spec": "Cierre magnético, instalación sin marco"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Magnéticos", "Puertas"],
+      "tags": ["magnético", "auto cierre", "sin marco"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-007",
+      "nombre": "Mosquitero Tipo Dosel para Cama King",
+      "subnombre": "Dosel grande para cama King Size",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 189.9,
+      "descripcion_corta": "Dosel de gran caída para camas king con acabado sofisticado.",
+      "descripcion": "Mosquitero tipo dosel especialmente diseñado para camas King. Proporciona cobertura completa, drapeado elegante y puntos de sujeción reforzados para uso prolongado en entornos hoteleros.",
+      "features": [
+        "Cobertura para cama King",
+        "Puntos de anclaje reforzados",
+        "Drapeado estético",
+        "Fácil montaje"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster de alta resistencia",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "250 x 200 x 300 cm",
+        "Peso aproximado": "520 g",
+        "Uso recomendado": "Camas King, suites",
+        "Lavado": "Lavado suave; colgar para secar",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "250 x 200 x 300 cm",
+          "spec": "Dosel para cama King con caída total"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Dosel", "Premium"],
+      "tags": ["dosel", "king", "suite"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-008",
+      "nombre": "Mosquitero Plisado para Puerta Balcón",
+      "subnombre": "Plisado tipo acordeón para aperturas amplias",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Plisado lateral para puertas de balcón que se pliega como acordeón.",
+      "descripcion": "Mosquitero plisado especialmente pensado para puertas de gran ancho. Su mecanismo permite plegado compacto y apertura fluida, ideal para balcones y accesos amplios donde se desea máxima practicidad.",
+      "features": [
+        "Sistema plisado tipo acordeón",
+        "Apertura lateral compacta",
+        "Resistente al uso frecuente",
+        "Acabados para exteriores"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster + perfiles aluminio",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "Ancho hasta 300 cm (modular)",
+        "Peso aproximado": "2.0 kg (según tamaño)",
+        "Uso recomendado": "Puertas balcones, aperturas amplias",
+        "Lavado": "Limpiar malla con cepillo suave; evitar inmersión",
+        "Color disponible": "Negro, marrón"
+      },
+      "models": [
+        {
+          "model": "Plisado modular",
+          "length": "Ancho variable",
+          "spec": "Plisado para grandes aperturas"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Plisados", "Puertas"],
+      "tags": ["plisado", "balcón", "modular"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-009",
+      "nombre": "Mosquitero Tipo Cúpula - Popup",
+      "subnombre": "Mosquitero plegable tipo popup para viajes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Plegable tipo popup, ideal para camping y viajes.",
+      "descripcion": "Mosquitero cúpula plegable que se despliega en segundos y se guarda comprimido. Perfecto para viajeros y actividades al aire libre; ligero y con funda de transporte incluida.",
+      "features": [
+        "Despliegue rápido tipo popup",
+        "Funda de transporte incluida",
+        "Ligero y compacto",
+        "Apto para camping y viajes"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster ligera",
+        "Apertura de malla": "16 x 14 mesh",
+        "Dimensión standard": "200 x 90 x 110 cm (aprox.)",
+        "Peso aproximado": "260 g",
+        "Uso recomendado": "Camping, viajes, excursiones",
+        "Lavado": "Lavar a mano y secar al aire",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Popup",
+          "length": "200 x 90 x 110 cm",
+          "spec": "Cúpula plegable tipo popup"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Popup", "Camping"],
+      "tags": ["popup", "camping", "portable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-010",
+      "nombre": "Mosquitero Infantil para Cuna",
+      "subnombre": "Protección segura para cunas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Mosquitero pensado para protección en cunas y camas infantiles.",
+      "descripcion": "Mosquitero diseñado para cunas con medidas estándar. Incluye sujetadores suaves y malla de densidad segura para evitar el paso de insectos sin crear bolsillos peligrosos para bebés.",
+      "features": [
+        "Diseño seguro para bebés",
+        "Sujetadores suaves y discretos",
+        "Malla de densidad adecuada",
+        "Fácil montaje y desmontaje"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster fina",
+        "Dimensión standard": "120 x 60 x 90 cm (aprox.)",
+        "Uso recomendado": "Cunas y camas infantiles",
+        "Lavado": "Lavado suave; secado a la sombra",
+        "Color disponible": "Blanco, colores infantiles"
+      },
+      "models": [
+        {
+          "model": "Cuna estándar",
+          "length": "120 x 60 x 90 cm",
+          "spec": "Mosquitero para cuna con sujeción segura"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Infantil", "Cunas"],
+      "tags": ["infantil", "cuna", "seguro"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-011",
+      "nombre": "Mosquitero Fibra de Vidrio - Alta Resistencia",
+      "subnombre": "Malla de fibra de vidrio para mayor durabilidad",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Malla en fibra de vidrio: mayor resistencia y durabilidad.",
+      "descripcion": "Mosquitero con malla de fibra de vidrio, resistente al desgaste y con excelente visibilidad. Recomendado para instalaciones permanentes donde se requiere mayor durabilidad frente a condiciones climáticas exigentes.",
+      "features": [
+        "Malla fibra de vidrio resistente",
+        "Baja deformación con el tiempo",
+        "Buena visibilidad y ventilación",
+        "Apta para instalaciones permanentes"
+      ],
+      "specs": {
+        "Material exterior": "Fibra de vidrio con recubrimiento",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "A medida",
+        "Peso aproximado": "Varía según tamaño",
+        "Uso recomendado": "Instalaciones permanentes, exteriores",
+        "Lavado": "Limpiar con paño húmedo",
+        "Color disponible": "Gris, negro"
+      },
+      "models": [
+        {
+          "model": "Fibra vidrio a medida",
+          "length": "A medida",
+          "spec": "Malla duradera para uso intensivo"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Fibra de vidrio", "Exterior"],
+      "tags": ["fibra vidri0", "durable", "alta resistencia"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-012",
+      "nombre": "Mosquitero Poliester Reforzado - Uso Exterior",
+      "subnombre": "Tratado anti-UV y anti-moho para exteriores",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Malla poliéster tratada para climas húmedos y exteriores.",
+      "descripcion": "Mosquitero de poliéster reforzado con tratamiento anti-UV y anti-moho, ideal para terrazas, porches y espacios expuestos al sol y la humedad. Mantiene color y estructura por más tiempo.",
+      "features": [
+        "Tratamiento anti-UV",
+        "Resistente a moho y humedad",
+        "Malla reforzada",
+        "Apta para uso exterior"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster reforzado con recubrimiento",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "A medida",
+        "Peso aproximado": "Varía",
+        "Uso recomendado": "Terrazas, exteriores, porches",
+        "Lavado": "Lavar a baja temperatura; secar a la sombra",
+        "Color disponible": "Gris, marrón"
+      },
+      "models": [
+        {
+          "model": "Exterior reforzado",
+          "length": "A medida",
+          "spec": "Poliéster tratado anti-UV"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Exterior", "Poliéster"],
+      "tags": ["anti-uv", "anti-moho", "exterior"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-013",
+      "nombre": "Mosquitero con Marco de Aluminio - A Medida",
+      "subnombre": "Marco sólido y fijación profesional",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 229.9,
+      "descripcion_corta": "Solución a medida con marco de aluminio resistente.",
+      "descripcion": "Mosquitero fabricado a medida con marco de aluminio, diseñado para brindar un acabado profesional y ajuste perfecto. Incluye sistema de fijación y juntas que facilitan la instalación por técnicos.",
+      "features": [
+        "Marco aluminio a medida",
+        "Ajuste profesional",
+        "Sistema de fijación incluido",
+        "Acabado resistente"
+      ],
+      "specs": {
+        "Material exterior": "Aluminio anodizado + malla poliéster",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Proyectos residenciales y comerciales",
+        "Lavado": "Desmontable; limpiar malla y marco por separado",
+        "Color disponible": "Aluminio natural, blanco, negro"
+      },
+      "models": [
+        {
+          "model": "A medida",
+          "length": "Según especificación",
+          "spec": "Marco aluminio + malla instalada"
+        }
+      ],
+      "categorias": ["Mosquiteros", "A medida", "Aluminio"],
+      "tags": ["a medida", "aluminio", "proyecto"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-014",
+      "nombre": "Mosquitero Roll-up para Ventana",
+      "subnombre": "Roll-up compacto con carcasa protectora",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 169.9,
+      "descripcion_corta": "Roll-up con carcasa para ventanas de uso frecuente.",
+      "descripcion": "Sistema roll-up horizontal pensado para ventanas; incluye carcasa compacta y mecanismo de freno para evitar enrollado brusco. Perfecto para instalaciones donde se busca simplicidad y estética.",
+      "features": ["Carcasa compacta", "Mecanismo de freno", "Guías para ajuste", "Malla durable"],
+      "specs": {
+        "Material exterior": "Malla poliéster + carcasa aluminio",
+        "Dimensión standard": "Ancho hasta 150 cm",
+        "Uso recomendado": "Ventanas residenciales",
+        "Lavado": "Limpiar con paño húmedo",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "Roll-up ventana",
+          "length": "Ancho variable",
+          "spec": "Carcasa + roll-up"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Roll-up", "Ventanas"],
+      "tags": ["roll-up", "carcasa", "ventana"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-015",
+      "nombre": "Mosquitero para Cama Infantil - Con Cierre",
+      "subnombre": "Cierre perimetral para mayor seguridad",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Mosquitero para camas infantiles con cierre perimetral seguro.",
+      "descripcion": "Mosquitero con sistema de cierre perimetral que evita aperturas accidentales y permite un desmontaje fácil para lavado. Recomendado para entornos familiares y hoteles que ofrecen habitaciones infantiles.",
+      "features": [
+        "Cierre perimetral con cremallera",
+        "Costuras reforzadas",
+        "Fácil desmontaje para lavado",
+        "Diseño seguro para niños"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster",
+        "Dimensión standard": "160 x 80 x 90 cm",
+        "Uso recomendado": "Camas infantiles y juveniles",
+        "Lavado": "Lavado suave; secar a la sombra",
+        "Color disponible": "Blanco, colores infantiles"
+      },
+      "models": [
+        {
+          "model": "Infantil con cierre",
+          "length": "160 x 80 x 90 cm",
+          "spec": "Cierre perimetral con cremallera"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Infantil", "Camas"],
+      "tags": ["cierre", "infantil", "seguro"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-016",
+      "nombre": "Mosquitero Anti-UV - Protección Solar",
+      "subnombre": "Malla tratada para filtrar radiación UV",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Malla con tratamiento anti-UV que prolonga la vida útil.",
+      "descripcion": "Mosquitero tratado para reducir el impacto de la radiación solar sobre la malla y el entorno. Ideal para zonas con exposición intensa al sol, protege la malla y mejora confort interior al filtrar parte de la radiación.",
+      "features": [
+        "Tratamiento anti-UV",
+        "Reduce degradación por sol",
+        "Mantiene color y forma",
+        "Apta para exteriores"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster tratado anti-UV",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Exterior, terrazas y ventanas expuestas",
+        "Lavado": "Lavar a mano; secar a la sombra",
+        "Color disponible": "Gris, marrón"
+      },
+      "models": [
+        {
+          "model": "Anti-UV",
+          "length": "A medida",
+          "spec": "Malla tratada anti-UV para exteriores"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Anti-UV", "Exterior"],
+      "tags": ["anti-uv", "protección solar", "exterior"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-017",
+      "nombre": "Mosquitero para Camping - Ligero y Plegable",
+      "subnombre": "Diseñado para acampadas y uso al aire libre",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Ligero, plegable y fácil de transportar para camping.",
+      "descripcion": "Mosquitero pensado para actividades outdoor: peso reducido, plegado compacto y montaje rápido. Incluye funda de transporte y materiales resistentes al uso ocasional en exteriores.",
+      "features": [
+        "Ligero y plegable",
+        "Funda de transporte",
+        "Montaje rápido",
+        "Resistente a uso outdoor"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster ligera",
+        "Dimensión standard": "200 x 90 x 110 cm (aprox.)",
+        "Peso aproximado": "220 g",
+        "Uso recomendado": "Camping, viajes, excursiones",
+        "Lavado": "Lavar a mano; secar al aire",
+        "Color disponible": "Verde, blanco"
+      },
+      "models": [
+        {
+          "model": "Camping plegable",
+          "length": "200 x 90 x 110 cm",
+          "spec": "Mosquitero plegable para actividades outdoor"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Camping", "Portable"],
+      "tags": ["camping", "portable", "plegable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-018",
+      "nombre": "Mosquitero Tipo Cortina - Ventana y Puerta",
+      "subnombre": "Cortina de malla con fijación rápida (velcro)",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Cortina de malla para aperturas amplias con fijación por velcro.",
+      "descripcion": "Mosquitero tipo cortina diseñado para cubrir ventanas o puertas amplias. Se fija con velcro adhesivo o tornillos según necesidad, y permite retirarlo rápidamente para limpieza o almacenamiento.",
+      "features": [
+        "Fijación rápida con velcro",
+        "Corte a medida sencillo",
+        "Fácil de retirar",
+        "Buena ventilación"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster",
+        "Dimensión standard": "200 x 120 cm (ajustable)",
+        "Uso recomendado": "Ventanas y puertas interiores",
+        "Lavado": "Lavar a mano o ciclo suave",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Cortina velcro",
+          "length": "200 x 120 cm",
+          "spec": "Cortina de malla con fijación velcro"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Cortinas", "Puertas"],
+      "tags": ["cortina", "velcro", "removable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-019",
+      "nombre": "Mosquitero Reforzado Anti-Desgarre",
+      "subnombre": "Malla y costuras reforzadas para alto uso",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 169.9,
+      "descripcion_corta": "Construcción reforzada para entornos de alto tránsito.",
+      "descripcion": "Mosquitero diseñado con malla reforzada y costuras anti-desgarre, ideal para ambientes con uso intensivo (negocios de hospedaje, zonas públicas). Ofrece mayor longevidad frente a abuso y condiciones exigentes.",
+      "features": [
+        "Malla reforzada anti-desgarre",
+        "Costuras industriales",
+        "Mayor durabilidad",
+        "Apta para uso comercial"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster reforzada",
+        "Apertura de malla": "16 x 14 mesh (reforzada)",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Hotelería, áreas públicas",
+        "Lavado": "Lavado industrial compatible según especificación",
+        "Color disponible": "Negro, gris"
+      },
+      "models": [
+        {
+          "model": "Reforzado anti-desgarre",
+          "length": "A medida",
+          "spec": "Construcción reforzada para uso intensivo"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Reforzados", "Comercial"],
+      "tags": ["reforzado", "anti-desgarre", "industrial"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-020",
+      "nombre": "Mosquitero Invisible - Malla Fina Alta Transparencia",
+      "subnombre": "Diseño minimal que preserva la vista exterior",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Malla ultra fina que maximiza visibilidad exterior.",
+      "descripcion": "Mosquitero de malla muy fina pensado para conservar la vista exterior sin sacrificar la protección. Ideal en fachadas o ventanas con paisajes donde la transparencia es un requisito estético.",
+      "features": [
+        "Malla ultra fina de alta transparencia",
+        "Preserva la vista exterior",
+        "Protección efectiva contra insectos",
+        "Instalación discreta"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster de alta transparencia",
+        "Apertura de malla": "20 x 20 mesh (fina)",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Ventanas con vista panorámica",
+        "Lavado": "Limpiar con paño húmedo",
+        "Color disponible": "Negro claro"
+      },
+      "models": [
+        {
+          "model": "Invisible",
+          "length": "A medida",
+          "spec": "Malla fina para máxima transparencia"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Invisible", "Ventanas"],
+      "tags": ["invisible", "malla fina", "transparente"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-021",
+      "nombre": "Mosquitero Anti-alérgico - Tejido Especial",
+      "subnombre": "Malla tratada para reducir alérgenos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Tejido especial que ayuda a reducir alérgenos en el interior.",
+      "descripcion": "Mosquitero con acabado y tejido diseñados para minimizar la acumulación de alérgenos y facilitar la limpieza. Recomendado para habitaciones de personas sensibles a polvo y ácaros.",
+      "features": [
+        "Tratamiento anti-alérgico",
+        "Fácil limpieza",
+        "Malla de alta densidad",
+        "Mejora la higiene interior"
+      ],
+      "specs": {
+        "Material exterior": "Malla tratada especial",
+        "Apertura de malla": "20 x 18 mesh",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Entornos sensibles (alergias)",
+        "Lavado": "Limpiar según instrucciones; evitar blanqueadores",
+        "Color disponible": "Blanco, beige"
+      },
+      "models": [
+        {
+          "model": "Anti-alérgico",
+          "length": "A medida",
+          "spec": "Tratamiento para reducir alérgenos"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Salud", "Anti-alérgico"],
+      "tags": ["anti-alergico", "higiénico", "alta densidad"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-022",
+      "nombre": "Mosquitero para Terraza - Panel Modular",
+      "subnombre": "Paneles modulares para terrazas y porches",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 249.9,
+      "descripcion_corta": "Paneles modulares con marco para terrazas y porches.",
+      "descripcion": "Solución modular compuesta por paneles que se ensamblan para cubrir terrazas o porches. Permite sustituir paneles individuales y adaptarse a cambios de configuración sin obras mayores.",
+      "features": [
+        "Paneles modulares ensamblables",
+        "Marco sólido y fácil montaje",
+        "Diseño apto para exteriores",
+        "Mantenimiento sencillo"
+      ],
+      "specs": {
+        "Material exterior": "Marco aluminio + malla tratada",
+        "Dimensión standard": "Paneles 100 x 200 cm (modulares)",
+        "Uso recomendado": "Terrazas, porches, espacios modulares",
+        "Lavado": "Limpiar con paño; retirar panel si requiere limpieza profunda",
+        "Color disponible": "Aluminio, blanco"
+      },
+      "models": [
+        {
+          "model": "Panel 100x200",
+          "length": "100 x 200 cm",
+          "spec": "Panel modular para terrazas"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Modular", "Exterior"],
+      "tags": ["modular", "panel", "terraza"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-023",
+      "nombre": "Mosquitero Autoportante - Sin Fijación",
+      "subnombre": "Estructura que se sostiene sin anclajes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Autoportante, ideal donde no se desea perforar carpintería.",
+      "descripcion": "Mosquitero con estructura portátil autoportante que permite su uso en ventanas o aberturas sin necesidad de fijación permanente. Perfecto para alquileres temporales o soluciones provisionales.",
+      "features": [
+        "Estructura autoportante",
+        "Sin necesidad de anclajes",
+        "Desmontable y portátil",
+        "Instalación rápida"
+      ],
+      "specs": {
+        "Material exterior": "Perfil ligero + malla poliéster",
+        "Dimensión standard": "A medida según apertura",
+        "Uso recomendado": "Soluciones temporales y rentas",
+        "Lavado": "Limpiar malla; desmontar estructura para almacenamiento",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "Autoportante",
+          "length": "A medida",
+          "spec": "Estructura portátil sin fijación"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Autoportantes", "Temporal"],
+      "tags": ["autoportante", "portable", "sin fijación"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-024",
+      "nombre": "Mosquitero Roll-up Horizontal - Persiana",
+      "subnombre": "Sistema horizontal tipo persiana para grandes aberturas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Persiana horizontal para aberturas amplias con manejo suave.",
+      "descripcion": "Sistema roll-up horizontal diseñado para cubrir grandes huecos tipo ventanales o puertas correderas. Permite un manejo suave y se integra estéticamente con carpinterías modernas.",
+      "features": [
+        "Funcionamiento horizontal tipo persiana",
+        "Manejo suave y controlado",
+        "Carcasa protectora",
+        "Apto para grandes aberturas"
+      ],
+      "specs": {
+        "Material exterior": "Malla poliéster + carcasa aluminio",
+        "Dimensión standard": "Ancho hasta 300 cm",
+        "Uso recomendado": "Grandes ventanales y puertas correderas",
+        "Lavado": "Limpiar con paño; mantenimiento técnico recomendado",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "Roll-up horizontal",
+          "length": "Ancho variable",
+          "spec": "Persiana horizontal para grandes aberturas"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Persiana", "Grandes aberturas"],
+      "tags": ["persiana", "horizontal", "roll-up"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-025",
+      "nombre": "Mosquitero a Medida - Servicio Integral",
+      "subnombre": "Medición, fabricación e instalación según proyecto",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 299.9,
+      "descripcion_corta": "Servicio integral a medida: medición, fabricación e instalación.",
+      "descripcion": "Servicio completo para proyectos: tomamos medidas, fabricamos y realizamos la instalación profesional. Ideal para hoteles, edificios y proyectos residenciales que requieren una solución a medida y con garantía.",
+      "features": [
+        "Medición profesional",
+        "Fabricación a medida",
+        "Instalación por técnicos",
+        "Garantía de servicio"
+      ],
+      "specs": {
+        "Material exterior": "Variable según especificación del proyecto",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Proyectos comerciales y residenciales",
+        "Lavado": "Según tipo de malla instalada",
+        "Color disponible": "Según material"
+      },
+      "models": [
+        {
+          "model": "Servicio integral",
+          "length": "A medida",
+          "spec": "Medición, fabricación e instalación"
+        }
+      ],
+      "categorias": ["Mosquiteros", "A medida", "Servicios"],
+      "tags": ["servicio", "instalación", "a medida"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-026",
+      "nombre": "Mosquitero Anti-insectos + Repelente - Tratado",
+      "subnombre": "Malla con tratamiento repelente de larga duración",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Malla tratada con repelente para zonas con alta presencia de insectos.",
+      "descripcion": "Mosquitero con tratamiento repelente que ayuda a minimizar la presencia de insectos voladores durante más tiempo. Recomendado para zonas rurales o tropicales donde se requiere protección extra.",
+      "features": [
+        "Tratamiento repelente de larga duración",
+        "Malla resistente",
+        "Aprobado para uso doméstico",
+        "Mantiene ventilación"
+      ],
+      "specs": {
+        "Material exterior": "Malla tratada con repelente",
+        "Apertura de malla": "18 x 16 mesh",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Zonas rurales y tropicales",
+        "Lavado": "Seguir instrucciones de tratamiento; evitar detergentes agresivos",
+        "Color disponible": "Gris, negro"
+      },
+      "models": [
+        {
+          "model": "Anti-insectos tratado",
+          "length": "A medida",
+          "spec": "Malla con repelente químico/inorgánico"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Tratados", "Exterior"],
+      "tags": ["repelente", "anti-insectos", "tratado"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "mosquiteros-producto-027",
+      "nombre": "Mosquitero Económico - Pack 6 Unidades",
+      "subnombre": "Solución por volumen para proyectos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Mosquiteros/mosquitero-beta.png",
+      "img2": "/img/Mosquiteros/mosquitero-beta-2.png",
+      "precio_desde": 249.9,
+      "descripcion_corta": "Pack de 6 mosquiteros económicos pensado para compras por volumen.",
+      "descripcion": "Pack económico que incluye seis unidades de mosquiteros básicos, pensadas para proyectos de renovación, hostales o instalaciones que requieren reemplazos frecuentes. Buena relación precio-calidad y aptas para instalación rápida.",
+      "features": [
+        "Pack 6 unidades",
+        "Costo por unidad reducido",
+        "Suficiente para proyectos grandes",
+        "Instalación sencilla"
+      ],
+      "specs": {
+        "Contenido": "6 x mosquiteros estándar",
+        "Material": "Malla poliéster",
+        "Dimensión standard": "50 x 90 cm (ejemplo; varias medidas disponibles)",
+        "Uso recomendado": "Proyectos, hostales, reposición",
+        "Lavado": "Lavado suave; secar al aire",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Pack 6",
+          "length": "6 unidades (variantes según pedido)",
+          "spec": "Pack económico para reemplazo"
+        }
+      ],
+      "categorias": ["Mosquiteros", "Pack", "Económico"],
+      "tags": ["pack", "6 unidades", "económico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

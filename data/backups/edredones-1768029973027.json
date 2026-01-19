@@ -1,0 +1,1847 @@
+{
+  "EDREDONES": [
+    {
+      "nombre": "prueba",
+      "subnombre": "prueba",
+      "marca": "prueba",
+      "img": "/img/uploads/1768029897885-carousel-1.jpg",
+      "img2": "/img/uploads/1768029897933-carousel-2.jpg",
+      "precio_desde": 123,
+      "descripcion_corta": "prueba",
+      "descripcion": "prueba",
+      "features": [
+        "prueba"
+      ],
+      "specs": {
+        "1": "2"
+      },
+      "models": [
+        {
+          "model": "1",
+          "length": "2",
+          "spec": "3"
+        }
+      ],
+      "categorias": [
+        "prueba"
+      ],
+      "tags": [
+        "prueba"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ],
+      "id": "edredones-producto-028"
+    },
+    {
+      "id": "edredones-producto-001",
+      "nombre": "Edredón Hotelero - Microfibra 1 plaza",
+      "subnombre": "Línea Premium para Hotelería",
+      "marca": "Casas y Estilos",
+      "img": "/img/Edredones/Edredon-beta.jpg",
+      "img2": "/img/Edredones/Edredon-beta-2.jpg",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Ligero, fresco y con acabado antiarrugas — diseñado para uso hotelero intensivo.",
+      "descripcion": "Edredón de uso hotelero fabricado en microfibra de alta densidad. Combina durabilidad y facilidad de mantenimiento con una presentación impecable: acolchado tipo box stitching para evitar desplazamientos del relleno y acabado antiarrugas que reduce el tiempo de planchado en hospedajes. Su relleno hipoalergénico ofrece confort y una sensación térmica equilibrada, pensado para lavados industriales y uso intensivo.",
+      "features": [
+        "Microfibra de alta densidad (220 hilos)",
+        "Relleno de fibra hueca siliconada hipoalergénica",
+        "Acolchado en cuadros (box stitching) para estabilidad del relleno",
+        "Acabado antiarrugas para rápida presentación",
+        "Resistente a lavados industriales y ciclos frecuentes",
+        "Tacto suave y sensación térmica equilibrada"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra premium 100% poliéster",
+        "Relleno": "Fibra hueca siliconada 350 g/m²",
+        "Acolchado": "Box stitching (cuadros)",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "1.1 kg",
+        "Uso recomendado": "Hotelero, Airbnb, hogares",
+        "Lavado": "A máquina hasta 60°C; secado a temperatura media",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Microfibra, relleno 350 g/m², acabado hotelero"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 230 cm",
+          "spec": "Microfibra premium, mayor volumen"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Relleno reforzado para mayor confort"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Ropa de Cama",
+        "Hotelero"
+      ],
+      "tags": [
+        "microfibra",
+        "hotelero",
+        "antiarrugas",
+        "acolchado",
+        "fibra hueca"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-002",
+      "nombre": "Edredón Hotelero - Microfibra 2 plazas",
+      "subnombre": "Con mayor gramaje para habitaciones dobles",
+      "marca": "Casas y Estilos",
+      "img": "/img/Edredones/Edredon-beta.jpg",
+      "img2": "/img/Edredones/Edredon-beta-2.jpg",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Mayor densidad para confort nocturno y fácil mantenimiento.",
+      "descripcion": "Versión doble del edredón hotelero con mayor gramaje para ofrecer mayor sensación térmica y volumen sin perder la facilidad de lavado. Ideal para habitaciones dobles en hoteles y alojamientos que requieren una presentación profesional y resistencia a lavados frecuentes.",
+      "features": [
+        "Mayor densidad de relleno para mayor confort",
+        "Acabado resistente a lavados industriales",
+        "Costuras reforzadas y borde perimetral reforzado",
+        "Material anti-pilling que mantiene la superficie limpia"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra 100% poliéster",
+        "Relleno": "Fibra hueca de alta resiliencia 600 g",
+        "Dimensión": "200 x 220 cm",
+        "Gramaje relleno": "600 g/m²",
+        "Cuidado": "Lavable a máquina; secado recomendado a temperatura media"
+      },
+      "models": [
+        {
+          "model": "2 plazas - estándar",
+          "length": "200 x 240 cm",
+          "spec": "Microfibra de alto confort, relleno 350 g/m²"
+        },
+        {
+          "model": "2 plazas - long",
+          "length": "210 x 240 cm",
+          "spec": "Microfibra premium, mayor volumen"
+        },
+        {
+          "model": "2 plazas - XL",
+          "length": "200 x 260 cm",
+          "spec": "Relleno reforzado 400 g/m², ideal para uso hotelero"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Hotelero"
+      ],
+      "tags": [
+        "microfibra",
+        "2 plazas",
+        "duradero",
+        "lavable"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-003",
+      "nombre": "Edredón Premium - Plumón Sintético Queen",
+      "subnombre": "Aislamiento alto, hipoalergénico",
+      "marca": "Casas y Estilos Premium",
+      "img": "/img/Edredones/edredon-plumon-queen.jpg",
+      "img2": "/img/Edredones/edredon-plumon-queen-2.jpg",
+      "precio_desde": 299.9,
+      "descripcion_corta": "Suavidad y volumen similar al plumón natural, hipoalergénico.",
+      "descripcion": "Edredón premium con relleno de plumón sintético de alta recuperación. Aporta volumen y aislamiento térmico comparable al plumón natural, pero con propiedades hipoalergénicas para personas sensibles. Acabados premium y funda de satén para una experiencia de descanso de alta gama.",
+      "features": [
+        "Plumón sintético hipoalergénico de alta resiliencia",
+        "Alta recuperación y volumen para sensación lujosa",
+        "Funda satén con costuras ocultas",
+        "Aislamiento térmico para climas templados-fríos"
+      ],
+      "specs": {
+        "Material exterior": "Tejido satinado 100% poliéster",
+        "Relleno": "Plumón sintético 200 g/m²",
+        "Dimensión": "Queen (160 x 220 cm)",
+        "Cuidado": "Lavado doméstico a 40°C; secado completo recomendado"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Plumón sintético 200 g/m², funda satén"
+        },
+        {
+          "model": "King",
+          "length": "200 x 240 cm",
+          "spec": "Plumón sintético 210 g/m², funda satén"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Premium"
+      ],
+      "tags": [
+        "plumón sintético",
+        "hipoalergénico",
+        "premium"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-004",
+      "nombre": "Edredón Premium - Plumón Sintético King",
+      "subnombre": "Aislamiento superior para climas fríos",
+      "marca": "Casas y Estilos Premium",
+      "img": "/img/Edredones/edredon-plumon-king.jpg",
+      "img2": "/img/Edredones/edredon-plumon-king-2.jpg",
+      "precio_desde": 349.9,
+      "descripcion_corta": "Relleno de alta recuperación, ideal para climas fríos.",
+      "descripcion": "Edredón king premium diseñado para climas fríos. Su relleno de plumón sintético mantiene la forma y el volumen tras múltiples lavados, ofreciendo un alto nivel de aislamiento térmico. Costuras internas que optimizan la distribución del relleno para un descanso uniforme.",
+      "features": [
+        "Relleno de alta recuperación",
+        "Aislamiento térmico superior para noches frías",
+        "Hipoalergénico y resistente a deformaciones",
+        "Bolsillos internos anti-desplazamiento del relleno"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra satén",
+        "Relleno": "Plumón sintético 200 g/m²",
+        "Dimensión": "King (200 x 220 cm)",
+        "Garantía": "6 meses por defectos de confección"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Plumón sintético 200 g/m², costuras reforzadas"
+        },
+        {
+          "model": "King Long",
+          "length": "220 x 240 cm",
+          "spec": "Plumón sintético 220 g/m², costuras reforzadas"
+        },
+        {
+          "model": "King XL",
+          "length": "240 x 260 cm",
+          "spec": "Plumón sintético 240 g/m², costuras reforzadas"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Premium"
+      ],
+      "tags": [
+        "king",
+        "térmico",
+        "premium"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-005",
+      "nombre": "Edredón Térmico - Microgel 2 plazas",
+      "subnombre": "Tecnología microgel para calor eficiente",
+      "marca": "Casas y Estilos Tec",
+      "img": "/img/Edredones/edredon-microgel-2p.jpg",
+      "img2": "/img/Edredones/edredon-microgel-2p-2.jpg",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Tecnología microgel para retención térmica sin peso.",
+      "descripcion": "Edredón con relleno microgel de nueva generación que ofrece excelente retención térmica con muy bajo peso y gran compresibilidad. Ideal para quienes buscan calor sin volumen excesivo y transporte sencillo. Acabados técnicos y costuras que facilitan el secado rápido.",
+      "features": [
+        "Relleno microgel ligero y compresible",
+        "Excelente relación calor/peso",
+        "Acabado anti-pilling y secado rápido",
+        "Apto para secado doméstico en baja temperatura"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra técnica",
+        "Relleno": "Microgel 115 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Uso recomendado": "Hogares y habitaciones frías"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Microgel 115 g/m², ligero y compresible"
+        },
+        {
+          "model": "2 plazas Long",
+          "length": "220 x 240 cm",
+          "spec": "Microgel 125 g/m², ligero y compresible"
+        },
+        {
+          "model": "2 plazas XL",
+          "length": "240 x 260 cm",
+          "spec": "Microgel 135 g/m², ligero y compresible"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Térmico"
+      ],
+      "tags": [
+        "microgel",
+        "ligero",
+        "térmico"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-007",
+      "nombre": "Edredón Acolchado Jacquard - 2 plazas",
+      "subnombre": "Versión con mayor cobertura",
+      "marca": "Casas y Estilos Diseño",
+      "img": "/img/Edredones/edredon-jacquard-2p.jpg",
+      "img2": "/img/Edredones/edredon-jacquard-2p-2.jpg",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Textura premium, apto para decoración y uso diario.",
+      "descripcion": "Edredón 2 plazas en tejido jacquard premium, perfecto para quienes desean combinar estética y confort. Relleno uniforme que mantiene la forma y un acabado que resiste lavados domésticos sin perder color ni textura.",
+      "features": [
+        "Tejido jacquard premium",
+        "Relleno uniforme y estable",
+        "Apto para lavado doméstico regular",
+        "Disponible en varios colores coordinados"
+      ],
+      "specs": {
+        "Material exterior": "Jacquard mezcla algodón/poliéster",
+        "Relleno": "Fibra hueca 91 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Uso": "Decoración y uso diario"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Jacquard, fibra hueca 91 g/m²"
+        },
+        {
+          "model": "2 plazas XL",
+          "length": "220 x 240 cm",
+          "spec": "Jacquard, fibra hueca 100 g/m²"
+        },
+        {
+          "model": "2 plazas King",
+          "length": "240 x 260 cm",
+          "spec": "Jacquard, fibra hueca 110 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Decoración"
+      ],
+      "tags": [
+        "jacquard",
+        "2 plazas",
+        "textura"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-008",
+      "nombre": "Edredón Reversible - Velvet / Sherpa",
+      "subnombre": "Doble textura para mayor versatilidad",
+      "marca": "Casas y Estilos Cozy",
+      "img": "/img/Edredones/edredon-velvet-sherpa-15.jpg",
+      "img2": "/img/Edredones/edredon-velvet-sherpa-15-2.jpg",
+      "precio_desde": 229.9,
+      "descripcion_corta": "Un lado velvet suave; otro lado sherpa cálido.",
+      "descripcion": "Edredón reversible que ofrece dos sensaciones: velvet elegante por un lado y sherpa esponjoso por el otro. Ideal para estaciones variables y hogares que buscan un producto versátil con acabado estético. Fácil de combinar y con buen nivel de aislamiento.",
+      "features": [
+        "Reversible: velvet / sherpa",
+        "Aislamiento moderado y balanceado",
+        "Acabado estético para salas y dormitorios",
+        "Fácil cuidado doméstico"
+      ],
+      "specs": {
+        "Materiales": "Velvet exterior / Sherpa interior",
+        "Relleno": "Fibra hueca 114 g/m²",
+        "Dimensión": "180 x 220 cm",
+        "Recomendado": "Uso doméstico y estaciones variables"
+      },
+      "models": [
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Velvet/Sherpa, 114 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Velvet/Sherpa, 125 g/m²"
+        },
+        {
+          "model": "2 plazas XL",
+          "length": "220 x 260 cm",
+          "spec": "Velvet/Sherpa, 135 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Reversible"
+      ],
+      "tags": [
+        "reversible",
+        "velvet",
+        "sherpa"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-009",
+      "nombre": "Edredón Reversible - Velvet / Sherpa",
+      "subnombre": "Mayor tamaño para camas dobles",
+      "marca": "Casas y Estilos Cozy",
+      "img": "/img/Edredones/edredon-velvet-sherpa-2p.jpg",
+      "img2": "/img/Edredones/edredon-velvet-sherpa-2p-2.jpg",
+      "precio_desde": 259.9,
+      "descripcion_corta": "Versátil para estaciones frías y templadas.",
+      "descripcion": "Edredón reversible 2 plazas que combina velvet elegante con sherpa cálido. Agradable al tacto y con buena capacidad de aislamiento; perfecto para hogares que buscan una solución práctica y decorativa para distintas estaciones.",
+      "features": [
+        "Dos texturas en un mismo producto",
+        "Fácil mantenimiento",
+        "Buen nivel de calor para climas templados-fríos"
+      ],
+      "specs": {
+        "Materiales": "Velvet / Sherpa",
+        "Relleno": "Fibra hueca 125 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Cuidado": "Lavar en ciclo delicado"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Velvet/Sherpa, 115 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Velvet/Sherpa, 125 g/m²"
+        },
+        {
+          "model": "2 plazas XL",
+          "length": "220 x 240 cm",
+          "spec": "Velvet/Sherpa, 135 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Reversible"
+      ],
+      "tags": [
+        "reversible",
+        "2 plazas",
+        "cozy"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-010",
+      "nombre": "Edredón Ultra ligero - Percal",
+      "subnombre": "Transpirable para verano",
+      "marca": "Casas y Estilos Light",
+      "img": "/img/Edredones/edredon-percal-1p.jpg",
+      "img2": "/img/Edredones/edredon-percal-1p-2.jpg",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Transpirable, ideal para verano y habitaciones cálidas.",
+      "descripcion": "Edredón ultra ligero con funda percal que ofrece excelente transpirabilidad y sensación fresca. Diseñado para climas cálidos o para quienes prefieren una cobertura liviana. Fácil lavado y secado rápido.",
+      "features": [
+        "Tejido percal transpirable 200 hilos",
+        "Muy ligero y de rápido secado",
+        "Apto para lavados frecuentes sin deformar"
+      ],
+      "specs": {
+        "Material exterior": "Percal 200 hilos",
+        "Relleno": "Fibra ligera 43 g/m²",
+        "Dimensión": "160 x 220 cm",
+        "Uso recomendado": "Verano / climas cálidos"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Percal, 43 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Percal, 50 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Percal, 55 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Verano"
+      ],
+      "tags": [
+        "percal",
+        "ultraligero",
+        "verano"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-011",
+      "nombre": "Edredón Antiácaros - Hipoalergénico",
+      "subnombre": "Protección para alérgicos",
+      "marca": "Casas y Estilos Salud",
+      "img": "/img/Edredones/edredon-antialergico-2p.jpg",
+      "img2": "/img/Edredones/edredon-antialergico-2p-2.jpg",
+      "precio_desde": 189.9,
+      "descripcion_corta": "Tratamiento antiácaros y fácil lavado industrial.",
+      "descripcion": "Edredón diseñado para personas sensibles o alérgicas. El tratamiento antiácaros y los materiales hipoalergénicos reducen la proliferación de alérgenos y facilitan el mantenimiento. Perfecto para hogares con niños o personas con sensibilidad respiratoria.",
+      "features": [
+        "Tratamiento antiácaros certificado",
+        "Tejido hipoalergénico y transpirable",
+        "Apto para lavados industriales sin perder propiedades"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada antiácaros",
+        "Relleno": "Fibra hipoalergénica 102 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Certificaciones": "Tratamiento antiácaros comprobado"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Hipoalergénico, 85 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Hipoalergénico, 95 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Hipoalergénico, 102 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Salud"
+      ],
+      "tags": [
+        "antiácaros",
+        "hipoalergénico",
+        "salud"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-012",
+      "nombre": "Edredón Hotelero Blanco - Imitación Pluma",
+      "subnombre": "Alta esponjosidad y presencia visual",
+      "marca": "Casas y Estilos Hotel",
+      "img": "/img/Edredones/edredon-pluma-imita-king.jpg",
+      "img2": "/img/Edredones/edredon-pluma-imita-king-2.jpg",
+      "precio_desde": 329.9,
+      "descripcion_corta": "Acabado blanco puro, extremadamente esponjoso.",
+      "descripcion": "Edredón con tacto y apariencia de plumón natural, pensado para presentaciones hoteleras que buscan impacto visual y confort. Su alto gramaje y acabado blanco puro lo hacen ideal en camas principales, con resistencia a lavados profesionales.",
+      "features": [
+        "Aspecto y tacto tipo plumón",
+        "Blanco puro para presentación hotelera",
+        "Gran volumen y presencia visual"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra premium",
+        "Relleno": "Imitación pluma 193 g/m²",
+        "Dimensión": "King (200 x 220 cm)",
+        "Recomendado": "Lavado industrial profesional"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Imitación pluma 140 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Imitación pluma 165 g/m²"
+        },
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Imitación pluma 193 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Hotelero"
+      ],
+      "tags": [
+        "blanco",
+        "plumón",
+        "king",
+        "hotelero"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-013",
+      "nombre": "Edredón Estampado Diseño - Algodón",
+      "subnombre": "Estampados exclusivos para ambientación moderna",
+      "marca": "Casas y Estilos Diseño",
+      "img": "/img/Edredones/edredon-estampado-2p.jpg",
+      "img2": "/img/Edredones/edredon-estampado-2p-2.jpg",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Estampados exclusivos para ambientación moderna.",
+      "descripcion": "Edredón en algodón con estampados de diseño exclusivos. La impresión digital de alta resistencia garantiza colores duraderos y una apariencia moderna, perfecto para proyectos decorativos y habitaciones con personalidad.",
+      "features": [
+        "Algodón 100% de tacto suave",
+        "Estampados exclusivos resistentes a lavados",
+        "Terminación de alta calidad en los bordes"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100%",
+        "Relleno": "Fibra hueca 68 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Impresión": "Digital resistente a lavados"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Algodón estampado, 55 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Algodón estampado, 62 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Algodón estampado, 68 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Estampado"
+      ],
+      "tags": [
+        "algodón",
+        "estampado",
+        "diseño"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-014",
+      "nombre": "Edredón Lana Merino",
+      "subnombre": "Regulación térmica natural",
+      "marca": "Casas y Estilos Natural",
+      "img": "/img/Edredones/edredon-lana-merino-15.jpg",
+      "img2": "/img/Edredones/edredon-lana-merino-15-2.jpg",
+      "precio_desde": 399.9,
+      "descripcion_corta": "Propiedades térmicas naturales y regulación de humedad.",
+      "descripcion": "Edredón con mezcla de lana merino que regula la temperatura y transporta la humedad de forma natural, aportando confort sin sobrecalentamiento. Ideal para quienes buscan materiales naturales de alta gama y una sensación premium.",
+      "features": [
+        "Mezcla con lana merino de alta calidad",
+        "Regulación natural de temperatura y humedad",
+        "Acabado premium y tacto natural"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla con lana merino",
+        "Relleno": "Lana merino 152 g/m²",
+        "Dimensión": "180 x 220 cm",
+        "Cuidado": "Lavado en seco recomendado o limpieza especializada"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Lana merino, 130 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Lana merino, 152 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Lana merino, 170 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Natural"
+      ],
+      "tags": [
+        "lana",
+        "merino",
+        "premium",
+        "natural"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-015",
+      "nombre": "Edredón Bemberg Transpirable",
+      "subnombre": "Forro Bemberg para sensación fresca",
+      "marca": "Casas y Estilos Premium",
+      "img": "/img/Edredones/edredon-bemberg-queen.jpg",
+      "img2": "/img/Edredones/edredon-bemberg-queen-2.jpg",
+      "precio_desde": 279.9,
+      "descripcion_corta": "Fibras naturales refrescantes — ideal para descanso premium.",
+      "descripcion": "Edredón con forro de Bemberg (viscosa) que aporta una sensación fresca y transpirable. Combinado con relleno equilibrado, resulta ideal para descanso premium en habitaciones exigentes. Terminaciones de alta gama y confección cuidada.",
+      "features": [
+        "Forro Bemberg transpirable y suave",
+        "Aislamiento equilibrado para confort nocturno",
+        "Terminaciones premium y costuras reforzadas"
+      ],
+      "specs": {
+        "Material exterior": "Bemberg (viscosa)",
+        "Relleno": "Fibra hueca 128 g/m²",
+        "Dimensión": "160 x 220 cm",
+        "Uso recomendado": "Descanso premium"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Bemberg, 120 g/m²"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Bemberg, 128 g/m²"
+        },
+        {
+          "model": "King",
+          "length": "200 x 240 cm",
+          "spec": "Bemberg, 150 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Premium"
+      ],
+      "tags": [
+        "bemberg",
+        "transpirable",
+        "queen",
+        "premium"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-016",
+      "nombre": "Edredón de Verano - Lino mezclado",
+      "subnombre": "Fresco y con caída natural",
+      "marca": "Casas y Estilos Verano",
+      "img": "/img/Edredones/edredon-lino-2p.jpg",
+      "img2": "/img/Edredones/edredon-lino-2p-2.jpg",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Fresco y con caída natural; look rústico y elegante.",
+      "descripcion": "Edredón ligero en mezcla de lino y algodón que aporta frescura y una caída natural. Ideal para climas cálidos y para ambientes que buscan una estética rústica y elegante. Material transpirable y de agradable tacto.",
+      "features": [
+        "Mezcla con lino para mayor frescura",
+        "Ligero, transpirable y con caída natural",
+        "Look rústico elegante y durable"
+      ],
+      "specs": {
+        "Material exterior": "Lino mezclado (algodón-lino)",
+        "Relleno": "Fibra ligera 45 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Cuidado": "Lavar en ciclo delicado"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Lino mezclado, 32 g/m²"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Lino mezclado, 36 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Lino mezclado, 45 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Verano"
+      ],
+      "tags": [
+        "lino",
+        "verano",
+        "natural"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-017",
+      "nombre": "Edredón Acolchado Minimal - Algodón",
+      "subnombre": "Diseño sobrio y costura canalé",
+      "marca": "Casas y Estilos Minimal",
+      "img": "/img/Edredones/edredon-minimal-1p.jpg",
+      "img2": "/img/Edredones/edredon-minimal-1p-2.jpg",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Diseño sobrio y costura tipo canalé para uso diario.",
+      "descripcion": "Edredón con estética minimalista, costura tipo canalé y tejido 100% algodón para un look limpio y funcional. Ideal para habitaciones modernas que priorizan la sencillez y la facilidad de mantenimiento.",
+      "features": [
+        "Algodón 100% de tacto natural",
+        "Costura tipo canalé para estética minimal",
+        "Fácil cuidado y lavado doméstico"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100%",
+        "Relleno": "Fibra hueca 71 g/m²",
+        "Dimensión": "160 x 220 cm",
+        "Estilo": "Minimal / sobrio"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Algodón, 71 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Algodón, 78 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Algodón, 78 g/m²"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Minimal"
+      ],
+      "tags": [
+        "algodón",
+        "minimal",
+        "canalé"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-018",
+      "nombre": "Edredón Luxury - Satén 300 hilos",
+      "subnombre": "Brillo y tacto sedoso",
+      "marca": "Casas y Estilos Luxury",
+      "img": "/img/Edredones/edredon-luxury-queen.jpg",
+      "img2": "/img/Edredones/edredon-luxury-queen-2.jpg",
+      "precio_desde": 459.9,
+      "descripcion_corta": "Brillo suave, tacto sedoso y confección de alta gama.",
+      "descripcion": "Edredón de alta gama con funda en satén 300 hilos, pensado para quienes buscan lujo y confort. Confección premium y relleno de alta densidad para ofrecer una experiencia tipo boutique en el dormitorio.",
+      "features": [
+        "Satén 300 hilos de alta calidad",
+        "Relleno de fibra premium de alto gramaje",
+        "Confección y terminaciones de lujo",
+        "Garantía extendida"
+      ],
+      "specs": {
+        "Material exterior": "Satén 300 hilos",
+        "Relleno": "Fibra de alta calidad 199 g/m²",
+        "Dimensión": "160 x 220 cm",
+        "Garantía": "12 meses"
+      },
+      "models": [
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Satén 300h, 786 g (199 g/m²)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Satén 300h, 700 g (199 g/m²)"
+        },
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Satén 300h, 875 g (199 g/m²)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Luxury"
+      ],
+      "tags": [
+        "satén",
+        "300 hilos",
+        "luxury"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-019",
+      "nombre": "Edredón Protector Impermeable",
+      "subnombre": "Protección discreta sin sacrificar confort",
+      "marca": "Casas y Estilos Protector",
+      "img": "/img/Edredones/edredon-protector-2p.jpg",
+      "img2": "/img/Edredones/edredon-protector-2p-2.jpg",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Capa inferior impermeable sin comprometer la transpirabilidad.",
+      "descripcion": "Edredón con capa inferior laminada (TPU) que protege contra líquidos y manchas sin sacrificar la transpirabilidad. Ideal para hogares con niños, mascotas o para quienes requieren una protección adicional sin renunciar al confort.",
+      "features": [
+        "Capa inferior impermeable discreta",
+        "Transpirable y cómoda",
+        "Fácil limpieza y mantenimiento"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra + laminado TPU inferior",
+        "Relleno": "68 g/m²",
+        "Protección": "Impermeable inferior, transpirable"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Impermeable inferior, 239 g (68 g/m²)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Impermeable inferior, 300 g (68 g/m²)"
+        },
+        {
+          "model": "Queen",
+          "length": "180 x 220 cm",
+          "spec": "Impermeable inferior, 272 g (68 g/m²)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Protección"
+      ],
+      "tags": [
+        "impermeable",
+        "protector",
+        "práctico"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-020",
+      "nombre": "Edredón Camping - Fibras Térmicas",
+      "subnombre": "Compactable y térmico para actividades outdoor",
+      "marca": "Casas y Estilos Outdoor",
+      "img": "/img/Edredones/edredon-camping-1p.jpg",
+      "img2": "/img/Edredones/edredon-camping-1p-2.jpg",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Ligero, compacto y con buena retención del calor.",
+      "descripcion": "Edredón pensado para actividades al aire libre: compacto, fácil de comprimir y con buen rendimiento térmico. Incluye bolsa de transporte y materiales resistentes al uso en exteriores. Ideal para camping, viajes y escapadas.",
+      "features": [
+        "Compactable y fácil de guardar",
+        "Ligero y cálido en relación peso/aislamiento",
+        "Bolsa de transporte incluida"
+      ],
+      "specs": {
+        "Material exterior": "Nylon resistente",
+        "Relleno": "78 g/m²",
+        "Extras": "Bolsa de transporte incluida"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Compactable, 250 g (78 g/m²)"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Compactable, 309 g (78 g/m²)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Compactable, 343 g (78 g/m²)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Compactable, 274 g (78 g/m²)"
+        },
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Compactable, 343 g (78 g/m²)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Outdoor"
+      ],
+      "tags": [
+        "camping",
+        "compacto",
+        "outdoor"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-021",
+      "nombre": "Edredón Matrimonial - Microfibra Antibacterial",
+      "subnombre": "Tratamiento antibacterial para mayor higiene",
+      "marca": "Casas y Estilos Salud",
+      "img": "/img/Edredones/edredon-antibacterial-2p.jpg",
+      "img2": "/img/Edredones/edredon-antibacterial-2p-2.jpg",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Tratamiento antibacterial y fácil lavado doméstico.",
+      "descripcion": "Edredón matrimonial con tratamiento antibacterial que ayuda a mantener una superficie de descanso más higiénica. Materiales pensados para un uso frecuente y para familias que priorizan la limpieza y el confort.",
+      "features": [
+        "Tratamiento antibacterial",
+        "Apto para lavadora doméstica",
+        "Tacto suave y seguro para pieles sensibles"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada",
+        "Relleno": "91 g/m²",
+        "Cuidado": "Lavado hasta 60°C"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Antibacterial, 291 g (91 g/m²)"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Antibacterial, 360 g (91 g/m²)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Antibacterial, 400 g (91 g/m²)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Antibacterial, 320 g (91 g/m²)"
+        },
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Antibacterial, 400 g (91 g/m²)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Salud"
+      ],
+      "tags": [
+        "antibacterial",
+        "matrimonial",
+        "higiénico"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-022",
+      "nombre": "Edredón King Size - Ultra Plush",
+      "subnombre": "Sensación peluche de alto volumen",
+      "marca": "Casas y Estilos Plush",
+      "img": "/img/Edredones/edredon-plush-king.jpg",
+      "img2": "/img/Edredones/edredon-plush-king-2.jpg",
+      "precio_desde": 399.9,
+      "descripcion_corta": "Máxima suavidad tipo peluche para habitaciones de alta gama.",
+      "descripcion": "Edredón ultra plush de gran volumen y suavidad, pensado para ofrecer una sensación tipo peluche muy agradable en camas king size. Confección premium y relleno de alta densidad para una experiencia lujosa.",
+      "features": [
+        "Ultra plush (efecto peluche) de alta densidad",
+        "Volumen alto y tacto excepcional",
+        "Acabado lujoso para ambientes exclusivos"
+      ],
+      "specs": {
+        "Material exterior": "Microplush ultra soft",
+        "Relleno": "227 g/m²",
+        "Uso recomendado": "Habitaciones de alta gama"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Ultra Plush, 227 g/m² (~727 g total)"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Ultra Plush, 227 g/m² (~899 g total)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Ultra Plush, 227 g/m² (~1000 g total)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Ultra Plush, 227 g/m² (~799 g total)"
+        },
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Ultra Plush, 227 g/m² (~1000 g total)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Lujo"
+      ],
+      "tags": [
+        "plush",
+        "king",
+        "lujo"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-023",
+      "nombre": "Edredón Eco - Tela Bramante Reciclada",
+      "subnombre": "Sostenible y resistente",
+      "marca": "Casas y Estilos Eco",
+      "img": "/img/Edredones/edredon-eco-2p.jpg",
+      "img2": "/img/Edredones/edredon-eco-2p-2.jpg",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Sostenible, con textura rústica y resistente.",
+      "descripcion": "Edredón fabricado con tela bramante reciclada pensada para consumidores conscientes. Ofrece una textura rústica, estética natural y buena durabilidad. Ideal para proyectos sostenibles y clientes que buscan reducir su huella.",
+      "features": [
+        "Tela bramante reciclada",
+        "Sostenible y resistente",
+        "Apariencia rústica y natural"
+      ],
+      "specs": {
+        "Material exterior": "Tela bramante reciclada",
+        "Relleno": "91 g/m²",
+        "Certificación": "Material reciclado (según lote)"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Bramante reciclado, 91 g/m² (~291 g total)"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Bramante reciclado, 91 g/m² (~360 g total)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Bramante reciclado, 91 g/m² (~400 g total)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Bramante reciclado, 91 g/m² (~320 g total)"
+        },
+        {
+          "model": "King",
+          "length": "200 x 220 cm",
+          "spec": "Bramante reciclado, 91 g/m² (~400 g total)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Eco"
+      ],
+      "tags": [
+        "eco",
+        "bramante",
+        "reciclado"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-024",
+      "nombre": "Edredón Infantil - Diseño Animales",
+      "subnombre": "Colores y estampados seguros para niños",
+      "marca": "Casas y Estilos Kids",
+      "img": "/img/Edredones/edredon-infantil-1p.jpg",
+      "img2": "/img/Edredones/edredon-infantil-1p-2.jpg",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Colores y estampados seguros para niños, lavable a máquina.",
+      "descripcion": "Edredón infantil con estampados de animales, tintas no tóxicas y tejidos suaves apropiados para pieles sensibles. Diseñado para soportar lavados frecuentes y el uso diario de los más pequeños.",
+      "features": [
+        "Estampados infantiles seguros",
+        "Tejido suave para piel sensible",
+        "Lavable a máquina y resistente"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra / algodón",
+        "Relleno": "113 g/m²",
+        "Dimensión": "160 x 220 cm",
+        "Seguridad": "Tinta no tóxica y certificada"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Infantil, 113 g/m² (~250 g total)"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 220 cm",
+          "spec": "Infantil, 113 g/m² (~315 g total)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Infantil, 113 g/m² (~400 g total)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Infantil"
+      ],
+      "tags": [
+        "infantil",
+        "estampado",
+        "seguro"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-025",
+      "nombre": "Edredón Matrimonial Deluxe - Dobby",
+      "subnombre": "Relieve sutil y acabado premium",
+      "marca": "Casas y Estilos Deluxe",
+      "img": "/img/Edredones/edredon-dobby-2p.jpg",
+      "img2": "/img/Edredones/edredon-dobby-2p-2.jpg",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Tejido dobby con relieve sutil y acabado premium.",
+      "descripcion": "Edredón matrimonial con tejido dobby que aporta relieve y textura sutil. Acabados premium y resistencia para uso diario, pensado para quienes quieren un detalle estético sin perder funcionalidad.",
+      "features": [
+        "Tejido dobby con relieve",
+        "Acabado premium y tacto suave",
+        "Resistente al uso diario"
+      ],
+      "specs": {
+        "Material exterior": "Dobby (mezcla)",
+        "Relleno": "227 g/m²",
+        "Dimensión": "200 x 220 cm",
+        "Cuidado": "Lavado delicado"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Dobby, 227 g/m² (~450 g total)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Dobby, 227 g/m² (~500 g total)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Dobby, 227 g/m² (~480 g total)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Deluxe"
+      ],
+      "tags": [
+        "dobby",
+        "matrimonial",
+        "deluxe"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-026",
+      "nombre": "Pack Edredón + Funda Acolchada",
+      "subnombre": "Solución práctica coordinada",
+      "marca": "Casas y Estilos Pack",
+      "img": "/img/Edredones/edredon-pack-2p.jpg",
+      "img2": "/img/Edredones/edredon-pack-2p-2.jpg",
+      "precio_desde": 249.9,
+      "descripcion_corta": "Incluye funda con cierre y edredón acolchado a juego.",
+      "descripcion": "Pack que incluye edredón acolchado y funda a juego con cierre oculto. Solución práctica para renovar la cama con juego coordinado, con acabados pensados para facilitar la colocación y lavado.",
+      "features": [
+        "Pack completo: edredón + funda acolchada",
+        "Funda con cierre oculto para fácil lavado",
+        "Coordinado de diseño disponible en varios colores"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra / algodón (según color)",
+        "Relleno": "227 g/m²",
+        "Dimensión": "200 x 220 cm (pack 2 plazas)",
+        "Contenido": "Edredón + 1 funda acolchada"
+      },
+      "models": [
+        {
+          "model": "Pack 1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Edredón + funda, 227 g/m² (~450 g total)"
+        },
+        {
+          "model": "Pack 2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Edredón + funda, 227 g/m² (~500 g total)"
+        },
+        {
+          "model": "Pack Queen",
+          "length": "160 x 220 cm",
+          "spec": "Edredón + funda, 227 g/m² (~480 g total)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Pack"
+      ],
+      "tags": [
+        "pack",
+        "funda",
+        "acompañado"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "edredones-producto-027",
+      "nombre": "Edredón Boutique - Bordado Artesanal",
+      "subnombre": "Piezas únicas con bordados hechos a mano",
+      "marca": "Casas y Estilos Boutique",
+      "img": "/img/Edredones/edredon-boutique-queen.jpg",
+      "img2": "/img/Edredones/edredon-boutique-queen-2.jpg",
+      "precio_desde": 599.9,
+      "descripcion_corta": "Bordados artesanales y acabados premium en edición limitada.",
+      "descripcion": "Edredón boutique con bordados artesanales realizados por talleres asociados. Piezas de edición limitada pensadas para proyectos boutique y contract que requieren detalles únicos y alta calidad en la confección.",
+      "features": [
+        "Bordado artesanal de alta calidad",
+        "Edición limitada y piezas numeradas",
+        "Acabados premium y confección cuidada"
+      ],
+      "specs": {
+        "Material exterior": "Algodón / satén (según diseño)",
+        "Relleno": "273 g/m²",
+        "Dimensión": "160 x 220 cm (Queen)",
+        "Origen": "Confección artesanal local"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 200 cm",
+          "spec": "Bordado artesanal, 273 g/m² (~546 g total)"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 220 cm",
+          "spec": "Bordado artesanal, 273 g/m² (~600 g total)"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 220 cm",
+          "spec": "Bordado artesanal, 273 g/m² (~720 g total)"
+        }
+      ],
+      "categorias": [
+        "Edredones",
+        "Boutique"
+      ],
+      "tags": [
+        "bordado",
+        "artesanal",
+        "boutique"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

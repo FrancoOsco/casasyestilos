@@ -1,0 +1,1226 @@
+{
+  "SALIDAS_DE_BANO": [
+    {
+      "id": "Salidas-producto-001",
+      "nombre": "Bata Hotelera - Felpa 1 plaza",
+      "subnombre": "Felpa 400 g/m² — Uso post-ducha",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Felpa 400 g/m², alta absorción y secado eficiente.",
+      "descripcion": "Bata de felpa diseñada para uso post-ducha en entornos hoteleros y domésticos. Con gramaje de 400 g/m² que ofrece buena capacidad de absorción sin perder ligereza. Costuras reforzadas y acabado que soporta lavados frecuentes; ideal para huéspedes y uso diario.",
+      "features": [
+        "Felpa 400 g/m²",
+        "Alta absorción",
+        "Costuras reforzadas",
+        "Cinturón interior",
+        "Lavable a máquina"
+      ],
+      "specs": {
+        "Material exterior": "Felpa 100% algodón",
+        "Gramaje": "400 g/m²",
+        "Dimensión standard": "S - XL (según talla)",
+        "Peso aproximado": "600 g (talla M)",
+        "Uso recomendado": "Post-ducha, hotelería, hogar",
+        "Lavado": "Lavado a máquina 40°C; secado a temperatura media",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        { "model": "S", "length": "Según talla", "spec": "Felpa 400 g/m²" },
+        { "model": "M", "length": "Según talla", "spec": "Felpa 400 g/m²" },
+        { "model": "L", "length": "Según talla", "spec": "Felpa 400 g/m²" }
+      ],
+      "categorias": ["Salidas de Baño", "Batas", "Baño"],
+      "tags": ["felpa", "absorbente", "hotelero", "bata"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-002",
+      "nombre": "Bata Hotelera - Felpa 2 plazas",
+      "subnombre": "Versión matrimonial — mayor cobertura",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Mayor cobertura para camas matrimoniales, bolsillos prácticos.",
+      "descripcion": "Bata matrimonial en felpa de alta densidad pensada para ofrecer mayor cobertura y confort. Diseño con bolsillos y cinturón interior, acabados resistentes al desgaste y facilidad de lavado industrial o doméstico.",
+      "features": [
+        "Felpa de alta densidad",
+        "Bolsillos prácticos",
+        "Cinturón interior",
+        "Ajuste confortable"
+      ],
+      "specs": {
+        "Material exterior": "Felpa 100% algodón",
+        "Gramaje": "450 g/m²",
+        "Dimensión standard": "Matrimonial (L-XL)",
+        "Peso aproximado": "900 g (aprox.)",
+        "Uso recomendado": "Suites, habitaciones matrimoniales",
+        "Lavado": "Lavado a máquina 40°C; secado moderado",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [{ "model": "2 plazas", "length": "Según talla", "spec": "Felpa 450 g/m²" }],
+      "categorias": ["Salidas de Baño", "Batas", "Hotelero"],
+      "tags": ["felpa", "2p", "matrimonial", "bolsillos"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-003",
+      "nombre": "Bata con Capucha - Felpa",
+      "subnombre": "Capucha integrada para mayor abrigo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Capucha integrada, ideal para secado de cabeza y abrigo.",
+      "descripcion": "Bata con capucha fabricada en felpa absorbente con acabado suave al tacto. La capucha ofrece protección adicional contra el frío al salir de la ducha y facilita el secado del cabello; ideal para spas y hoteles.",
+      "features": [
+        "Capucha integrada",
+        "Felpa absorbente",
+        "Costuras reforzadas",
+        "Aislamiento térmico moderado"
+      ],
+      "specs": {
+        "Material exterior": "Felpa 100% algodón",
+        "Gramaje": "420 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "700 g",
+        "Uso recomendado": "Post-ducha, spa",
+        "Lavado": "Lavado a máquina 40°C; evitar blanqueadores",
+        "Color disponible": "Blanco, gris claro"
+      },
+      "models": [
+        { "model": "Con capucha", "length": "Según talla", "spec": "Capucha integrada y cinturón" }
+      ],
+      "categorias": ["Salidas de Baño", "Batas", "Spa"],
+      "tags": ["capucha", "felpa", "spa"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-004",
+      "nombre": "Bata Infantil - Felpa Suave",
+      "subnombre": "Diseño seguro para niños",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Tejido suave y corte seguro para las primeras salidas del baño.",
+      "descripcion": "Bata infantil confeccionada en felpa de tacto suave, con costuras planas para evitar rozaduras. Botones o cierre con velcro según modelo para mayor seguridad y fácil colocación por los padres.",
+      "features": [
+        "Felpa suave para piel sensible",
+        "Cierres seguros",
+        "Fácil lavado",
+        "Diseños infantiles"
+      ],
+      "specs": {
+        "Material exterior": "Felpa algodón / mezcla",
+        "Gramaje": "300–350 g/m²",
+        "Dimensión standard": "Talles 0–8 años",
+        "Peso aproximado": "200–350 g",
+        "Uso recomendado": "Niños y bebés tras el baño",
+        "Lavado": "Lavado a máquina 30–40°C; secado natural",
+        "Color disponible": "Blanco, rosa, celeste"
+      },
+      "models": [
+        { "model": "0-2 años", "length": "Según talla", "spec": "Felpa suave y cierre seguro" }
+      ],
+      "categorias": ["Salidas de Baño", "Infantil", "Batas"],
+      "tags": ["infantil", "felpa", "seguro"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-005",
+      "nombre": "Bata Spa - Microfibra Premium",
+      "subnombre": "Ligera y de tacto suave, ideal para tratamientos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Microfibra de alta calidad pensada para spas y centros wellness.",
+      "descripcion": "Bata de microfibra premium, ligera y de secado rápido. Ofrece sensación suave al contacto y es especialmente útil en ambientes SPA donde se valora ligereza y facilidad de mantenimiento.",
+      "features": ["Microfibra premium", "Secado rápido", "Tacto suave", "Ligera y compacta"],
+      "specs": {
+        "Material exterior": "Microfibra 100%",
+        "Gramaje": "180–220 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "300–450 g",
+        "Uso recomendado": "Spas, tratamientos, hoteles",
+        "Lavado": "Lavado a máquina 30–40°C; secado rápido",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [{ "model": "Spa", "length": "Según talla", "spec": "Microfibra premium" }],
+      "categorias": ["Salidas de Baño", "Spa", "Microfibra"],
+      "tags": ["microfibra", "spa", "ligera"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-006",
+      "nombre": "Bata Secado Rápido - Microfibra",
+      "subnombre": "Tecnología que acelera el secado y reduce peso",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Microfibra de secado rápido, ideal para uso frecuente.",
+      "descripcion": "Bata desarrollada con fibras que favorecen la evaporación, reduciendo tiempos de secado y peso. Perfecta para alojamientos que requieren rotación rápida y para viajes.",
+      "features": ["Secado rápido", "Ligera", "Fácil almacenamiento", "Resistente al desgaste"],
+      "specs": {
+        "Material exterior": "Microfibra técnica",
+        "Gramaje": "160–200 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "250–400 g",
+        "Uso recomendado": "Hoteles con alta rotación, viajes",
+        "Lavado": "Lavado suave; secado rápido",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        { "model": "Secado Rápido", "length": "Según talla", "spec": "Microfibra técnica" }
+      ],
+      "categorias": ["Salidas de Baño", "Microfibra", "Viaje"],
+      "tags": ["secado rápido", "microfibra", "ligera"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-007",
+      "nombre": "Bata Rizo Premium - Algodón",
+      "subnombre": "Rizo de alta densidad — sensación de lujo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Rizo premium con excelente capacidad de absorción y tacto superior.",
+      "descripcion": "Bata confeccionada en rizo de algodón de alta densidad; aporta sensación de lujo y confort. Ideal para clientes que buscan un acabado más refinado tras la ducha o para ofrecer en suites premium.",
+      "features": [
+        "Rizo algodón alta densidad",
+        "Tacto suave premium",
+        "Buena absorción",
+        "Acabado duradero"
+      ],
+      "specs": {
+        "Material exterior": "Algodón rizo 100%",
+        "Gramaje": "500–600 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "800–1000 g",
+        "Uso recomendado": "Suites, clientes premium",
+        "Lavado": "Lavado a máquina 40°C; secado moderado",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [{ "model": "Premium", "length": "Según talla", "spec": "Rizo de alta densidad" }],
+      "categorias": ["Salidas de Baño", "Premium", "Algodón"],
+      "tags": ["rizo", "algodón", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-008",
+      "nombre": "Bata Hotelera Blanca - King",
+      "subnombre": "Acabado blanco puro — confección robusta",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 189.9,
+      "descripcion_corta": "Bata king con acabado blanco puro, ideal para suites de alto estándar.",
+      "descripcion": "Bata tamaño king fabricada con materiales resistentes y acabado blanco inmaculado. Pensada para alojamientos que buscan una presentación uniforme y duradera para huéspedes exigentes.",
+      "features": [
+        "Talla King",
+        "Acabado blanco puro",
+        "Costura reforzada",
+        "Apto para lavados industriales"
+      ],
+      "specs": {
+        "Material exterior": "Algodón rizo / mezcla resistente",
+        "Gramaje": "520 g/m²",
+        "Dimensión standard": "King",
+        "Peso aproximado": "1.1 kg",
+        "Uso recomendado": "Suites y hoteles premium",
+        "Lavado": "Lavado industrial recomendado; secado controlado",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "Según especificación",
+          "spec": "Talla extra y acabado premium"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Hotelero", "King"],
+      "tags": ["king", "hotelero", "blanco"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-009",
+      "nombre": "Bata con Cierre - Zip",
+      "subnombre": "Cierre frontal para acceso rápido",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Cierre frontal para mayor practicidad y ajuste seguro.",
+      "descripcion": "Bata con cierre frontal (zip) pensada para entornos donde la rapidez de acceso y la seguridad son necesarias, como spas o servicios terapéuticos. Cremallera resistente y tapeta interior para confort.",
+      "features": [
+        "Cremallera frontal",
+        "Tapeta interior",
+        "Costuras reforzadas",
+        "Fácil colocación"
+      ],
+      "specs": {
+        "Material exterior": "Felpa / mezcla según modelo",
+        "Gramaje": "400 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "650 g",
+        "Uso recomendado": "Spas, terapias, hoteles",
+        "Lavado": "Lavado a máquina 40°C; cerrar cremallera antes de lavar",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        { "model": "Con zip", "length": "Según talla", "spec": "Cremallera frontal robusta" }
+      ],
+      "categorias": ["Salidas de Baño", "Funcional", "Batas"],
+      "tags": ["zip", "cremallera", "funcional"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-010",
+      "nombre": "Bata Ligera - Algodón",
+      "subnombre": "Algodón ligero — uso en climas templados",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Algodón transpirable para climas cálidos y uso diario.",
+      "descripcion": "Bata ligera confeccionada en algodón de peso reducido para quienes prefieren una prenda más fresca tras el baño. Buena transpirabilidad y fácil mantenimiento; ideal para climas templados y temporadas cálidas.",
+      "features": ["Algodón ligero", "Transpirable", "Fácil lavado", "Corte fresco"],
+      "specs": {
+        "Material exterior": "Algodón 100%",
+        "Gramaje": "200–250 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "350–450 g",
+        "Uso recomendado": "Climas cálidos y uso diario",
+        "Lavado": "Lavado a máquina 40°C; secado natural recomendado",
+        "Color disponible": "Blanco, colores claros"
+      },
+      "models": [{ "model": "Ligera", "length": "Según talla", "spec": "Algodón transpirable" }],
+      "categorias": ["Salidas de Baño", "Algodón", "Ligera"],
+      "tags": ["algodón", "ligera", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-011",
+      "nombre": "Kimono Largo - Salida de Baño",
+      "subnombre": "Túnica estilo kimono para post-ducha",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Kimono largo, caída elegante y cómodo para el hogar y el spa.",
+      "descripcion": "Kimono largo de tejido ligero que aporta un look más cuidado tras la ducha. Corte amplio para movilidad, ideal para uso en spa o en el hogar cuando se busca una pieza más estilizada.",
+      "features": ["Corte kimono", "Tejido ligero", "Caída elegante", "Uso versátil"],
+      "specs": {
+        "Material exterior": "Viscosa / mezcla ligera",
+        "Gramaje": "120–160 g/m²",
+        "Dimensión standard": "Única / S-XL según modelo",
+        "Peso aproximado": "250–400 g",
+        "Uso recomendado": "Spa, hogar, salida post-ducha",
+        "Lavado": "Lavado delicado; secado a la sombra",
+        "Color disponible": "Blanco, estampados suaves"
+      },
+      "models": [
+        { "model": "Kimono largo", "length": "MIDI - LARGO", "spec": "Túnica de caída amplia" }
+      ],
+      "categorias": ["Salidas de Baño", "Kimonos", "Spa"],
+      "tags": ["kimono", "túnica", "elegante"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-012",
+      "nombre": "Kimono Corto - Playa y Baño",
+      "subnombre": "Corte corto, ligero y cómodo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Kimono corto versátil para post-ducha y uso en piscina.",
+      "descripcion": "Kimono corto de tejido transpirable y corte práctico. Perfecto para clientes que buscan una salida ligera tras la ducha o para complementar el uso en áreas húmedas sin abrumar.",
+      "features": ["Corte corto", "Ligero y transpirable", "Fácil secado", "Versátil"],
+      "specs": {
+        "Material exterior": "Viscosa / mezcla ligera",
+        "Gramaje": "120–150 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "200–350 g",
+        "Uso recomendado": "Piscina, ducha, spa",
+        "Lavado": "Lavado delicado; secar a la sombra",
+        "Color disponible": "Blanco, estampados"
+      },
+      "models": [{ "model": "Corto", "length": "CORTO", "spec": "Kimono corto y versátil" }],
+      "categorias": ["Salidas de Baño", "Kimonos", "Ligera"],
+      "tags": ["kimono", "corto", "versátil"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-013",
+      "nombre": "Pareo / Túnica - Multiuso",
+      "subnombre": "Pareo convertible para salida ligera",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Pareo convertible que funciona como salida ligera tras la ducha.",
+      "descripcion": "Pareo multiuso confeccionado en telas de rápida absorción y secado. Se puede anudar o ajustar según preferencia, siendo una alternativa económica y práctica para reposiciones rápidas.",
+      "features": ["Convertible y ajustable", "Ligero", "Secado rápido", "Uso múltiple"],
+      "specs": {
+        "Material exterior": "Algodón ligero / mezcla",
+        "Gramaje": "120–180 g/m²",
+        "Dimensión standard": "Único ajustable",
+        "Peso aproximado": "200 g",
+        "Uso recomendado": "Salida rápida post-ducha, piscina",
+        "Lavado": "Lavado a máquina 30–40°C",
+        "Color disponible": "Estampados y colores sólidos"
+      },
+      "models": [{ "model": "Convertible", "length": "Único ajustable", "spec": "Pareo multiuso" }],
+      "categorias": ["Salidas de Baño", "Pareos", "Multiuso"],
+      "tags": ["pareo", "multiuso", "ajustable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-014",
+      "nombre": "Bata Impermeable - Revestimiento Técnico",
+      "subnombre": "Capa externa repelente al agua",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Revestimiento repelente al agua — ideal para duchas exteriores y zonas húmedas.",
+      "descripcion": "Bata con tratamiento repelente que evita la absorción superficial de agua, pensada para duchas exteriores o ambientes con humedad elevada. Mantiene ligereza y facilita el mantenimiento.",
+      "features": ["Tratamiento repelente", "Ligera", "Uso en exteriores", "Fácil higiene"],
+      "specs": {
+        "Material exterior": "Poliéster con recubrimiento técnico",
+        "Gramaje": "200–260 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "500 g",
+        "Uso recomendado": "Duchas exteriores, piscinas",
+        "Lavado": "Limpiar con paño húmedo o lavado suave",
+        "Color disponible": "Gris, azul marino"
+      },
+      "models": [
+        {
+          "model": "Impermeable",
+          "length": "Según talla",
+          "spec": "Recubrimiento repelente al agua"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Técnico", "Impermeable"],
+      "tags": ["repelente", "impermeable", "técnico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-015",
+      "nombre": "Bata Sherpa - Térmica",
+      "subnombre": "Forro sherpa para máxima calidez",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Interior tipo sherpa para mayor abrigo en climas fríos.",
+      "descripcion": "Bata con forro sherpa diseñada para proporcionar máxima calidez tras la ducha en climas fríos. Combinación de felpa exterior y borrego interior para confort térmico prolongado.",
+      "features": ["Forro sherpa", "Alta retención térmica", "Acabado suave", "Diseño envolvente"],
+      "specs": {
+        "Material exterior": "Felpa + forro sherpa",
+        "Gramaje": "600–800 g/m² combinado",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "1.2 kg",
+        "Uso recomendado": "Climas fríos, post-ducha",
+        "Lavado": "Lavado suave; evitar altas temperaturas",
+        "Color disponible": "Beige, gris"
+      },
+      "models": [
+        { "model": "Sherpa", "length": "Según talla", "spec": "Forro interior tipo borrego" }
+      ],
+      "categorias": ["Salidas de Baño", "Térmico", "Sherpa"],
+      "tags": ["sherpa", "térmico", "abrigo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-016",
+      "nombre": "Bata Antibacterial - Tratamiento Técnico",
+      "subnombre": "Acabado antibacteriano para mayor higiene",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Tratamiento antibacteriano para entornos sensibles.",
+      "descripcion": "Bata con tratamiento antibacteriano ideal para entornos sanitarios o para clientes que buscan mayor higiene post-ducha. El acabado limita la proliferación de microbios y facilita el mantenimiento.",
+      "features": [
+        "Tratamiento antibacteriano",
+        "Fácil higiene",
+        "Diseño para uso sensible",
+        "Durabilidad del acabado"
+      ],
+      "specs": {
+        "Material exterior": "Algodón tratado / mezcla técnica",
+        "Gramaje": "420 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "700 g",
+        "Uso recomendado": "Entornos sanitarios, hotelería",
+        "Lavado": "Lavado conforme a instrucciones del tratamiento",
+        "Color disponible": "Blanco, beige"
+      },
+      "models": [
+        {
+          "model": "Antibacterial",
+          "length": "Según talla",
+          "spec": "Tratamiento técnico antibacteriano"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Técnico", "Higiene"],
+      "tags": ["antibacterial", "higiene", "tratamiento"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-017",
+      "nombre": "Bata con Bolsillos - Funcional",
+      "subnombre": "Bolsillos discretos y cinturón interior",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 109.9,
+      "descripcion_corta": "Bolsillos prácticos y diseño pensado en la funcionalidad diaria.",
+      "descripcion": "Bata funcional con bolsillos discretos y cinturón interior para ajuste seguro. Perfecta para uso en habitaciones o en entornos donde se requiere portar pequeños objetos con comodidad.",
+      "features": [
+        "Bolsillos frontales",
+        "Cinturón interior",
+        "Costuras reforzadas",
+        "Corte práctico"
+      ],
+      "specs": {
+        "Material exterior": "Felpa / mezcla",
+        "Gramaje": "400 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "650 g",
+        "Uso recomendado": "Hotel, hogar, spa",
+        "Lavado": "Lavado a máquina 40°C",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "Con bolsillos",
+          "length": "Según talla",
+          "spec": "Bolsillos y cinturón interior"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Funcional", "Batas"],
+      "tags": ["bolsillos", "funcional", "práctico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-018",
+      "nombre": "Pack Hotelero - 2 Batas",
+      "subnombre": "Pack económico para alojamientos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Pack de 2 batas pensado para reposición en alojamientos.",
+      "descripcion": "Pack de dos unidades con calidad hotelera, pensado para minimizar costos por unidad en proyectos o alojamientos con alta rotación. Consistencia en acabado y facilidad de lavado industrial.",
+      "features": [
+        "Pack 2 unidades",
+        "Calidad hotelera",
+        "Relación precio / unidad",
+        "Fácil mantenimiento"
+      ],
+      "specs": {
+        "Contenido": "2 batas estándar",
+        "Material exterior": "Felpa algodón / mezcla",
+        "Dimensión standard": "S - XL (según pack)",
+        "Uso recomendado": "Hostales, hoteles, proyectos",
+        "Lavado": "Lavado industrial compatible",
+        "Color disponible": "Blanco"
+      },
+      "models": [{ "model": "Pack 2", "length": "2 unidades", "spec": "Pack para reposición" }],
+      "categorias": ["Salidas de Baño", "Pack", "Hotelero"],
+      "tags": ["pack", "hotelero", "2 unidades"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-019",
+      "nombre": "Bata Premium - Algodón Egipcio",
+      "subnombre": "Tacto excepcional y durabilidad superior",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 229.9,
+      "descripcion_corta": "Algodón egipcio para un tacto y durabilidad superiores.",
+      "descripcion": "Bata premium confeccionada con algodón egipcio de alta calidad; ofrece un tacto excepcional y mayor resistencia al uso prolongado. Indicada para presentaciones boutique y clientes exigentes.",
+      "features": [
+        "Algodón egipcio",
+        "Tacto extra suave",
+        "Durabilidad superior",
+        "Acabado premium"
+      ],
+      "specs": {
+        "Material exterior": "Algodón egipcio 100%",
+        "Gramaje": "480–520 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "900–1100 g",
+        "Uso recomendado": "Boutique, suites premium",
+        "Lavado": "Lavado suave; secado controlado",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        { "model": "Premium", "length": "Según talla", "spec": "Algodón egipcio, acabado superior" }
+      ],
+      "categorias": ["Salidas de Baño", "Premium", "Algodón Egipcio"],
+      "tags": ["premium", "algodón egipcio", "boutique"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-020",
+      "nombre": "Bata Hooded Plush - Capucha Borrego",
+      "subnombre": "Felpa exterior + borrego interior",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Combinación felpa + borrego interior para máximo abrigo.",
+      "descripcion": "Bata acolchada con forro tipo borrego que ofrece abrigo extra en salidas de ducha en climas fríos. Ideal para clientes que buscan confort térmico sin renunciar al acabado suave.",
+      "features": ["Forro borrego", "Felpa exterior", "Capucha amplia", "Aislamiento térmico"],
+      "specs": {
+        "Material exterior": "Felpa + forro borrego",
+        "Gramaje": "650–800 g/m² combinado",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "1.0–1.3 kg",
+        "Uso recomendado": "Climas fríos, post-ducha",
+        "Lavado": "Lavado suave; recomendaciones especiales para forro",
+        "Color disponible": "Beige, marfil, gris"
+      },
+      "models": [
+        { "model": "Hooded Plush", "length": "Según talla", "spec": "Forro borrego y capucha" }
+      ],
+      "categorias": ["Salidas de Baño", "Térmico", "Hooded"],
+      "tags": ["borrego", "hooded", "térmico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-021",
+      "nombre": "Bata Eco - Algodón Reciclado",
+      "subnombre": "Alternativa sostenible con buena absorción",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Algodón reciclado con buen desempeño de absorción y menor huella.",
+      "descripcion": "Bata fabricada con algodón reciclado que combina sostenibilidad y funcionalidad. Mantiene buena capacidad de absorción y es una opción responsable para proyectos conscientes con el medio ambiente.",
+      "features": ["Algodón reciclado", "Sostenible", "Buena absorción", "Acabado resistente"],
+      "specs": {
+        "Material exterior": "Algodón reciclado 100% / mezcla",
+        "Gramaje": "400–480 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "700–900 g",
+        "Uso recomendado": "Proyectos sostenibles, hotelería responsable",
+        "Lavado": "Lavado a máquina 40°C; seguir instrucciones",
+        "Color disponible": "Tonos naturales"
+      },
+      "models": [{ "model": "Eco", "length": "Según talla", "spec": "Algodón reciclado" }],
+      "categorias": ["Salidas de Baño", "Eco", "Sostenible"],
+      "tags": ["eco", "reciclado", "sostenible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-022",
+      "nombre": "Bata Secado Express - Microperforada",
+      "subnombre": "Estructura microperforada para evaporación rápida",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Microperforada para evaporación rápida y menor peso.",
+      "descripcion": "Bata con tejido microperforado que facilita la evaporación del agua, reduciendo el tiempo de secado y el peso de la prenda. Pensada para rotación frecuente y para clientes que prefieren ligereza.",
+      "features": ["Microperforada", "Secado rápido", "Ligera", "Bajo peso"],
+      "specs": {
+        "Material exterior": "Microfibra microperforada",
+        "Gramaje": "140–180 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "220–350 g",
+        "Uso recomendado": "Hoteles con alta rotación, viajes",
+        "Lavado": "Lavado suave; secado rápido",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "Secado Express",
+          "length": "Según talla",
+          "spec": "Microperforada para evaporación"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Secado Rápido", "Microperforada"],
+      "tags": ["microperforada", "express", "ligera"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-023",
+      "nombre": "Bata Midi - Largo Medio",
+      "subnombre": "Largo midi para libertad de movimiento",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Largo midi que combina comodidad y practicidad tras la ducha.",
+      "descripcion": "Bata de largo medio (midi) que ofrece un equilibrio entre cobertura y libertad de movimiento. Ideal para uso doméstico y para clientes que prefieren una prenda menos larga que la tradicional.",
+      "features": [
+        "Largo midi",
+        "Facilidad de movimiento",
+        "Cinturón interior",
+        "Bolsillos opcionales"
+      ],
+      "specs": {
+        "Material exterior": "Felpa / mezcla",
+        "Gramaje": "380–420 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "600–800 g",
+        "Uso recomendado": "Hogar, hotelería",
+        "Lavado": "Lavado a máquina 40°C",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "Midi",
+          "length": "Hasta la pantorrilla aprox.",
+          "spec": "Largo medio funcional"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Midi", "Confort"],
+      "tags": ["midi", "largo medio", "comodidad"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-024",
+      "nombre": "Bata Hipoalergénica - Antiácaros",
+      "subnombre": "Tratamiento antiácaros para máxima higiene",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Acabado antiácaros, ideal para habitaciones sensibles.",
+      "descripcion": "Bata con acabado antiácaros recomendada para clientes con sensibilidad al polvo o para alojamientos que priorizan higiene adicional. Tratamiento duradero y tacto suave.",
+      "features": [
+        "Tratamiento antiácaros",
+        "Apto para piel sensible",
+        "Fácil limpieza",
+        "Acabado duradero"
+      ],
+      "specs": {
+        "Material exterior": "Algodón tratado / mezcla",
+        "Gramaje": "420 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "700 g",
+        "Uso recomendado": "Habitaciones sensibles, hotelería",
+        "Lavado": "Lavado conforme a instrucciones del tratamiento",
+        "Color disponible": "Blanco, beige"
+      },
+      "models": [
+        { "model": "Hipoalergénica", "length": "Según talla", "spec": "Tratamiento antiácaros" }
+      ],
+      "categorias": ["Salidas de Baño", "Salud", "Hipoalergénico"],
+      "tags": ["antiácaros", "hipoalergénico", "higiene"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-025",
+      "nombre": "Bata Boutique - Bordado Artesanal",
+      "subnombre": "Detalle bordado para colección boutique",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 299.9,
+      "descripcion_corta": "Piezas con bordado artesanal para colecciones y regalos.",
+      "descripcion": "Bata de edición boutique con bordados y acabados manuales. Pensada para gift sets, tiendas especializadas y colecciones limitadas que requieren un extra de detalle y estética.",
+      "features": ["Bordado artesanal", "Acabado premium", "Edición limitada", "Ideal para regalo"],
+      "specs": {
+        "Material exterior": "Algodón premium / mezcla",
+        "Gramaje": "450–520 g/m²",
+        "Dimensión standard": "S - XL",
+        "Peso aproximado": "800–1000 g",
+        "Uso recomendado": "Boutiques, regalos, ediciones especiales",
+        "Lavado": "Lavado delicado; recomendaciones para bordados",
+        "Color disponible": "Blanco, marfil, colores especiales"
+      },
+      "models": [
+        {
+          "model": "Boutique",
+          "length": "Según talla",
+          "spec": "Bordado artesanal y acabado premium"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "Boutique", "Bordado"],
+      "tags": ["bordado", "boutique", "regalo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-026",
+      "nombre": "Pack Económico - 3 Batas",
+      "subnombre": "Solución por volumen para proyectos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Pack de 3 unidades para reposición rápida en alojamientos.",
+      "descripcion": "Pack económico que incluye tres batas estándar, ideal para hostales o proyectos con presupuesto ajustado. Buena relación precio-calidad y facilidad de instalación y lavado.",
+      "features": [
+        "Pack 3 unidades",
+        "Precio optimizado",
+        "Fácil mantenimiento",
+        "Apto para reposición"
+      ],
+      "specs": {
+        "Contenido": "3 batas estándar",
+        "Material exterior": "Felpa / mezcla",
+        "Dimensión standard": "S - XL (según pack)",
+        "Uso recomendado": "Proyectos, hostales",
+        "Lavado": "Lavado a máquina 40°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [{ "model": "Pack 3", "length": "3 unidades", "spec": "Pack económico" }],
+      "categorias": ["Salidas de Baño", "Pack", "Económico"],
+      "tags": ["pack", "3 unidades", "económico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "Salidas-producto-027",
+      "nombre": "Bata a Medida - Servicio Integral",
+      "subnombre": "Medición, fabricación e instalación para proyectos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Salidas/salida-bano-beta.png",
+      "img2": "/img/Salidas/salida-bano-beta-2.png",
+      "precio_desde": 349.9,
+      "descripcion_corta": "Servicio integral a medida: medición, fabricación e instalación.",
+      "descripcion": "Servicio completo para proyectos de hotelería y spas: tomamos medidas, fabricamos a medida y ofrecemos instalación y seguimiento. Incluye asesoría en tejidos, acabados y cantidad óptima según uso.",
+      "features": [
+        "Medición profesional",
+        "Fabricación a medida",
+        "Instalación técnica",
+        "Garantía de servicio"
+      ],
+      "specs": {
+        "Material exterior": "Según especificación del proyecto",
+        "Dimensión standard": "A medida",
+        "Uso recomendado": "Proyectos hoteleros y comerciales",
+        "Lavado": "Según material seleccionado",
+        "Color disponible": "A convenir"
+      },
+      "models": [
+        {
+          "model": "Servicio integral",
+          "length": "A medida",
+          "spec": "Medición, fabricación e instalación"
+        }
+      ],
+      "categorias": ["Salidas de Baño", "A medida", "Servicios"],
+      "tags": ["servicio", "a medida", "instalación"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

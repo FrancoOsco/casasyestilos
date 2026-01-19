@@ -1,0 +1,1385 @@
+{
+  "PROTECTORES": [
+    {
+      "id": "protectores-producto-001",
+      "nombre": "Protector Impermeable Hotelero - 1 plaza",
+      "subnombre": "Membrana TPU + superficie transpirable",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-beta.png",
+      "img2": "/img/Protectores/protector-beta-2.png",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Membrana impermeable y base transpirable — ideal para hoteles.",
+      "descripcion": "Protector diseñado para uso intensivo en hotelería. Combina una superficie suave y transpirable con una membrana impermeable (TPU) que evita el paso de líquidos sin generar ruido ni alterar la sensación del colchón. Resistente a lavados frecuentes y fácil de colocar gracias a su elástico perimetral.",
+      "features": [
+        "Membrana impermeable TPU",
+        "Superficie transpirable y silenciosa",
+        "Elástico perimetral para ajuste rápido",
+        "Lavable a máquina y resistente a lavados industriales",
+        "Tacto suave, no altera la firmeza del colchón"
+      ],
+      "specs": {
+        "Material exterior": "Tela microfibra transpirable 100% poliéster",
+        "Membrana": "TPU (termoplástico) impermeable",
+        "Ajuste": "Elástico perimetral",
+        "Uso recomendado": "Hotelero, doméstico, guarderías",
+        "Lavado": "A máquina hasta 60°C; no usar blanqueadores",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Ajuste estándar con elástico perimetral"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "120 x 190 cm",
+          "spec": "Ajuste reforzado para colchones medianos"
+        },
+        {
+          "model": "2 plazas",
+          "length": "160 x 200 cm",
+          "spec": "Ajuste amplio para colchones dobles"
+        }
+      ],
+      "categorias": ["Protectores", "Ropa de Cama", "Hotelero"],
+      "tags": ["impermeable", "hotelero", "TPU", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-002",
+      "nombre": "Protector Impermeable Hotelero - 2 plazas",
+      "subnombre": "Versión doble para camas matrimoniales",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-beta.png",
+      "img2": "/img/Protectores/protector-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Protección total contra líquidos y manchas; apto para lavado industrial.",
+      "descripcion": "Protector de gran resistencia pensado para alojamientos y familias. Membrana anti-fugas y superficie anti-ruido para mantener la caída natural de las sábanas. Costuras reforzadas y ajuste firme para uso con colchones estándar y de mayor grosor.",
+      "features": [
+        "Membrana impermeable de alta durabilidad",
+        "Superficie silenciosa que no produce crujidos",
+        "Cierre de costuras reforzado",
+        "Resistente a lavados industriales",
+        "Antimanchas y secado rápido"
+      ],
+      "specs": {
+        "Material exterior": "Percal microfibra 200TC",
+        "Membrana": "TPU reforzada",
+        "Ajuste": "Elástico perimetral ancho",
+        "Dimensión standard": "160 x 200 cm",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco, Marfil"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "160 x 200 cm",
+          "spec": "Ajuste para matrimoniales estándar"
+        },
+        {
+          "model": "Queen",
+          "length": "160 x 200 cm",
+          "spec": "Ajuste estándar Queen"
+        },
+        {
+          "model": "King",
+          "length": "190 x 200 cm",
+          "spec": "Diseñado para camas king"
+        }
+      ],
+      "categorias": ["Protectores", "Ropa de Cama"],
+      "tags": ["impermeable", "antimanchas", "hotelero"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-003",
+      "nombre": "Protector Transpirable CoolTech - 1 plaza",
+      "subnombre": "Tejido refrigerante para noches frescas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-beta.png",
+      "img2": "/img/Protectores/protector-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Tejido refrigerante que reduce la sensación de calor durante la noche.",
+      "descripcion": "Protector confeccionado con fibras CoolTech / Bemberg que favorecen la disipación del calor y la evaporación del sudor. Mantiene la protección del colchón sin sacrificar frescura ni comodidad, ideal para habitaciones cálidas y temporadas de verano.",
+      "features": [
+        "Tejido refrigerante CoolTech / Bemberg",
+        "Transpirable y de secado rápido",
+        "Impermeabilidad parcial (tratamiento repelente)",
+        "Suave al contacto y antialérgico"
+      ],
+      "specs": {
+        "Material exterior": "Bemberg / microfibra técnica",
+        "Membrana": "Tratamiento repelente (no ruidoso)",
+        "Uso recomendado": "Climas cálidos, verano",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco, Gris claro"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "CoolTech, ajuste elástico" },
+        {
+          "model": "1.5 plazas",
+          "length": "120 x 190 cm",
+          "spec": "Mayor ancho para camas pequeñas"
+        }
+      ],
+      "categorias": ["Protectores", "Confort Térmico"],
+      "tags": ["cooltech", "transpirable", "refrigerante"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-004",
+      "nombre": "Protector Acolchado Ligero - 2 plazas",
+      "subnombre": "Acolchado fino para mayor confort",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-04.jpg",
+      "img2": "/img/Protectores/protector-04-2.jpg",
+      "precio_desde": 109.9,
+      "descripcion_corta": "Acolchado fino que añade confort sin alterar firmeza del colchón.",
+      "descripcion": "Protector con un acolchado ligero que aporta una segunda capa de confort y protege contra el desgaste superficial. Ideal para clientes que buscan suavidad adicional sin afectar soporte ortopédico.",
+      "features": [
+        "Acolchado fino hipoalergénico",
+        "Base transpirable y anti-deslizante",
+        "Protección contra manchas y polvo",
+        "Lavable y de secado rápido"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra con relleno siliconado 100 g/m²",
+        "Base": "Antideslizante (puede variar por modelo)",
+        "Uso recomendado": "Hogares que buscan mayor confort",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco, Marfil"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Acolchado 100 g/m²" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Acolchado y ajuste Queen" }
+      ],
+      "categorias": ["Protectores", "Confort"],
+      "tags": ["acolchado", "suave", "antideslizante"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-005",
+      "nombre": "Protector con Faldón Extra Profundo - King",
+      "subnombre": "Faldón 40–50 cm para colchones altos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-05.jpg",
+      "img2": "/img/Protectores/protector-05-2.jpg",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Faldón profundo y elástico reforzado para colchones altos.",
+      "descripcion": "Protector pensado para colchones con toppers o alturas superiores: faldón extra profundo y elástico reforzado que asegura un ajuste firme y evita desplazamientos. Superficie transpirable y opción impermeable según modelo.",
+      "features": [
+        "Faldón extra profundo 40–50 cm",
+        "Elástico reforzado en todo el perímetro",
+        "Disponible en versiones impermeable y transpirable",
+        "Costuras reforzadas para uso intensivo"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra o percal según versión",
+        "Faldón": "40–50 cm con elástico reforzado",
+        "Uso recomendado": "Colchones altos, camas con topper",
+        "Lavado": "A máquina hasta 60°C (versión hotelera)",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "King (Extra Deep)", "length": "200 x 200 cm", "spec": "Faldón 45 cm" },
+        { "model": "Queen (Extra Deep)", "length": "160 x 200 cm", "spec": "Faldón 40 cm" }
+      ],
+      "categorias": ["Protectores", "Accesorios"],
+      "tags": ["extra-deep", "faldón", "ajuste"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-006",
+      "nombre": "Protector Anti-ácaros - Matrimonial",
+      "subnombre": "Barrera hipoalergénica y anti-alérgenos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-06.jpg",
+      "img2": "/img/Protectores/protector-06-2.jpg",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Tratamiento anti-ácaros y barrera contra alérgenos.",
+      "descripcion": "Protector con tratamiento y tejido que impide la proliferación de ácaros y alérgenos. Recomendado para dormitorios de personas con sensibilidades, hospitales y alojamientos que requieren mayor higiene. Fácil limpieza y secado rápido.",
+      "features": [
+        "Tejido con tratamiento anti-ácaros",
+        "Barrera física contra alérgenos",
+        "Hipoalergénico y suave al tacto",
+        "Lavable y resistente"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada anti-ácaros",
+        "Membrana": "Opcional impermeable",
+        "Uso recomendado": "Personas alérgicas, hoteles sanitarios",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "Matrimonial", "length": "140 x 190 cm", "spec": "Tratamiento anti-ácaros" },
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Versión matrimonial reforzada" }
+      ],
+      "categorias": ["Protectores", "Salud e Higiene"],
+      "tags": ["antiacaros", "hipoalergénico", "salud"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-007",
+      "nombre": "Protector Hotelero Silencioso - 2 plazas",
+      "subnombre": "Membrana anti-ruido para caída natural de sábanas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-07.jpg",
+      "img2": "/img/Protectores/protector-07-2.jpg",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Diseñado para eliminar el ruido típico de protectores impermeables.",
+      "descripcion": "Protector con membrana y acabado que evita el 'crujido' tradicional de materiales impermeables. Mantiene la estética y caída de la ropa de cama, por lo que es muy valorado en hoteles boutique y hogares que buscan silencio y confort.",
+      "features": [
+        "Membrana silenciosa",
+        "Superficie suave tipo percal",
+        "Ajuste estable y antideslizante",
+        "Lavable y duradero"
+      ],
+      "specs": {
+        "Material exterior": "Percal 200TC",
+        "Membrana": "TPU silencioso",
+        "Ajuste": "Elástico perimetral",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Versión silenciosa" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Optimizado para hotelería" }
+      ],
+      "categorias": ["Protectores", "Hotelero"],
+      "tags": ["silencioso", "percal", "hotelero"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-008",
+      "nombre": "Protector Impermeable con Cierre - 1 plaza",
+      "subnombre": "Funda completa con cierre para protección total",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-08.jpg",
+      "img2": "/img/Protectores/protector-08-2.jpg",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Funda con cierre completo — indicado para protección total y hospitalaria.",
+      "descripcion": "Protector tipo funda con cierre que cubre completamente el colchón, impidiendo la entrada de líquidos, ácaros y manchas. Ideal para hospitales, centros de salud, guarderías o para usuarios que desean una barrera completa.",
+      "features": [
+        "Cierre completo y robusto",
+        "Costuras selladas",
+        "Material resistente a desinfectantes",
+        "Apto para desinfección y lavados frecuentes"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster resistente",
+        "Cierre": "Cremallera industrial con solapa protectora",
+        "Uso recomendado": "Hospitalario, geriátrico, guarderías",
+        "Lavado": "A máquina y desinfección según normas",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "1 plaza (funda)",
+          "length": "90 x 190 cm",
+          "spec": "Funda completa con cierre"
+        },
+        {
+          "model": "2 plazas (funda)",
+          "length": "160 x 200 cm",
+          "spec": "Funda completa matrimonial"
+        }
+      ],
+      "categorias": ["Protectores", "Sanitario"],
+      "tags": ["funda", "hospitalario", "cierre"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-009",
+      "nombre": "Protector Acolchado Plush - Queen",
+      "subnombre": "Acolchado extra suave para mayor confort",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-09.jpg",
+      "img2": "/img/Protectores/protector-09-2.jpg",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Acolchado plush que aporta sensación de peluche sin restar soporte.",
+      "descripcion": "Protector de mayor gramaje con acabado plush que añade una capa mullida y confortable sobre el colchón. Recomendado para quienes desean suavizar ligeramente la superficie sin perder soporte y ergonomía.",
+      "features": [
+        "Acolchado plush de alta densidad",
+        "Relleno hipoalergénico",
+        "Base antideslizante",
+        "Mantiene transpirabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra plush",
+        "Relleno": "Fibra siliconada 200 g/m²",
+        "Uso recomendado": "Hogares premium",
+        "Lavado": "A máquina hasta 40°C, ciclo suave",
+        "Color disponible": "Blanco, Crema"
+      },
+      "models": [
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Acolchado plush 200 g/m²" },
+        { "model": "King", "length": "190 x 200 cm", "spec": "Mayor cobertura King" }
+      ],
+      "categorias": ["Protectores", "Confort"],
+      "tags": ["plush", "acolchado", "confort"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-010",
+      "nombre": "Protector Stretch Ajustable - 2 plazas",
+      "subnombre": "Tela elástica que se adapta a diferentes grosores",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-10.jpg",
+      "img2": "/img/Protectores/protector-10-2.jpg",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Protector tipo stretch que ajusta bien a toppers y colchones variables.",
+      "descripcion": "Protector con tejido elástico que envuelve el colchón como una funda ajustable. Ideal para colchones con diferentes alturas o para quienes cambian topper con frecuencia. Fácil colocación y sin arrugas.",
+      "features": [
+        "Tejido stretch elástico",
+        "Ajuste uniforme sin arrugas",
+        "Transpirable y suave",
+        "Fácil colocación"
+      ],
+      "specs": {
+        "Material exterior": "Micromodal / elastano",
+        "Ajuste": "Stretch completo",
+        "Uso recomendado": "Colchones con toppers, ajuste variable",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Tela stretch adaptable" },
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Versión individual stretch" }
+      ],
+      "categorias": ["Protectores", "Ajustables"],
+      "tags": ["stretch", "ajustable", "topper"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-011",
+      "nombre": "Protector Bamboo Antibacterial - Matrimonial",
+      "subnombre": "Tejido de bamboo natural con propiedades antibacterianas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-11.jpg",
+      "img2": "/img/Protectores/protector-11-2.jpg",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Suavidad natural del bamboo y tratamiento antibacterial.",
+      "descripcion": "Protector con tejido de bamboo que aporta suavidad, gran capacidad de absorción y propiedades antibacterianas naturales. Recomendado para pieles sensibles, familias y habitaciones premium.",
+      "features": [
+        "Tejido de bamboo natural",
+        "Propiedades antibacterianas",
+        "Alta transpirabilidad",
+        "Suave y apto para pieles sensibles"
+      ],
+      "specs": {
+        "Material exterior": "Fibra de bamboo 70% / poliéster 30%",
+        "Membrana": "Opcional translúcida impermeable",
+        "Uso recomendado": "Hogares, gente con piel sensible",
+        "Lavado": "A máquina hasta 40°C, ciclo suave",
+        "Color disponible": "Blanco, Beige"
+      },
+      "models": [
+        { "model": "Matrimonial", "length": "140 x 190 cm", "spec": "Bamboo anti bacterial" },
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Versión matrimonial amplia" }
+      ],
+      "categorias": ["Protectores", "Natural"],
+      "tags": ["bamboo", "antibacterial", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-012",
+      "nombre": "Protector Cool / Refrigerante - Queen",
+      "subnombre": "Tecnología refrescante para descanso fresco",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-12.jpg",
+      "img2": "/img/Protectores/protector-12-2.jpg",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Reduce la acumulación de calor con fibras de efecto refrigerante.",
+      "descripcion": "Protector con acabado y tejido que aprovecha fibras de cambio de fase o tratamientos CoolTouch para disminuir la sensación térmica. Recomendado para quienes sufren calor nocturno o desean mayor frescura sin perder protección.",
+      "features": [
+        "Fibras refrigerantes / cambio de fase",
+        "Transpirable y de rápida evaporación",
+        "Acabado suave y duradero",
+        "No altera soporte del colchón"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra técnica con tratamiento refrigerante",
+        "Membrana": "No impermeable (versión combinable)",
+        "Uso recomendado": "Climas cálidos y verano",
+        "Lavado": "A máquina hasta 40°C, ciclo suave",
+        "Color disponible": "Blanco, Azul claro"
+      },
+      "models": [
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Tratamiento refrigerante" },
+        { "model": "King", "length": "190 x 200 cm", "spec": "Mayor cobertura King" }
+      ],
+      "categorias": ["Protectores", "Termorregulación"],
+      "tags": ["cool", "refrigerante", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-013",
+      "nombre": "Protector Híbrido (Acolchado + Impermeable) - 2 plazas",
+      "subnombre": "Combinación de confort y protección",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-13.jpg",
+      "img2": "/img/Protectores/protector-13-2.jpg",
+      "precio_desde": 169.9,
+      "descripcion_corta": "Acolchado fino con membrana interna impermeable — lo mejor de ambos mundos.",
+      "descripcion": "Protector híbrido que aporta acolchado agradable y una membrana interna que impide el paso de líquidos. Diseñado para hogares que desean confort extra y protección completa contra accidentes y manchas.",
+      "features": [
+        "Acolchado suave + membrana interna",
+        "Protección contra líquidos y manchas",
+        "Superficie agradable y transpirable",
+        "Costuras selladas"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra / percal con relleno 120 g/m²",
+        "Membrana": "TPU interna",
+        "Uso recomendado": "Hogares, familias con niños",
+        "Lavado": "A máquina hasta 40°C, secado suave",
+        "Color disponible": "Blanco, Beige"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Acolchado + membrana" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Versión Queen" }
+      ],
+      "categorias": ["Protectores", "Híbridos"],
+      "tags": ["híbrido", "acolchado", "impermeable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-014",
+      "nombre": "Protector Infantil - Anti-manchas 1 plaza",
+      "subnombre": "Diseñado para niños: impermeable y silencioso",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-14.jpg",
+      "img2": "/img/Protectores/protector-14-2.jpg",
+      "precio_desde": 39.9,
+      "descripcion_corta": "Protector práctico, lavable y sin ruido — ideal para camas infantiles.",
+      "descripcion": "Protector ligero e impermeable pensado para la habitación infantil. Material suave, fácil de limpiar y sin producir ruido. Protege contra derrames y facilita la rotación y lavado frecuente.",
+      "features": [
+        "Impermeable y silencioso",
+        "Suave al contacto",
+        "Fácil limpieza",
+        "Ligero y plegable"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra infantil",
+        "Membrana": "TPU delgada",
+        "Uso recomendado": "Camas infantiles y guarderías",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco, Estampados infantiles"
+      },
+      "models": [
+        {
+          "model": "1 plaza infantil",
+          "length": "70 x 140 cm",
+          "spec": "Versión cuna y cama pequeña"
+        },
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Versión individual" }
+      ],
+      "categorias": ["Protectores", "Infantil"],
+      "tags": ["infantil", "anti-manchas", "impermeable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-015",
+      "nombre": "Protector Hospitalario - Fundas con cierre completo",
+      "subnombre": "Cumple requisitos sanitarios y permite desinfección frecuente",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-15.jpg",
+      "img2": "/img/Protectores/protector-15-2.jpg",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Diseñado para entornos que exigen normas sanitarias estrictas.",
+      "descripcion": "Funda completa con cierre y costuras selladas, resistente a desinfectantes y altas temperaturas. Ideal para hospitales, clínicas y centros geriátricos donde la desinfección y la barrera frente a fluidos son críticas.",
+      "features": [
+        "Cierre total y costuras selladas",
+        "Resistente a desinfectantes",
+        "Apto para lavados a alta temperatura",
+        "Materiales certificados para uso sanitario"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster técnico lavado industrial",
+        "Cierre": "Cremallera industrial",
+        "Uso recomendado": "Hospitalario y geriátrico",
+        "Lavado": "A máquina hasta 90°C (según norma)",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "Funda 1 plaza", "length": "90 x 190 cm", "spec": "Funda con cierre completo" },
+        {
+          "model": "Funda 2 plazas",
+          "length": "160 x 200 cm",
+          "spec": "Funda completa matrimonial"
+        }
+      ],
+      "categorias": ["Protectores", "Sanitario"],
+      "tags": ["hospitalario", "funda", "desinfección"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-016",
+      "nombre": "Protector 4 Estaciones - Acolchado Desmontable",
+      "subnombre": "Paneles desmontables para ajustar gramaje por temporada",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-16.jpg",
+      "img2": "/img/Protectores/protector-16-2.jpg",
+      "precio_desde": 189.9,
+      "descripcion_corta": "Sistema modular 4 estaciones para adaptar el protector al clima.",
+      "descripcion": "Protector con secciones acolchadas desmontables que permiten combinar o quitar paneles según la temporada. Permite mantener un protector base impermeable y añadir o quitar capas acolchadas para invierno o verano.",
+      "features": [
+        "Paneles acolchados desmontables",
+        "Versátil para 4 estaciones",
+        "Sistema de fijación interno seguro",
+        "Lavable por separado"
+      ],
+      "specs": {
+        "Material exterior": "Percal / microfibra combinada",
+        "Relleno": "Paneles 80–180 g/m² desmontables",
+        "Uso recomendado": "Hogares que buscan versatilidad anual",
+        "Lavado": "Panels separables; seguir etiquetas",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Paneles desmontables incluidos" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Acolchado modular" }
+      ],
+      "categorias": ["Protectores", "Versátiles"],
+      "tags": ["4-estaciones", "modular", "desmontable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-017",
+      "nombre": "Protector para Colchón Alto (Extra Deep) - King",
+      "subnombre": "Diseñado para colchones de 45–60 cm",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-17.jpg",
+      "img2": "/img/Protectores/protector-17-2.jpg",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Ajuste perfecto para colchones extra altos con elástico reforzado.",
+      "descripcion": "Protector especialmente fabricado para colchones con gran altura o con toppers incorporados. El faldón extra profundo y los refuerzos en costuras garantizan que no se desplace, incluso en uso intensivo.",
+      "features": [
+        "Faldón extra profundo 45–60 cm",
+        "Elástico y costuras reforzadas",
+        "Disponible en versión impermeable o transpirable",
+        "Ideal para toppers y colchones pillow-top"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra premium / percal",
+        "Faldón": "45–60 cm según modelo",
+        "Uso recomendado": "Colchones extra deep",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "King (Extra Deep)", "length": "200 x 200 cm", "spec": "Faldón 50 cm" },
+        { "model": "Super King", "length": "200 x 220 cm", "spec": "Para camas XL" }
+      ],
+      "categorias": ["Protectores", "Extra Deep"],
+      "tags": ["extra-deep", "faldón", "king"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-018",
+      "nombre": "Protector para Látex / Espuma - Acolchado Suave",
+      "subnombre": "Protección diseñada para colchones de espuma y látex",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-18.jpg",
+      "img2": "/img/Protectores/protector-18-2.jpg",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Protege la superficie sin interferir con la ergonomía de látex o espuma.",
+      "descripcion": "Protector con superficie y relleno optimizados para colchones de espuma o látex que requieren transpirabilidad y ventilación. Evita la acumulación de humedad y protege contra manchas sin modificar la respuesta del colchón.",
+      "features": [
+        "Diseñado para látex y espuma",
+        "Alta transpirabilidad",
+        "Acolchado fino que no altera soporte",
+        "Antimanchas y de fácil limpieza"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra de alto tránsito",
+        "Relleno": "Acolchado 80 g/m²",
+        "Uso recomendado": "Colchones de espuma y látex",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Versión individual para látex" },
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Versión matrimonial" }
+      ],
+      "categorias": ["Protectores", "Espuma/Látex"],
+      "tags": ["latex", "espuma", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-019",
+      "nombre": "Protector Impermeable Reforzado - Anti-fluido 2 plazas",
+      "subnombre": "Membrana de alta resistencia contra fluidos y manchas difíciles",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-19.jpg",
+      "img2": "/img/Protectores/protector-19-2.jpg",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Protección reforzada para entornos exigentes.",
+      "descripcion": "Protector con membrana reforzada y tratamiento anti-fluidos que resiste agentes líquidos agresivos y manchas difíciles. Recomendado para familias, hoteles con alto tráfico y entornos donde se requiere máxima barrera.",
+      "features": [
+        "Membrana anti-fluidos de alta resistencia",
+        "Costuras selladas",
+        "Tratamiento repelente superficial",
+        "Durabilidad aumentada"
+      ],
+      "specs": {
+        "Material exterior": "Percal resistente",
+        "Membrana": "TPU reforzada anti-fluidos",
+        "Uso recomendado": "Familias, hotelería con alto tránsito",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Versión reforzada" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Protección repelente" }
+      ],
+      "categorias": ["Protectores", "Reforzados"],
+      "tags": ["anti-fluidos", "reforzado", "repelente"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-020",
+      "nombre": "Pack Protectores x2 - 1 plaza",
+      "subnombre": "Combo ideal para rotación y lavado",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-20.jpg",
+      "img2": "/img/Protectores/protector-20-2.jpg",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Pack con dos protectores básicos para alternar en lavado.",
+      "descripcion": "Pack económico con dos unidades de protectores básicos: permite tener siempre uno en uso mientras el otro está en lavado. Buena opción para familias y alojamientos pequeños que necesitan rotación frecuente.",
+      "features": [
+        "Pack x2 con igual modelo",
+        "Ligero y fácil de secar",
+        "Apto para lavado cotidiano",
+        "Buena relación calidad-precio"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra estándar",
+        "Membrana": "Impermeable básica",
+        "Uso recomendado": "Rotación doméstica",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "Pack 1 plaza x2", "length": "90 x 190 cm", "spec": "Combo individual" }
+      ],
+      "categorias": ["Protectores", "Pack"],
+      "tags": ["pack", "rotación", "económico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-021",
+      "nombre": "Protector 3 en 1 (Impermeable + Acolchado + Antibacterial) - Queen",
+      "subnombre": "Solución completa: confort, protección y tratamiento",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-21.jpg",
+      "img2": "/img/Protectores/protector-21-2.jpg",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Combinación de 3 funciones en un solo protector premium.",
+      "descripcion": "Protector premium que integra membrana impermeable, capa acolchada y tratamiento antibacterial. Ideal para quienes buscan una solución todo-en-uno sin renunciar a la estética y confort de la ropa de cama.",
+      "features": [
+        "Impermeable + acolchado + antibacterial",
+        "Materiales premium",
+        "Costuras selladas y acolchado duradero",
+        "Apto para uso doméstico premium y hotelería boutique"
+      ],
+      "specs": {
+        "Material exterior": "Percal 300TC con acabado premium",
+        "Relleno": "Acolchado 150 g/m²",
+        "Membrana": "TPU de baja visibilidad",
+        "Uso recomendado": "Hogares premium, hoteles boutique",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco, Marfil"
+      },
+      "models": [
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "3 en 1 premium" },
+        { "model": "King", "length": "190 x 200 cm", "spec": "Cobertura King" }
+      ],
+      "categorias": ["Protectores", "Premium"],
+      "tags": ["3en1", "premium", "antibacterial"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-022",
+      "nombre": "Protector Eco - Tela reciclada transpirable - 2 plazas",
+      "subnombre": "Opción sostenible con buena transpirabilidad",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-22.jpg",
+      "img2": "/img/Protectores/protector-22-2.jpg",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Protector sostenible fabricado con fibras recicladas.",
+      "descripcion": "Protector que utiliza tela reciclada y procesos de bajo impacto para ofrecer una alternativa responsable. Mantiene transpirabilidad y durabilidad adecuadas para uso doméstico y comercial ligero.",
+      "features": [
+        "Tela reciclada de alta resistencia",
+        "Transpirable y ligera",
+        "Acabado eco-friendly",
+        "Buena durabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster reciclado 100%",
+        "Membrana": "Opcional respirable",
+        "Uso recomendado": "Consumidor eco-consciente",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Gris claro, Blanco"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Tela reciclada transpirable" }
+      ],
+      "categorias": ["Protectores", "Eco"],
+      "tags": ["eco", "reciclado", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-023",
+      "nombre": "Protector Topper Fino",
+      "subnombre": "Añade confort sin alterar la firmeza",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-23.jpg",
+      "img2": "/img/Protectores/protector-23-2.jpg",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Capa fina que protege y añade sensación extra suave al colchón.",
+      "descripcion": "Topper protector delgado que aporta una sensación sutilmente más suave y protección ante manchas leves. Se coloca fácilmente y es ideal para mejorar confort en colchones firmes sin cambiar sus propiedades.",
+      "features": [
+        "Topper fino y protector",
+        "No modifica la ergonomía del colchón",
+        "Ligero y plegable",
+        "Fácil de limpiar"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra suave",
+        "Relleno": "Fibras 60 g/m²",
+        "Uso recomendado": "Mejorar sensación en colchones firmes",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Topper fino 60 g/m²" },
+        { "model": "2 plazas", "length": "160 x 200 cm", "spec": "Topper matrimonial" }
+      ],
+      "categorias": ["Protectores", "Topper"],
+      "tags": ["topper", "fino", "confort"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-024",
+      "nombre": "Protector Silence+ (Antirruido) - Matrimonial",
+      "subnombre": "Eliminador de ruido para que la sábana mantenga su caída",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-24.jpg",
+      "img2": "/img/Protectores/protector-24-2.jpg",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Diseñado para evitar el sonido del protector y mantener la estética del lecho.",
+      "descripcion": "Protector con acabado y membrana que minimizan cualquier ruido producido por el material impermeable. Mantiene la caída natural de las sábanas y ofrece protección sin comprometer la estética ni el confort.",
+      "features": [
+        "Membrana antirruido",
+        "Acabado percalado de alta calidad",
+        "Ajuste firme y discreto",
+        "Lavable y duradero"
+      ],
+      "specs": {
+        "Material exterior": "Percal 200TC",
+        "Membrana": "TPU silencioso",
+        "Uso recomendado": "Hogares y hoteles boutique",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        { "model": "Matrimonial", "length": "140 x 190 cm", "spec": "Versión antirruido" }
+      ],
+      "categorias": ["Protectores", "Silencio"],
+      "tags": ["antirruido", "silence", "percal"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-025",
+      "nombre": "Protector Anti-fluidos XL - King",
+      "subnombre": "Superficie tratada y costuras selladas para máxima protección",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-25.jpg",
+      "img2": "/img/Protectores/protector-25-2.jpg",
+      "precio_desde": 249.9,
+      "descripcion_corta": "Protección máxima para entornos que requieren impermeabilidad total.",
+      "descripcion": "Protector de alta gama con membrana anti-fluidos, costuras selladas y acabado repelente. Ideal para usos específicos donde la barrera frente a líquidos debe ser absoluta y constante.",
+      "features": [
+        "Membrana anti-fluidos de máxima resistencia",
+        "Costuras soldadas",
+        "Acabado repelente",
+        "Diseño profesional para entornos exigentes"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster técnico con acabado repelente",
+        "Membrana": "TPU industrial",
+        "Uso recomendado": "Hospitales, laboratorios, familias con necesidades especiales",
+        "Lavado": "A máquina según indicaciones; evitar lejía",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "King XL",
+          "length": "200 x 220 cm",
+          "spec": "Cobertura XL con costuras selladas"
+        }
+      ],
+      "categorias": ["Protectores", "Industrial"],
+      "tags": ["anti-fluidos", "industrial", "sellado"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-026",
+      "nombre": "Protector Lavable a Alta Temperatura - Matrimonial",
+      "subnombre": "Soporta lavados a 90°C para desinfección profunda",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-26.jpg",
+      "img2": "/img/Protectores/protector-26-2.jpg",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Protector resistente que admite lavado a alta temperatura para higiene extrema.",
+      "descripcion": "Confeccionado con materiales que soportan lavados a temperaturas elevadas, este protector garantiza la eliminación de bacterias y ácaros en procesos de desinfección profesional. Recomendado para clínicas, guarderías y hotelería con requerimientos sanitarios.",
+      "features": [
+        "Resistente a lavados a 90°C",
+        "Materiales pensados para desinfección",
+        "Costuras reforzadas",
+        "Buena durabilidad en lavados frecuentes"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster / mezcla técnica resistente",
+        "Membrana": "TPU tratada para lavados calientes",
+        "Uso recomendado": "Hospitalario, guarderías, hotelería sanitaria",
+        "Lavado": "A máquina hasta 90°C según etiqueta",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Matrimonial (alta temp)",
+          "length": "140 x 190 cm",
+          "spec": "Diseño para lavado industrial"
+        }
+      ],
+      "categorias": ["Protectores", "Sanitario"],
+      "tags": ["alta-temperatura", "desinfección", "hospitalario"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "protectores-producto-027",
+      "nombre": "Protector Premium - Percal + Membrana Invisible (1 plaza)",
+      "subnombre": "Acabado premium, tacto percal y membrana casi imperceptible",
+      "marca": "Casas y Estilos",
+      "img": "/img/Protectores/protector-27.jpg",
+      "img2": "/img/Protectores/protector-27-2.jpg",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Protector premium con tacto percal y protección silenciosa e invisible.",
+      "descripcion": "Protector de línea premium con percal de alta densidad y membrana de baja visibilidad que no altera la textura ni la estética de la ropa de cama. Ideal para habitaciones de alta gama y clientes que demandan acabado y funcionalidad.",
+      "features": [
+        "Percal 300TC premium",
+        "Membrana invisible y silenciosa",
+        "Acabado de lujo y costuras finas",
+        "Mantiene la apariencia del colchón"
+      ],
+      "specs": {
+        "Material exterior": "Percal 300 hilos",
+        "Membrana": "TPU ultrafina invisible",
+        "Uso recomendado": "Hogares y hoteles premium",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco, Marfil"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Premium percal + membrana invisible"
+        },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Acabado premium Queen" }
+      ],
+      "categorias": ["Protectores", "Premium"],
+      "tags": ["premium", "percal", "invisible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

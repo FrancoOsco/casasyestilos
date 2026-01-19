@@ -1,0 +1,1502 @@
+{
+  "MANTELERIA": [
+    {
+      "id": "manteleria-producto-001",
+      "nombre": "Mantel Hotelero - Antimanchas 150x250",
+      "subnombre": "Resistencia y mantenimiento rápido",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Resistente y fácil de limpiar — ideal para uso intensivo.",
+      "descripcion": "Mantel pensado para hoteles y establecimientos: tejido con tratamiento antimanchas y acabado que facilita la limpieza y reduce el desgaste. Mantiene apariencia profesional tras múltiples lavados industriales y presenta una caída y cuerpo adecuados para mesas de servicio continuo.",
+      "features": [
+        "Tratamiento antimanchas",
+        "Alta resistencia a lavados industriales",
+        "Caída estable y presentación uniforme",
+        "Secado rápido y poco encogimiento",
+        "Tacto suave y duradero"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla poliéster-algodón con acabado antimanchas",
+        "Tratamiento": "Resistente a manchas y repelente líquido",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "800 g",
+        "Uso recomendado": "Hotelería, restaurantes, banquetes",
+        "Lavado": "Lavado industrial o a máquina hasta 60°C",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "Rectangular 150x250",
+          "length": "150 x 250 cm",
+          "spec": "Versión estándar hotelera"
+        },
+        {
+          "model": "Rectangular 180x300",
+          "length": "180 x 300 cm",
+          "spec": "Para mesas largas y banquetes"
+        }
+      ],
+      "categorias": ["Manteleria", "Hostelería", "Protección"],
+      "tags": ["antimanchas", "hotelero", "industrial", "duradero"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-002",
+      "nombre": "Mantel Algodón Perchado - Rectangular 150x250",
+      "subnombre": "Suavidad y caída natural",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Suave al tacto, caída natural y lavado sencillo.",
+      "descripcion": "Mantel de algodón perchado que ofrece una textura aterciopelada y una caída elegante. Ideal para comedores residenciales o restaurantes que buscan una estética cálida y confortable sin renunciar a la practicidad en el lavado doméstico.",
+      "features": [
+        "Algodón perchado de tacto suave",
+        "Buena absorción y caída natural",
+        "Lavable a máquina sin perder textura",
+        "Acabado anti-pilling"
+      ],
+      "specs": {
+        "Material exterior": "Algodón perchado 100%",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "950 g",
+        "Uso recomendado": "Hogar, restaurantes boutique",
+        "Lavado": "A máquina hasta 40°C; secar a la sombra",
+        "Color disponible": "Blanco, beige, gris"
+      },
+      "models": [
+        {
+          "model": "Rectangular 150x250",
+          "length": "150 x 250 cm",
+          "spec": "Estándar comedor"
+        },
+        {
+          "model": "Rectangular 180x300",
+          "length": "180 x 300 cm",
+          "spec": "Para mesas grandes"
+        }
+      ],
+      "categorias": ["Manteleria", "Hogar", "Algodón"],
+      "tags": ["algodón", "perchado", "suave", "hogar"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-003",
+      "nombre": "Mantel Jacquard Premium - 180x270",
+      "subnombre": "Elegancia texturizada",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Textura y brillo sutil; perfecto para mesas formales.",
+      "descripcion": "Mantel jacquard de alta calidad con motivos tejidos que aportan profundidad y sofisticación a la mesa. Acabado con estabilidad dimensional y resistencia al desgaste, pensado para eventos y comedores que requieren una presentación refinada.",
+      "features": [
+        "Tejido jacquard de alta definición",
+        "Acabado con cuerpo y caída elegante",
+        "Resistente a abrasión y uso frecuente",
+        "Presentación ideal para eventos formales"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster jacquard premium",
+        "Dimensión standard": "180 x 270 cm",
+        "Peso aproximado": "1.2 kg",
+        "Uso recomendado": "Eventos, restaurantes, banquetes",
+        "Lavado": "A máquina ciclo delicado o limpieza en seco",
+        "Color disponible": "Crudo, gris perla, marfil"
+      },
+      "models": [
+        {
+          "model": "180x270",
+          "length": "180 x 270 cm",
+          "spec": "Medida para mesas formales"
+        },
+        {
+          "model": "200x300",
+          "length": "200 x 300 cm",
+          "spec": "Versión para mesas grandes"
+        }
+      ],
+      "categorias": ["Manteleria", "Eventos", "Jacquard"],
+      "tags": ["jacquard", "premium", "textura", "evento"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-004",
+      "nombre": "Mantel Redondo - Lino Natural Ø150",
+      "subnombre": "Look rústico y caída natural",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Aspecto rústico y elegante; caída fluida para mesas redondas.",
+      "descripcion": "Mantel redondo en lino natural con una textura con carácter y aspecto ligeramente arrugado que favorece ambientes informales y sofisticados. Ideal para comedores y restaurantes con propuesta orgánica o nórdica.",
+      "features": [
+        "Lino natural con acabado lavado",
+        "Caída fluida y aspecto texturizado",
+        "Resistente y transpirable",
+        "Estética rústica y contemporánea"
+      ],
+      "specs": {
+        "Material exterior": "Lino lavado 55% / Algodón 45%",
+        "Dimensión standard": "Ø 150 cm",
+        "Peso aproximado": "700 g",
+        "Uso recomendado": "Hogar, restaurantes temáticos",
+        "Lavado": "A máquina ciclo delicado o lavado a mano",
+        "Color disponible": "Natural, beige, gris"
+      },
+      "models": [
+        {
+          "model": "Ø150",
+          "length": "Diámetro 150 cm",
+          "spec": "Mesa redonda pequeña"
+        },
+        {
+          "model": "Ø180",
+          "length": "Diámetro 180 cm",
+          "spec": "Mesa redonda mediana"
+        }
+      ],
+      "categorias": ["Manteleria", "Lino", "Hogar"],
+      "tags": ["lino", "redondo", "natural", "rústico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-005",
+      "nombre": "Camino de Mesa - Jacquard 40x160",
+      "subnombre": "Toque decorativo central",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Detalle decorativo que eleva cualquier vajilla.",
+      "descripcion": "Camino de mesa tejido en jacquard que aporta un foco decorativo central para mesas largas o como complemento sobre manteles lisos. Ideal para resaltar vajillas y centros florales.",
+      "features": [
+        "Tejido jacquard de diseño",
+        "Acabado estable y fácil de colocar",
+        "Perfecto para composiciones y centros",
+        "Largo pensado para mesas estándar"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster jacquard",
+        "Dimensión standard": "40 x 160 cm",
+        "Peso aproximado": "220 g",
+        "Uso recomendado": "Decoración de mesas, restaurantes",
+        "Lavado": "Lavado a máquina ciclo delicado",
+        "Color disponible": "Varios estampados"
+      },
+      "models": [
+        {
+          "model": "40x160",
+          "length": "40 x 160 cm",
+          "spec": "Estándar"
+        },
+        {
+          "model": "50x180",
+          "length": "50 x 180 cm",
+          "spec": "Versión para mesas más anchas"
+        }
+      ],
+      "categorias": ["Manteleria", "Accesorios", "Jacquard"],
+      "tags": ["camino", "jacquard", "decoración", "centro"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-006",
+      "nombre": "Servilletas Pack x6 - Algodón 45x45",
+      "subnombre": "Juego práctico y absorbente",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 29.9,
+      "descripcion_corta": "Corte clásico y buena absorción — juego práctico y elegante.",
+      "descripcion": "Pack de 6 servilletas de algodón 45x45 cm con corte clásico y buen poder de absorción. Ideales para cenas formales e informales; combinan con manteles lisos o estampados para crear conjuntos coherentes.",
+      "features": [
+        "Algodón 100% de buena absorción",
+        "Corte clásico 45x45 cm",
+        "Bordes rematados",
+        "Pack de 6 unidades"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100%",
+        "Dimensión standard": "45 x 45 cm (x6)",
+        "Peso aproximado": "250 g (pack)",
+        "Uso recomendado": "Hogar y eventos",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Blanco, crudo, colores sólidos"
+      },
+      "models": [
+        {
+          "model": "Pack x6 45x45",
+          "length": "45 x 45 cm (x6)",
+          "spec": "Juego estándar de servilletas"
+        },
+        {
+          "model": "Pack x12 45x45",
+          "length": "45 x 45 cm (x12)",
+          "spec": "Opción para eventos más grandes"
+        }
+      ],
+      "categorias": ["Manteleria", "Servilletas", "Accesorios"],
+      "tags": ["servilletas", "algodón", "pack", "absorción"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-007",
+      "nombre": "Mantel Protector Impermeable - 150x250",
+      "subnombre": "Protección práctica sin sacrificar caída",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Protege la mesa sin perder transpirabilidad ni caída.",
+      "descripcion": "Mantel protector con capa inferior impermeable y cara superior textil que mantiene la apariencia de un mantel convencional mientras evita filtraciones al mueble. Ideal para familias con niños o entornos de servicio donde se requiere protección adicional.",
+      "features": [
+        "Capa inferior impermeable",
+        "Cara superior textil con buena presentación",
+        "Transpirable y anti-ruido",
+        "Fácil de limpiar con paño húmedo"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster con backing impermeable",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "650 g",
+        "Uso recomendado": "Hogar, Picnic, Restaurantes",
+        "Lavado": "Limpieza puntual o lavado suave",
+        "Color disponible": "Blanco, beige"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Protector estándar"
+        },
+        {
+          "model": "130x180",
+          "length": "130 x 180 cm",
+          "spec": "Versión para mesas pequeñas"
+        }
+      ],
+      "categorias": ["Manteleria", "Protección", "Hogar"],
+      "tags": ["impermeable", "protector", "antiderrame"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-008",
+      "nombre": "Set Evento - Mantel + 10 Servilletas",
+      "subnombre": "Solución completa para banquetes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 499.9,
+      "descripcion_corta": "Solución completa para banquetes y eventos profesionales.",
+      "descripcion": "Pack pensado para eventos que incluye un mantel de tamaño estándar para banquetes y 10 servilletas a juego. Productos seleccionados para asegurar uniformidad en la presentación y facilitar la logística de eventos.",
+      "features": [
+        "Mantel de tamaño para banquetes",
+        "10 servilletas a juego",
+        "Acabado profesional y estable",
+        "Apto para lavado industrial"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster jacquard / mezcla algodón (según set)",
+        "Dimensión standard": "Mantel 180 x 300 cm + 10 servilletas 45x45 cm",
+        "Peso aproximado": "3.5 kg (set)",
+        "Uso recomendado": "Banquetes, bodas, eventos",
+        "Lavado": "Lavado industrial recomendado",
+        "Color disponible": "Blanco, marfil, colores a pedido"
+      },
+      "models": [
+        {
+          "model": "Set 10 personas",
+          "length": "180 x 300 cm + servilletas",
+          "spec": "Pack estándar para 10 comensales"
+        },
+        {
+          "model": "Set 20 personas",
+          "length": "2 x manteles + 20 servilletas",
+          "spec": "Pack ampliado para eventos mayores"
+        }
+      ],
+      "categorias": ["Manteleria", "Eventos", "Sets"],
+      "tags": ["set", "evento", "banquete", "servilletas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-009",
+      "nombre": "Mantel Estampado Diseño - Algodón 150x250",
+      "subnombre": "Estampados exclusivos para ambientación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Estampados exclusivos para ambientaciones contemporáneas.",
+      "descripcion": "Mantel de algodón con estampados diseñados para dar carácter a la mesa. Ideal para restaurantes temáticos, terrazas y hogares que buscan un punto focal decorativo con materiales lavables y fáciles de mantener.",
+      "features": [
+        "Algodón estampado de alta definición",
+        "Resistente al desgaste por lavado",
+        "Variedad de motivos y colores",
+        "Buen balance entre diseño y funcionalidad"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100% estampado",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "900 g",
+        "Uso recomendado": "Hogar, terrazas, restaurantes informales",
+        "Lavado": "A máquina hasta 40°C; planchar del revés",
+        "Color disponible": "Múltiples estampados"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Estándar estampado"
+        },
+        {
+          "model": "150x300",
+          "length": "150 x 300 cm",
+          "spec": "Versión para mesas alargadas"
+        }
+      ],
+      "categorias": ["Manteleria", "Estampados", "Algodón"],
+      "tags": ["estampado", "diseño", "algodón", "decorativo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-010",
+      "nombre": "Mantel Bies Elegante - Satén 150x250",
+      "subnombre": "Acabado lujoso con detalle en bies",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Acabado lujoso y detalle en bies para mesas sofisticadas.",
+      "descripcion": "Mantel de satén con remate en bies que aporta un brillo sutil y borde definido. Diseñado para eventos y comedores que requieren una presentación elegante, con tacto sedoso y buena caída.",
+      "features": [
+        "Satén de alta densidad",
+        "Remate en bies para detalle estético",
+        "Brillo y tacto sedoso",
+        "Apariencia premium para eventos"
+      ],
+      "specs": {
+        "Material exterior": "Satén 300 hilos (mezcla poliéster premium)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.1 kg",
+        "Uso recomendado": "Eventos, catering, cenas formales",
+        "Lavado": "Lavado delicado o limpieza en seco",
+        "Color disponible": "Champagne, marfil, negro"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Estándar satén con bies"
+        },
+        {
+          "model": "180x270",
+          "length": "180 x 270 cm",
+          "spec": "Versión para mesas más grandes"
+        }
+      ],
+      "categorias": ["Manteleria", "Satén", "Eventos"],
+      "tags": ["satén", "lujo", "bies", "evento"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-011",
+      "nombre": "Mantel Antibacterial - Microfibra 150x250",
+      "subnombre": "Higiene para entornos exigentes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Tratamiento que aporta higiene para entornos exigentes.",
+      "descripcion": "Mantel con tratamiento antibacterial en el tejido que reduce proliferación de bacterias y olores. Recomendado para entornos que requieren mayor higiene como restaurantes, clínicas y hogares preocupados por la higiene de contacto.",
+      "features": [
+        "Tratamiento antibacterial certificado",
+        "Tejido microfibra de fácil cuidado",
+        "Resistente a múltiples lavados",
+        "Buena presentación y caída"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra con tratamiento antibacterial",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "850 g",
+        "Uso recomendado": "Restaurantes, hogares, clínicas",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Estándar antibacterial"
+        },
+        {
+          "model": "180x300",
+          "length": "180 x 300 cm",
+          "spec": "Versión para mesas grandes"
+        }
+      ],
+      "categorias": ["Manteleria", "Higiene", "Microfibra"],
+      "tags": ["antibacterial", "microfibra", "higiene"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-012",
+      "nombre": "Mantel Reversible - Velvet / Algodón 150x250",
+      "subnombre": "Dos acabados en una pieza",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Dos acabados en una pieza: sofisticación y comodidad.",
+      "descripcion": "Mantel reversible que en un lado presenta velvet de tacto aterciopelado y en el otro algodón con caída natural. Ofrece versatilidad para cambiar la estética de la mesa según la ocasión sin cambiar el set completo.",
+      "features": [
+        "Reversible: velvet / algodón",
+        "Acabados de contraste para versatilidad",
+        "Fácil colocación y presentación",
+        "Lavable y de secado moderado"
+      ],
+      "specs": {
+        "Material exterior": "Velvet (una cara) / Algodón (otra cara)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.05 kg",
+        "Uso recomendado": "Hogar, eventos informales",
+        "Lavado": "A máquina ciclo delicado",
+        "Color disponible": "Combinaciones de colores (velvet + algodón)"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Reversible estándar"
+        }
+      ],
+      "categorias": ["Manteleria", "Reversible", "Velvet"],
+      "tags": ["reversible", "velvet", "algodón", "versátil"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-013",
+      "nombre": "Mantel Infantil - Diseño Animales 100x140",
+      "subnombre": "Colores y estampados seguros para niños",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Colores y estampados seguros para niños, lavable a máquina.",
+      "descripcion": "Mantel para niños con motivos de animales y colores pensados para estimular el entorno infantil. Fabricado con materiales suaves y resistentes a múltiples lavados para soportar uso cotidiano y actividades en mesa.",
+      "features": [
+        "Estampados infantiles seguros",
+        "Tacto suave y resistente",
+        "Lavable y de fácil secado",
+        "Diseño pensado para niños"
+      ],
+      "specs": {
+        "Material exterior": "Algodón / mezcla poliéster",
+        "Dimensión standard": "100 x 140 cm",
+        "Peso aproximado": "300 g",
+        "Uso recomendado": "Comedores infantiles, hogares",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Variedad de estampados"
+      },
+      "models": [
+        {
+          "model": "100x140",
+          "length": "100 x 140 cm",
+          "spec": "Tamaño infantil estándar"
+        },
+        {
+          "model": "120x160",
+          "length": "120 x 160 cm",
+          "spec": "Versión ligeramente mayor"
+        }
+      ],
+      "categorias": ["Manteleria", "Infantil", "Estampados"],
+      "tags": ["infantil", "estampado", "lavable", "seguro"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-014",
+      "nombre": "Set Mantel + Servilletas - Lino Lavado 150x250",
+      "subnombre": "Pack combinado con look natural",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Pack combinado con look natural para comedor diario.",
+      "descripcion": "Set que incluye mantel de lino lavado y servilletas a juego. Ofrece una estética relajada y elegante, perfecta para quienes buscan una mesa con aspecto natural y tacto agradable.",
+      "features": [
+        "Lino lavado con caída natural",
+        "Servilletas a juego incluidas",
+        "Look natural y orgánico",
+        "Apto para uso diario"
+      ],
+      "specs": {
+        "Material exterior": "Lino lavado 55% / Algodón 45%",
+        "Dimensión standard": "Mantel 150 x 250 cm + servilletas 45x45 cm (x6)",
+        "Peso aproximado": "1.6 kg (set)",
+        "Uso recomendado": "Hogar, restaurantes con estilo natural",
+        "Lavado": "Lavado suave en máquina o a mano",
+        "Color disponible": "Natural, lino, beige"
+      },
+      "models": [
+        {
+          "model": "Set 6 servilletas",
+          "length": "150 x 250 cm + servilletas",
+          "spec": "Pack para mesa familiar"
+        }
+      ],
+      "categorias": ["Manteleria", "Sets", "Lino"],
+      "tags": ["set", "lino", "servilletas", "natural"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-015",
+      "nombre": "Mantel Rústico - Bramante Reciclado 150x250",
+      "subnombre": "Sostenible con textura resistente",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Opción sostenible con textura resistente y natural.",
+      "descripcion": "Mantel fabricado en tela tipo bramante a partir de fibras recicladas. Ofrece apariencia rústica, gran resistencia y una propuesta responsable para quienes buscan opciones eco-friendly sin renunciar a la durabilidad.",
+      "features": [
+        "Tela bramante reciclada",
+        "Textura resistente y aspecto natural",
+        "Fácil mantenimiento",
+        "Apropiado para uso interior y exterior"
+      ],
+      "specs": {
+        "Material exterior": "Bramante reciclado (mezcla fibras)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.0 kg",
+        "Uso recomendado": "Hogar, cafeterías, espacios sostenibles",
+        "Lavado": "Lavar a máquina en ciclo suave",
+        "Color disponible": "Rústico natural, tostado"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Estándar rústico"
+        }
+      ],
+      "categorias": ["Manteleria", "Eco", "Bramante"],
+      "tags": ["eco", "reciclado", "bramante", "sostenible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-016",
+      "nombre": "Mantel Encaje Boutique - 150x250",
+      "subnombre": "Delicadeza artesanal para ocasiones especiales",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 229.9,
+      "descripcion_corta": "Detalles delicados y acabado artesanal para ocasiones especiales.",
+      "descripcion": "Mantel con encaje y terminaciones artesanales, diseñado para crear mesas con carácter boutique en bodas, celebraciones o presentaciones íntimas. Requiere cuidados delicados por su confección y detalles.",
+      "features": [
+        "Encaje y bordados artesanales",
+        "Acabado delicado y sofisticado",
+        "Piezas aptas para ocasiones especiales",
+        "Presentación boutique"
+      ],
+      "specs": {
+        "Material exterior": "Algodón con detalles de encaje",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "900 g",
+        "Uso recomendado": "Bodas, cenas formales, boutique",
+        "Lavado": "Limpieza en seco recomendada",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Encaje boutique"
+        }
+      ],
+      "categorias": ["Manteleria", "Boutique", "Encaje"],
+      "tags": ["encaje", "boutique", "artesanal", "boda"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-017",
+      "nombre": "Camino de Mesa Minimal - Algodón 35x150",
+      "subnombre": "Diseño sobrio para mesas modernas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 39.9,
+      "descripcion_corta": "Diseño sobrio para mesas modernas y uso diario.",
+      "descripcion": "Camino de mesa minimalista en algodón pensado para mesas de estilo contemporáneo. Aporta un núcleo de color o textura sin sobrecargar la composición de la mesa, ideal para uso cotidiano o restaurantes de diseño minimal.",
+      "features": [
+        "Algodón resistente y de fácil cuidado",
+        "Diseño minimalista y versátil",
+        "Fácil combinación con manteles lisos",
+        "Lavable a máquina"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100%",
+        "Dimensión standard": "35 x 150 cm",
+        "Peso aproximado": "180 g",
+        "Uso recomendado": "Hogar moderno, restaurantes",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Colores sólidos"
+      },
+      "models": [
+        {
+          "model": "35x150",
+          "length": "35 x 150 cm",
+          "spec": "Estándar minimal"
+        }
+      ],
+      "categorias": ["Manteleria", "Minimal", "Accesorios"],
+      "tags": ["minimal", "camino", "algodón"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-018",
+      "nombre": "Mantel Protector Silicona - Antideslizante 150x250",
+      "subnombre": "Seguridad y sujeción para mesas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Seguridad y sujeción para mesas con tránsito constante.",
+      "descripcion": "Mantel protector con base de silicona antideslizante que evita movimientos del mantel y protege la superficie. Ideal para cafeterías, restaurantes y hogares con tránsito constante o donde la estabilidad de la vajilla es importante.",
+      "features": [
+        "Backing de silicona antideslizante",
+        "Superficie textil amable al tacto",
+        "Fácil limpieza y mantenimiento",
+        "Reduce deslizamiento de platos"
+      ],
+      "specs": {
+        "Material exterior": "Cara textil + backing silicona",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.0 kg",
+        "Uso recomendado": "Restaurantes, cafés, hogar",
+        "Lavado": "Limpiar con paño húmedo; lavar backing con cuidado",
+        "Color disponible": "Blanco, gris, tonos neutros"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Protector con silicona"
+        }
+      ],
+      "categorias": ["Manteleria", "Protección", "Hostelería"],
+      "tags": ["antideslizante", "silicona", "protector"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-019",
+      "nombre": "Mantel Airflow - Bemberg Transpirable 150x250",
+      "subnombre": "Fibras naturales refrescantes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Fibras naturales que mantienen frescura en el mantel.",
+      "descripcion": "Mantel fabricado con Bemberg o tejido similar transpirable que aporta sensación de frescura y caída noble. Recomendada para locales premium y hogares que buscan confort textil en climas templados.",
+      "features": [
+        "Tejido transpirable tipo Bemberg",
+        "Caída elegante y tacto suave",
+        "Resistente a arrugas moderadas",
+        "Presentación premium"
+      ],
+      "specs": {
+        "Material exterior": "Bemberg / mezcla viscosa",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "850 g",
+        "Uso recomendado": "Hogar premium, restaurantes",
+        "Lavado": "Lavado delicado o limpieza en seco",
+        "Color disponible": "Marfil, blanco roto"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Airflow estándar"
+        }
+      ],
+      "categorias": ["Manteleria", "Transpirable", "Premium"],
+      "tags": ["bemberg", "transpirable", "premium", "airflow"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-020",
+      "nombre": "Mantel Estampado Navideño - Algodón 150x250",
+      "subnombre": "Motivos festivos para temporada",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Motivos festivos pensados para decoración de temporada.",
+      "descripcion": "Mantel con motivos navideños impresos en algodón, ideal para ambientar cenas y celebraciones de temporada. Diseño pensado para combinar con centros y vajillas temáticas.",
+      "features": [
+        "Algodón estampado con motivos de temporada",
+        "Fácil combinación con decoración festiva",
+        "Lavable y reutilizable varios años",
+        "Acabado resistente"
+      ],
+      "specs": {
+        "Material exterior": "Algodón estampado",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "900 g",
+        "Uso recomendado": "Temporada navideña, eventos familiares",
+        "Lavado": "A máquina hasta 40°C",
+        "Color disponible": "Estampados navideños"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Estándar navideño"
+        }
+      ],
+      "categorias": ["Manteleria", "Temporada", "Estampados"],
+      "tags": ["navidad", "estampado", "algodón", "temporada"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-021",
+      "nombre": "Mantel Antiarrugas - Percal 150x250",
+      "subnombre": "Fácil planchado y aspecto impecable",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Fácil planchado y aspecto siempre impecable.",
+      "descripcion": "Mantel en percal con tratamiento antiarrugas que mantiene una apariencia limpia y presentable con mínimo esfuerzo. Ideal para restaurantes y hogares donde la presentación rápida es importante.",
+      "features": [
+        "Tejido percal tratado antiarrugas",
+        "Aspecto liso y profesional",
+        "Fácil cuidado y planchado rápido",
+        "Buena durabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Percal (algodón tratado)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "900 g",
+        "Uso recomendado": "Restaurantes, hogar, eventos",
+        "Lavado": "A máquina hasta 60°C; planchado moderado",
+        "Color disponible": "Blanco, crudo"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Antiarrugas estándar"
+        }
+      ],
+      "categorias": ["Manteleria", "Percal", "Antiarrugas"],
+      "tags": ["percal", "antiarrugas", "presentación"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-022",
+      "nombre": "Pack Bistro - 4 Manteles Individuales 35x50",
+      "subnombre": "Solución práctica para cafeterías",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Práctico set para restaurantes y cafeterías pequeñas.",
+      "descripcion": "Pack de 4 manteles individuales tamaño bistro, diseñados para servicio rápido y mesas pequeñas. Resistentes y de fácil limpieza, pensados para rotación frecuente en establecimientos.",
+      "features": [
+        "Pack de 4 manteles individuales",
+        "Tamaño bistro práctico",
+        "Material resistente y fácil limpieza",
+        "Apto para uso comercial"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster / mezcla resistente",
+        "Dimensión standard": "35 x 50 cm (x4)",
+        "Peso aproximado": "400 g (pack)",
+        "Uso recomendado": "Cafeterías, bistros, restaurantes",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Varios colores sólidos"
+      },
+      "models": [
+        {
+          "model": "Pack x4 35x50",
+          "length": "35 x 50 cm (x4)",
+          "spec": "Set bistro estándar"
+        }
+      ],
+      "categorias": ["Manteleria", "Individuales", "Hostelería"],
+      "tags": ["bistro", "individual", "pack", "cafetería"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-023",
+      "nombre": "Mantel Luxury - Satén 300 hilos 150x250",
+      "subnombre": "Brillo y tacto sedoso para alta gama",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 259.9,
+      "descripcion_corta": "Brillo y tacto sedoso para eventos de alta gama.",
+      "descripcion": "Mantel de satén 300 hilos con confección de alta calidad, pensado para eventos de lujo y restaurantes premium. Ofrece brillo controlado, caída impecable y una presentación que resalta vajillas y cristalería.",
+      "features": [
+        "300 hilos con tacto sedoso",
+        "Caída y brillo controlado",
+        "Acabado premium para eventos",
+        "Confección de alta gama"
+      ],
+      "specs": {
+        "Material exterior": "Satén 300 hilos (mezcla premium)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.3 kg",
+        "Uso recomendado": "Eventos premium, restaurantes de lujo",
+        "Lavado": "Limpieza en seco recomendada",
+        "Color disponible": "Champagne, blanco, negro"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Luxury satén"
+        },
+        {
+          "model": "180x270",
+          "length": "180 x 270 cm",
+          "spec": "Versión para mesas grandes"
+        }
+      ],
+      "categorias": ["Manteleria", "Luxury", "Satén"],
+      "tags": ["luxury", "satén", "300hilos", "evento"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-024",
+      "nombre": "Mantel Eco - Lino Reciclado 150x250",
+      "subnombre": "Materiales responsables y apariencia natural",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Materiales responsables y apariencia natural.",
+      "descripcion": "Mantel de lino reciclado que combina sostenibilidad y buen comportamiento en mesa. Ideal para proyectos con enfoque responsable y para consumidores que buscan reducir el impacto ambiental sin renunciar al diseño.",
+      "features": [
+        "Fibras recicladas y proceso responsable",
+        "Textura natural y resistencia",
+        "Apariencia premium eco-friendly",
+        "Buena durabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Lino reciclado (mezcla)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.0 kg",
+        "Uso recomendado": "Hogar, espacios sostenibles",
+        "Lavado": "Lavado suave en máquina",
+        "Color disponible": "Natural, piedra"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Eco estándar"
+        }
+      ],
+      "categorias": ["Manteleria", "Eco", "Lino"],
+      "tags": ["eco", "reciclado", "lino", "sostenible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-025",
+      "nombre": "Mantel Outdoor - Tela Técnica para Picnic 150x200",
+      "subnombre": "Compacto y repelente al agua",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Compacto, repelente al agua y fácil de limpiar.",
+      "descripcion": "Mantel outdoor en tela técnica diseñado para picnic y uso exterior: repelente al agua, compacto para transporte y de rápida limpieza. Perfecto para actividades al aire libre y eventos informales.",
+      "features": [
+        "Tela técnica repelente al agua",
+        "Compacto y fácil de transportar",
+        "Limpieza con paño o lavado rápido",
+        "Resistente a manchas y humedad"
+      ],
+      "specs": {
+        "Material exterior": "Poliéster técnico con recubrimiento repelente",
+        "Dimensión standard": "150 x 200 cm",
+        "Peso aproximado": "550 g",
+        "Uso recomendado": "Picnic, outdoor, camping",
+        "Lavado": "Lavar con paño o ciclo suave",
+        "Color disponible": "Estampados y colores sólidos"
+      },
+      "models": [
+        {
+          "model": "150x200",
+          "length": "150 x 200 cm",
+          "spec": "Outdoor estándar"
+        }
+      ],
+      "categorias": ["Manteleria", "Outdoor", "Técnico"],
+      "tags": ["outdoor", "repelente", "picnic", "técnico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-026",
+      "nombre": "Mantel Bordado Artesanal - 160x260",
+      "subnombre": "Piezas únicas con bordado manual",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 349.9,
+      "descripcion_corta": "Piezas únicas con bordados hechos a mano por talleres locales.",
+      "descripcion": "Mantel con bordado artesanal realizado por talleres asociados. Cada pieza presenta detalles únicos que convierten la mesa en una obra de arte; requiere cuidados delicados y es ideal para ocasiones muy especiales.",
+      "features": [
+        "Bordado manual por talleres locales",
+        "Diseño único en cada pieza",
+        "Acabado de alta calidad",
+        "Presentación adecuada para ocasiones especiales"
+      ],
+      "specs": {
+        "Material exterior": "Algodón / mezcla con bordado artesanal",
+        "Dimensión standard": "160 x 260 cm",
+        "Peso aproximado": "1.4 kg",
+        "Uso recomendado": "Eventos, colecciones boutique",
+        "Lavado": "Limpieza en seco recomendada",
+        "Color disponible": "Blanco, crudo con bordados"
+      },
+      "models": [
+        {
+          "model": "160x260",
+          "length": "160 x 260 cm",
+          "spec": "Bordado artesanal"
+        }
+      ],
+      "categorias": ["Manteleria", "Artesanal", "Bordado"],
+      "tags": ["bordado", "artesanal", "boutique", "único"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "manteleria-producto-027",
+      "nombre": "Mantel Ignífugo - Uso Hostelería 150x250",
+      "subnombre": "Cumple requisitos de seguridad para establecimientos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Manteleria/manteleria-beta.png",
+      "img2": "/img/Manteleria/manteleria-beta-2.png",
+      "precio_desde": 189.9,
+      "descripcion_corta": "Cumple requisitos de seguridad para establecimientos.",
+      "descripcion": "Mantel tratado o fabricado con fibras que cumplen normativas de resistencia a la ignición para su uso en hostelería y espacios donde se exige mayor seguridad. Ideal para restaurantes y hoteles que necesitan cumplir regulaciones.",
+      "features": [
+        "Propiedades ignífugas o retardantes de llama",
+        "Diseñado para uso hostelería",
+        "Resistente y estable en presentación",
+        "Cumplimiento con normativas (según certificación)"
+      ],
+      "specs": {
+        "Material exterior": "Fibra tratada ignífuga (según normativa)",
+        "Dimensión standard": "150 x 250 cm",
+        "Peso aproximado": "1.1 kg",
+        "Uso recomendado": "Hotelería, restaurantes, espacios públicos",
+        "Lavado": "Lavado industrial según instrucciones de tratamiento",
+        "Color disponible": "Blanco, marfil, tonos neutros"
+      },
+      "models": [
+        {
+          "model": "150x250",
+          "length": "150 x 250 cm",
+          "spec": "Ignífugo hostelería"
+        }
+      ],
+      "categorias": ["Manteleria", "Hostelería", "Seguridad"],
+      "tags": ["ignífugo", "hostelería", "seguridad", "normativa"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

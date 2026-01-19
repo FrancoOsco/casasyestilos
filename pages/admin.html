@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Admin - Casas y Estilos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="/img/logo-1.png" rel="icon" />
+    <link href="/css/style.css" rel="stylesheet" />
+    <link href="/css/estilos.css" rel="stylesheet" />
+    <style>
+      :root {
+        --olive: #8aa07a;
+        --olive-dark: #6b825f;
+        --muted: #f6f6f4;
+        --accent: #c6d6c0;
+        --text-dark: #2c2c2c;
+        --elegant: #556b4a;
+        --whatsapp: #51962f;
+      }
+      html,
+      body {
+        height: 100%;
+      }
+      body {
+        font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue',
+          Arial;
+        color: var(--text-dark);
+        background: var(--muted);
+        margin: 0;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      .admin-wrapper {
+        max-width: 1200px;
+        margin: 24px auto;
+        padding: 16px;
+      }
+      h2 {
+        color: var(--elegant);
+        margin-bottom: 4px;
+      }
+      h4,
+      h5 {
+        color: var(--olive-dark);
+        margin-bottom: 8px;
+      }
+      .small-muted {
+        color: #6c757d;
+        font-size: 0.9rem;
+      }
+      .box {
+        background: #fff;
+        border: 1px solid #e4e4e4;
+        padding: 16px;
+        border-radius: 12px;
+        margin-bottom: 12px;
+      }
+      .admin-grid {
+        display: grid;
+        grid-template-columns: 1fr 380px;
+        gap: 16px;
+        align-items: start;
+      }
+      @media (max-width: 992px) {
+        .admin-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+      .hint {
+        font-size: 0.85rem;
+        color: #666;
+      }
+      .form-col {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+      label {
+        font-size: 0.85rem;
+        font-weight: 500;
+      }
+      .form-control {
+        box-sizing: border-box;
+        border-radius: 8px;
+        font-size: 0.9rem;
+        padding: 10px;
+        border: 1px solid #e6e6e6;
+        background: #fff;
+        min-height: 40px;
+        line-height: 1.25;
+      }
+      textarea.form-control {
+        resize: vertical;
+        min-height: 48px;
+      }
+      #productsList {
+        margin-top: 12px;
+        max-height: 580px;
+        overflow: auto;
+      }
+      .product-row {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        padding: 10px 0;
+        border-bottom: 1px solid #f1f1f1;
+        min-height: 76px;
+      }
+      .product-row:last-child {
+        border-bottom: none;
+      }
+      .product-row-img {
+        width: 96px;
+        height: 96px;
+        flex: 0 0 96px;
+        border-radius: 10px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .product-row-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      .product-row-img .placeholder {
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(180deg, #f6f6f4, #efefef);
+      }
+      .product-row-main {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        flex: 1 1 auto;
+        min-width: 0;
+      }
+      .product-meta {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        width: 100%;
+        min-width: 0;
+      }
+      .product-title {
+        font-weight: 600;
+        font-size: 0.95rem;
+        color: var(--text-dark);
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: 1.2;
+        word-break: break-word;
+        min-width: 0;
+      }
+      .product-sub {
+        display: none;
+        color: #666;
+        font-size: 0.92rem;
+        margin-top: 2px;
+      }
+      .product-id {
+        flex: 0 0 auto;
+        font-size: 0.82rem;
+        color: #8b8b8b;
+        margin-left: 8px;
+        white-space: nowrap;
+      }
+      .product-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        align-items: flex-end;
+        flex: 0 0 auto;
+        margin-left: 8px;
+      }
+      .product-actions .btn {
+        padding: 0.35rem 0.6rem;
+        border-radius: 999px;
+        font-size: 0.82rem;
+        min-width: 76px;
+        max-width: 120px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      .btn {
+        font-family: inherit;
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        text-align: center;
+        border-radius: 9999px;
+        border: 1px solid transparent;
+        background: transparent;
+        padding: 0.45rem 0.7rem;
+        transition: none;
+        box-shadow: none;
+      }
+      .btn-sm {
+        padding: 0.32rem 0.6rem;
+        font-size: 0.78rem;
+        min-width: 64px;
+      }
+      .btn-primary {
+        background: var(--olive);
+        border-color: var(--olive);
+        color: #fff;
+      }
+      .btn-success {
+        background: var(--elegant);
+        border-color: var(--elegant);
+        color: #fff;
+      }
+      .btn-outline-primary {
+        background: transparent;
+        border: 1px solid var(--olive);
+        color: var(--olive-dark);
+      }
+      .btn-outline-danger {
+        background: transparent;
+        border: 1px solid #c44;
+        color: #c44;
+      }
+      .btn-outline-secondary {
+        background: transparent;
+        border: 1px solid #ccc;
+        color: #444;
+      }
+      .btn-primary:hover,
+      .btn-primary:focus,
+      .btn-primary:active {
+        background: var(--olive) !important;
+        border-color: var(--olive) !important;
+        color: #fff !important;
+      }
+      .btn-success:hover,
+      .btn-success:focus,
+      .btn-success:active {
+        background: var(--elegant) !important;
+        border-color: var(--elegant) !important;
+        color: #fff !important;
+      }
+      .btn-outline-primary:hover,
+      .btn-outline-primary:focus,
+      .btn-outline-primary:active {
+        background: transparent !important;
+        border-color: var(--olive) !important;
+        color: var(--olive-dark) !important;
+      }
+      .btn-outline-danger:hover,
+      .btn-outline-danger:focus,
+      .btn-outline-danger:active {
+        background: transparent !important;
+        border-color: #c44 !important;
+        color: #c44 !important;
+      }
+      .btn-outline-secondary:hover,
+      .btn-outline-secondary:focus,
+      .btn-outline-secondary:active {
+        background: transparent !important;
+        border-color: #ccc !important;
+        color: #444 !important;
+      }
+      .btn:hover,
+      .btn:focus,
+      .btn:active,
+      .btn:focus-visible {
+        box-shadow: none !important;
+        filter: none !important;
+        opacity: 1 !important;
+        outline: none !important;
+      }
+      .products-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-bottom: 12px;
+      }
+      .products-title {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        flex: 0 1 auto;
+      }
+      .products-actions {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        flex: 0 0 auto;
+      }
+      .products-actions .btn {
+        padding: 0.6rem 1rem;
+        font-size: 0.95rem;
+        min-width: 140px;
+        box-sizing: border-box;
+      }
+      .category-wrap {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        min-width: 180px;
+        flex: 0 0 auto;
+        margin-left: 8px;
+      }
+      .category-wrap .form-control {
+        padding: 8px 12px 8px 10px;
+        padding-right: 2.8rem;
+        min-height: 40px;
+        line-height: 1.2;
+      }
+      @media (max-width: 992px) {
+        .product-sub {
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .product-row {
+          flex-direction: column;
+          align-items: stretch;
+          gap: 8px;
+          padding: 10px 6px;
+          min-height: 64px;
+        }
+        .product-meta {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 6px;
+        }
+        .product-id {
+          display: none;
+        }
+        .product-actions {
+          flex-direction: column;
+          align-items: stretch;
+          margin-left: 0;
+        }
+        .product-actions .btn {
+          width: 100%;
+          max-width: none;
+          text-align: center;
+        }
+        .product-row-img {
+          flex: none;
+          width: 100%;
+          max-width: 100%;
+          height: 220px;
+          margin: 0 auto;
+        }
+        .product-row-img img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+      @media (max-width: 768px) {
+        .products-header {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        .products-actions {
+          flex-direction: column;
+          width: 100%;
+          gap: 8px;
+        }
+        .products-actions .btn {
+          min-width: 0;
+          width: 100%;
+          text-align: center;
+          align-self: stretch;
+        }
+        .category-wrap .form-control {
+          padding-right: 1.1rem;
+        }
+        .category-wrap {
+          width: 100%;
+          margin-left: 0;
+        }
+      }
+      @media (max-width: 576px) {
+        .admin-actions {
+          flex-direction: column;
+          align-items: stretch;
+        }
+        .category-wrap {
+          min-width: 140px;
+        }
+      }
+      .category-wrap {
+        position: relative;
+      }
+      .category-wrap select {
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-color: #fff;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%236b825f' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 14px center;
+        background-size: 14px;
+        padding-right: 44px;
+      }
+      @media (min-width: 992px) {
+        #productsList {
+          padding-right: 12px;
+        }
+      }
+
+      .btn-edit {
+        padding: 0.45rem 0.9rem;
+        font-size: 0.85rem;
+        min-width: 96px;
+      }
+
+      .btn-edit-container {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 10px;
+      }
+
+      /* estilos sencillos para dropzone previews */
+      #imagePreviewList .img-thumb {
+        width: 96px;
+        height: 96px;
+        border-radius: 8px;
+        overflow: hidden;
+        background: #f6f6f4;
+      }
+      #imageDropzone {
+        transition: background 0.15s, border-color 0.15s;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="admin-wrapper">
+      <h2>Panel Admin - Casas y Estilos</h2>
+      <p class="small-muted">Acceso privado para gestión de productos</p>
+      <div id="loginBox" class="box">
+        <h4>Iniciar sesión</h4>
+        <p class="hint">Introduce la contraseña de administrador</p>
+
+        <input
+          id="adminPassword"
+          class="form-control"
+          type="password"
+          placeholder="Contraseña admin"
+        />
+
+        <div style="margin-top: 12px; display: flex; gap: 8px">
+          <button id="btnLogin" class="btn btn-sm btn-outline-primary btn-edit">
+            Iniciar sesión
+          </button>
+          <button id="btnClearToken" class="btn btn-sm btn-outline-secondary btn-edit">
+            Limpiar sesión
+          </button>
+        </div>
+
+        <div id="loginStatus" style="margin-top: 8px"></div>
+      </div>
+
+      <div id="adminPanel" style="display: none">
+        <div class="admin-grid">
+          <div class="box">
+            <div class="products-header">
+              <div class="products-title">
+                <h4>Productos</h4>
+                <div class="small-muted" style="font-size: 0.9rem">
+                  <span id="adminHint">Autenticado (token activo)</span>
+                </div>
+              </div>
+
+              <div class="products-actions" role="group" aria-label="Acciones de productos">
+                <button
+                  id="btnRefresh"
+                  class="btn btn-sm btn-outline-primary btn-edit"
+                  type="button"
+                >
+                  Actualizar lista
+                </button>
+
+                <button id="btnLogout" class="btn btn-sm btn-outline-danger btn-edit" type="button">
+                  Cerrar sesión
+                </button>
+              </div>
+
+              <div class="category-wrap">
+                <label class="small-muted">Categoría</label>
+                <select id="categorySelect" class="form-control">
+                  <option value="edredones">Edredones</option>
+                  <option value="frazadas">Frazadas</option>
+                  <option value="manteleria">Mantelería</option>
+                  <option value="mosquiteros">Mosquiteros</option>
+                  <option value="protectores">Protectores de Colchón</option>
+                  <option value="sabanas">Sábanas</option>
+                  <option value="salidas-de-bano">Salidas de baño</option>
+                  <option value="tela-bramante">Tela Bramante</option>
+                  <option value="toallas-y-batas">Toallas y Batas</option>
+                  <option value="pantuflas">Pantuflas</option>
+                </select>
+              </div>
+            </div>
+
+            <div style="margin-top: 12px">
+              <input
+                id="filterInput"
+                class="form-control"
+                placeholder="Filtrar por nombre o tag…"
+              />
+            </div>
+
+            <div id="productsList" style="margin-top: 12px"></div>
+          </div>
+
+          <div class="box">
+            <h5 id="formTitle">Agregar producto</h5>
+
+            <form id="productForm" class="form-col" autocomplete="off">
+              <input id="p_id" type="hidden" />
+
+              <label>Nombre</label>
+              <input id="p_nombre" class="form-control" required />
+
+              <label>Subnombre</label>
+              <input id="p_subnombre" class="form-control" />
+
+              <label>Marca</label>
+              <input id="p_marca" class="form-control" />
+
+              <label>Imágenes (arrastrar o seleccionar)</label>
+
+              <div
+                id="imageDropzone"
+                class="form-control"
+                style="
+                  min-height: 120px;
+                  display: flex;
+                  gap: 12px;
+                  align-items: flex-start;
+                  flex-wrap: wrap;
+                  padding: 10px;
+                "
+              >
+                <div id="imagePreviewList" style="display: flex; gap: 8px; flex-wrap: wrap"></div>
+
+                <div style="flex: 1; min-width: 200px">
+                  <input id="p_img" type="hidden" />
+                  <input id="p_img2" type="hidden" />
+
+                  <input
+                    id="fileInput"
+                    type="file"
+                    accept="image/*"
+                    multiple
+                    style="display: none"
+                  />
+
+                  <div style="margin-top: 6px; display: flex; gap: 8px; align-items: center">
+                    <button
+                      id="btnSelectImage"
+                      type="button"
+                      class="btn btn-sm btn-outline-primary btn-edit"
+                    >
+                      Seleccionar imágenes
+                    </button>
+                    <button
+                      id="btnClearImages"
+                      type="button"
+                      class="btn btn-sm btn-outline-secondary btn-edit"
+                    >
+                      Limpiar
+                    </button>
+                  </div>
+
+                  <div class="hint" style="margin-top: 8px; font-size: 0.88rem">
+                    Arrastra 1 o 2 imágenes aquí (escritorio) o pulsa "Seleccionar imágenes"
+                    (móvil).
+                  </div>
+                </div>
+              </div>
+
+              <label>Precio desde</label>
+              <input id="p_precio" class="form-control" type="number" step="0.01" />
+
+              <label>Descripción corta</label>
+              <textarea id="p_desc_corta" class="form-control" rows="2"></textarea>
+
+              <label>Descripción larga</label>
+              <textarea id="p_desc" class="form-control" rows="4"></textarea>
+
+              <label>Features</label>
+              <input id="p_features" class="form-control" />
+
+              <label>Tags</label>
+              <input id="p_tags" class="form-control" />
+
+              <label>Categorías</label>
+              <input id="p_categorias" class="form-control" />
+
+              <div class="btn-edit-container">
+                <button id="btnSave" class="btn btn-sm btn-success btn-edit">Guardar</button>
+                <button
+                  id="btnCancelEdit"
+                  type="button"
+                  class="btn btn-sm btn-outline-secondary btn-edit"
+                  style="display: none"
+                >
+                  Cancelar
+                </button>
+              </div>
+
+              <div id="formStatus" style="margin-top: 8px"></div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <template id="tplProductRow">
+      <div class="product-row">
+        <div class="product-row-img">
+          <img src="" alt="Imagen producto" />
+        </div>
+
+        <div class="product-row-main">
+          <div class="product-meta">
+            <div style="min-width: 0">
+              <span class="product-title" title="">Nombre del producto (se truncará)</span>
+              <div class="product-sub" title="">Subnombre — se mostrará sólo en mobile</div>
+            </div>
+            <span class="product-id">ID: ejemplo-0001</span>
+          </div>
+
+          <div class="product-actions">
+            <button class="btn btn-sm btn-outline-primary btn-edit" data-id="">Editar</button>
+            <button class="btn btn-sm btn-outline-danger btn-edit" data-id="">Eliminar</button>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <script src="/js/admin.js"></script>
+  </body>
+</html>

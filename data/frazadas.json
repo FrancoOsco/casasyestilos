@@ -1,0 +1,1482 @@
+{
+  "FRAZADAS": [
+    {
+      "id": "frazadas-producto-001",
+      "nombre": "Frazada Hotelera - Microfibra 1 plaza",
+      "subnombre": "Línea Hotelera - Microfibra resistente",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Ligera, antihumedad y de secado rápido — pensada para rotación hotelera.",
+      "descripcion": "Frazada diseñada para uso intensivo en hotelería: tejido de microfibra de alta durabilidad con tratamiento antihumedad. Presentación prolija, fácil lavado y secado rápido. Acolchado ligero que mantiene la apariencia después de múltiples lavados industriales. Ideal para establecimientos que requieren rapidez en la reposición de habitaciones.",
+      "features": [
+        "Microfibra de alta resistencia",
+        "Tratamiento antihumedad y secado rápido",
+        "Acolchado ligero que mantiene forma",
+        "Apta para lavado frecuente"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra 100% poliéster",
+        "Relleno": "Fibra hueca 150 g/m²",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "0.9 kg",
+        "Uso recomendado": "Hoteles, hostales, Airbnb",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco / Gris claro"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Microfibra, 150 g/m²"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Microfibra, mayor cobertura"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Hotelero"],
+      "tags": ["microfibra", "hotelero", "antihumedad", "rápido secado"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-002",
+      "nombre": "Frazada Hotelera - Microfibra 2 plazas",
+      "subnombre": "Versión matrimonial para uso intensivo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Mayor cuerpo y durabilidad — ideal para habitaciones dobles.",
+      "descripcion": "Frazada en microfibra con mayor densidad y acolchado reforzado, diseñada para ofrecer buena presentación y resistencia al uso diario. Acabado que facilita el lavado industrial y reduce tiempo de reposición. Mantiene la caída y acabado después de múltiples ciclos.",
+      "features": [
+        "Microfibra de mayor gramaje",
+        "Acolchado reforzado",
+        "Resistente a lavados industriales",
+        "Acabado uniforme y fácil manejo"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra premium",
+        "Relleno": "Fibra hueca 220 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.5 kg",
+        "Uso recomendado": "Hotelería, familias",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco / Marfil"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Microfibra, 220 g/m²"
+        },
+        {
+          "model": "King",
+          "length": "240 x 260 cm",
+          "spec": "Mayor cobertura para camas grandes"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Hotelero"],
+      "tags": ["microfibra", "durable", "hotelero"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-003",
+      "nombre": "Frazada Premium - Sherpa Queen",
+      "subnombre": "Doble cara: velvet + sherpa",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Doble cara para abrigo extra y tacto lujoso.",
+      "descripcion": "Frazada premium reversible: un lado velvet suave y el otro sherpa de alta densidad. Ofrece una estética sofisticada y excelente aislamiento térmico, ideal para habitaciones premium y suites. Costuras reforzadas y acabado de alta gama.",
+      "features": [
+        "Doble cara: velvet / sherpa",
+        "Aislamiento térmico superior",
+        "Costuras reforzadas",
+        "Presentación premium"
+      ],
+      "specs": {
+        "Material exterior": "Velvet / Sherpa (100% poliéster)",
+        "Relleno": "Acolchado 300 g/m²",
+        "Dimensión standard": "200 x 220 cm",
+        "Peso aproximado": "2.2 kg",
+        "Uso recomendado": "Suites, habitaciones premium",
+        "Lavado": "Lavado suave; secado a baja temperatura",
+        "Color disponible": "Crudo / Beige / Gris"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "200 x 220 cm",
+          "spec": "Velvet + Sherpa, 300 g/m²"
+        },
+        {
+          "model": "King",
+          "length": "240 x 260 cm",
+          "spec": "Mayor tamaño para camas king"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Premium"],
+      "tags": ["sherpa", "velvet", "premium", "reversible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-004",
+      "nombre": "Frazada Premium - Sherpa King",
+      "subnombre": "Mayor tamaño y espesor",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 269.9,
+      "descripcion_corta": "Espesor y tamaño para climas fríos.",
+      "descripcion": "Versión King de la frazada sherpa premium, pensada para camas grandes donde se busca máxima calidez sin perder estilo. Excelente retención térmica y sensación de lujo. Recomendable para estaciones frías y presentaciones de alto nivel.",
+      "features": [
+        "Espesor superior",
+        "Reversibilidad velvet / sherpa",
+        "Acabado premium",
+        "Costuras reforzadas"
+      ],
+      "specs": {
+        "Material exterior": "Velvet / Sherpa",
+        "Relleno": "400 g/m²",
+        "Dimensión standard": "240 x 260 cm",
+        "Peso aproximado": "3.1 kg",
+        "Uso recomendado": "Dormitorios fríos, suites",
+        "Lavado": "Lavado delicado; secar a baja temperatura",
+        "Color disponible": "Gris / Beige / Blanco"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "240 x 260 cm",
+          "spec": "Sherpa + Velvet, 400 g/m²"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Premium"],
+      "tags": ["sherpa", "king", "abrigo", "lujo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-005",
+      "nombre": "Frazada Acolchada Jacquard - 2 plazas",
+      "subnombre": "Textura decorativa con acolchado ligero",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Acolchado ligero y diseño jacquard para ambientación.",
+      "descripcion": "Frazada con tejido jacquard que aporta textura y estilo; acolchado ligero que sirve como colcha decorativa y como capa adicional de abrigo. Recomendable para habitaciones que buscan combinación entre estética y funcionalidad.",
+      "features": [
+        "Tejido jacquard con relieve",
+        "Acolchado ligero",
+        "Apto como colcha decorativa",
+        "Fácil cuidado"
+      ],
+      "specs": {
+        "Material exterior": "Algodón / mezcla jacquard",
+        "Relleno": "Acolchado 180 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.2 kg",
+        "Uso recomendado": "Decoración y uso diario",
+        "Lavado": "A máquina a 40°C",
+        "Color disponible": "Crudo / Gris / Azul"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Jacquard, acolchado 180 g/m²"
+        },
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 230 cm",
+          "spec": "Versión intermedia"
+        }
+      ],
+      "categorias": ["Frazadas", "Decoración", "Ropa de Cama"],
+      "tags": ["jacquard", "acolchado", "decorativo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-006",
+      "nombre": "Frazada Acolchada Jacquard - 1.5 plazas",
+      "subnombre": "Versión intermedia para camas individuales grandes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Buen equilibrio entre presentación y funcionalidad.",
+      "descripcion": "Frazada jacquard en versión 1.5 plazas: aporta una estética cuidada con acolchado que no añade volumen excesivo. Ideal para camas de huéspedes y habitaciones con look cuidado.",
+      "features": [
+        "Jacquard con relieve sutil",
+        "Acolchado para mejor caída",
+        "Ligera y manejable",
+        "Lavado doméstico seguro"
+      ],
+      "specs": {
+        "Material exterior": "Algodón mezclado",
+        "Relleno": "Acolchado 160 g/m²",
+        "Dimensión standard": "180 x 230 cm",
+        "Peso aproximado": "1.0 kg",
+        "Uso recomendado": "Habitaciones estándar",
+        "Lavado": "A máquina a 40°C",
+        "Color disponible": "Crudo / Beige"
+      },
+      "models": [
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 230 cm",
+          "spec": "Jacquard, acolchado ligero"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Decoración"],
+      "tags": ["jacquard", "1.5 plazas", "acolchado"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-007",
+      "nombre": "Frazada Reversible - Velvet / Sherpa 1.5 plazas",
+      "subnombre": "Versatilidad de uso y look doble",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Un lado elegante, otro cálido — perfecta para estaciones mixtas.",
+      "descripcion": "Frazada reversible que permite cambiar rápidamente la estética de la habitación: lado velvet para look sofisticado y lado sherpa para mayor abrigo. Buena opción para alojamientos que buscan flexibilidad sin sacrificar calidad.",
+      "features": [
+        "Reversible velvet / sherpa",
+        "Fácil cambio de look",
+        "Acolchado estable",
+        "Buena retención térmica"
+      ],
+      "specs": {
+        "Material exterior": "Velvet / Sherpa",
+        "Relleno": "Acolchado 250 g/m²",
+        "Dimensión standard": "180 x 230 cm",
+        "Peso aproximado": "1.6 kg",
+        "Uso recomendado": "Habitaciones 4 estaciones",
+        "Lavado": "Lavado suave",
+        "Color disponible": "Gris / Crudo"
+      },
+      "models": [
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 230 cm",
+          "spec": "Velvet + Sherpa"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Mayor cobertura"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Versátil"],
+      "tags": ["reversible", "sherpa", "velvet"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-008",
+      "nombre": "Frazada Reversible - Velvet / Sherpa 2 plazas",
+      "subnombre": "Doble función para habitaciones dobles",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Versátil y cálida: dos texturas en una pieza.",
+      "descripcion": "Frazada reversible en tamaño matrimonial, diseñada para ofrecer dos sensaciones: un lado suave y elegante, el otro cálido y mullido. Ideal para hoteles boutique y casas que desean una pieza multifunción.",
+      "features": [
+        "Reversible",
+        "Aislamiento térmico efectivo",
+        "Tacto premium",
+        "Durabilidad en costuras"
+      ],
+      "specs": {
+        "Material exterior": "Velvet / Sherpa",
+        "Relleno": "300 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "2.0 kg",
+        "Uso recomendado": "Habitaciones matrimoniales",
+        "Lavado": "Lavado suave",
+        "Color disponible": "Beige / Gris"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Velvet + Sherpa, 300 g/m²"
+        }
+      ],
+      "categorias": ["Frazadas", "Ropa de Cama", "Reversible"],
+      "tags": ["reversible", "matrimonial", "sherpa"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-009",
+      "nombre": "Frazada Ultra ligera - Percal 1 plaza",
+      "subnombre": "Frescura y ligereza para verano",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Finita, transpirable y perfecta para clima cálido.",
+      "descripcion": "Frazada en percal ligero pensada para verano o climas templados. Transpirable y con caída natural, ofrece una capa adicional sin provocar calor excesivo. Ideal para habitaciones cuyo objetivo es ofrecer una noche fresca.",
+      "features": ["Tejido percal transpirable", "Muy ligera", "Fácil lavado", "Aspecto natural"],
+      "specs": {
+        "Material exterior": "Percal 100% algodón (o mezcla según stock)",
+        "Relleno": "Ultraligero 80 g/m²",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "0.6 kg",
+        "Uso recomendado": "Verano, climas templados",
+        "Lavado": "A máquina a 40°C",
+        "Color disponible": "Blanco / Natural"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Percal, ultraligera"
+        }
+      ],
+      "categorias": ["Frazadas", "Verano", "Ropa de Cama"],
+      "tags": ["percal", "ligera", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-010",
+      "nombre": "Frazada Antiácaros - Hipoalergénica 2 plazas",
+      "subnombre": "Tratamiento antiácaros para mayor higiene",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Barrera contra ácaros y alérgenos, ideal para huéspedes sensibles.",
+      "descripcion": "Frazada con tratamiento antiácaros y acabado hipoalergénico. Diseñada para reducir partículas y alérgenos en la superficie, facilitando un descanso más sano. Recomendable para habitaciones de huéspedes con requerimientos sanitarios o clientes sensibles.",
+      "features": [
+        "Tratamiento antiácaros",
+        "Hipoalergénica",
+        "Apta para lavado frecuente",
+        "Superficie suave"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada",
+        "Relleno": "Fibra tratada 200 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.4 kg",
+        "Uso recomendado": "Hóspedes sensibles, medicina preventiva",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Tratamiento antiácaros"
+        }
+      ],
+      "categorias": ["Frazadas", "Salud", "Ropa de Cama"],
+      "tags": ["antiácaros", "hipoalergénico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-011",
+      "nombre": "Frazada Hotelera Blanca - King",
+      "subnombre": "Presentación impecable para camas grandes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 239.9,
+      "descripcion_corta": "Acabado blanco puro y fácil mantenimiento hotelero.",
+      "descripcion": "Frazada diseñada para servicios de hospedaje que requieren una presentación blanca y homogénea. Materiales y confección pensadas para lavados frecuentes y planchados industriales; mantiene blanco y forma luego de varios ciclos.",
+      "features": [
+        "Blanco hospitalario/hotelero",
+        "Resistente a lavados intensivos",
+        "Acabado liso y presentable",
+        "Costuras reforzadas"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra / mezcla lavable",
+        "Relleno": "200-300 g/m² según medida",
+        "Dimensión standard": "240 x 260 cm",
+        "Peso aproximado": "2.6 kg",
+        "Uso recomendado": "Hotelería, suites",
+        "Lavado": "A máquina hasta 90°C (según etiqueta)",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "240 x 260 cm",
+          "spec": "Diseño hotelero, alta resistencia"
+        }
+      ],
+      "categorias": ["Frazadas", "Hotelero", "Ropa de Cama"],
+      "tags": ["hotelero", "blanco", "king"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-012",
+      "nombre": "Frazada Estampada Diseño - Algodón 2 plazas",
+      "subnombre": "Estampados exclusivos para ambientación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Estampados modernos para habitaciones con estilo.",
+      "descripcion": "Frazada en algodón con estampados exclusivos que permiten ambientar habitaciones temáticas o juveniles. Diseño pensado para ofrecer color y textura sin comprometer resistencia al uso y al lavado.",
+      "features": [
+        "Estampados exclusivos",
+        "Algodón lavable",
+        "Colores resistentes",
+        "Acabado para decoración"
+      ],
+      "specs": {
+        "Material exterior": "Algodón estampado",
+        "Relleno": "Acolchado ligero 140 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.1 kg",
+        "Uso recomendado": "Habitaciones temáticas, juveniles",
+        "Lavado": "A máquina a 40°C",
+        "Color disponible": "Varios estampados"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Algodón estampado"
+        }
+      ],
+      "categorias": ["Frazadas", "Decoración", "Algodón"],
+      "tags": ["estampado", "algodón", "diseño"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-013",
+      "nombre": "Frazada Lana Merino - 1.5 plazas",
+      "subnombre": "Regulación térmica natural",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 349.9,
+      "descripcion_corta": "Propiedades térmicas naturales y tacto premium.",
+      "descripcion": "Frazada elaborada con lana merino (o mezcla con merino) que ofrece regulación natural de la temperatura, alta transpirabilidad y tacto suave. Ideal para habitaciones premium y para clientes que valoran materiales naturales.",
+      "features": ["Regulación térmica natural", "Transpirable", "Tacto premium", "Durabilidad"],
+      "specs": {
+        "Material exterior": "Lana Merino / mezcla textil",
+        "Relleno": "Lana 300 g/m²",
+        "Dimensión standard": "180 x 230 cm",
+        "Peso aproximado": "1.8 kg",
+        "Uso recomendado": "Suites, estaciones frías",
+        "Lavado": "Lavado profesional recomendado",
+        "Color disponible": "Natural / Gris / Beige"
+      },
+      "models": [
+        {
+          "model": "1.5 plazas",
+          "length": "180 x 230 cm",
+          "spec": "Lana Merino, alta regulación"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Mayor cobertura"
+        }
+      ],
+      "categorias": ["Frazadas", "Natural", "Premium"],
+      "tags": ["lana", "merino", "natural"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-014",
+      "nombre": "Frazada Bemberg Transpirable - Queen",
+      "subnombre": "Tacto natural y mayor frescura",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 259.9,
+      "descripcion_corta": "Tejido Bemberg que ayuda a regular la temperatura corporal.",
+      "descripcion": "Frazada confeccionada con Bemberg (o tejido similar) para ofrecer un tacto suave y una mayor sensación de frescura. Indicado para clientes que buscan materiales naturales y confort durante la noche.",
+      "features": [
+        "Tacto natural",
+        "Alta transpirabilidad",
+        "Presentación premium",
+        "Ligera y elegante"
+      ],
+      "specs": {
+        "Material exterior": "Bemberg / mezcla natural",
+        "Relleno": "Acolchado ligero 180 g/m²",
+        "Dimensión standard": "200 x 220 cm",
+        "Peso aproximado": "1.4 kg",
+        "Uso recomendado": "Descanso premium, habitaciones cálidas",
+        "Lavado": "Lavado suave recomendado",
+        "Color disponible": "Crudo / Azul claro"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "200 x 220 cm",
+          "spec": "Bemberg transpirable"
+        }
+      ],
+      "categorias": ["Frazadas", "Premium", "Transpirable"],
+      "tags": ["bemberg", "transpirable", "queen"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-015",
+      "nombre": "Frazada de Verano - Lino mezclado 2 plazas",
+      "subnombre": "Fresca con caída natural",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Fresca y con caída natural — ideal para estaciones cálidas.",
+      "descripcion": "Frazada en mezcla de lino pensada para verano: aspecto rústico y elegante, tacto fresco y buena ventilación. Aporta estilo y funcionalidad para habitaciones en climas cálidos.",
+      "features": ["Mezcla con lino", "Aspecto rústico", "Transpirable", "Fácil cuidado"],
+      "specs": {
+        "Material exterior": "Lino mezclado",
+        "Relleno": "Acolchado 120 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.0 kg",
+        "Uso recomendado": "Verano, decoración natural",
+        "Lavado": "A máquina 30-40°C",
+        "Color disponible": "Natural / Beige"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Lino mezclado, caída natural"
+        }
+      ],
+      "categorias": ["Frazadas", "Verano", "Ropa de Cama"],
+      "tags": ["lino", "verano", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-016",
+      "nombre": "Frazada Acolchada Minimal - Algodón 1 plaza",
+      "subnombre": "Diseño sobrio y uso diario",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Sobria, práctica y fácil de mantener para uso cotidiano.",
+      "descripcion": "Frazada de algodón con acolchado minimalista: diseño limpio, suave al tacto y fácil cuidado. Pensada para habitaciones que buscan simplicidad y funcionalidad.",
+      "features": [
+        "Algodón de fácil cuidado",
+        "Acolchado minimalista",
+        "Ligera y manejable",
+        "Presentación neutra"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100%",
+        "Relleno": "Acolchado 120 g/m²",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "0.8 kg",
+        "Uso recomendado": "Uso diario, casas y habitaciones",
+        "Lavado": "A máquina a 40°C",
+        "Color disponible": "Blanco / Crudo"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Algodón, acolchado minimal"
+        }
+      ],
+      "categorias": ["Frazadas", "Algodón", "Ropa de Cama"],
+      "tags": ["minimal", "algodón", "uso diario"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-017",
+      "nombre": "Frazada Luxury - Satén 300 hilos Queen",
+      "subnombre": "Tacto sedoso y presentación premium",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 419.9,
+      "descripcion_corta": "Brillo sutil y caída sedosa para espacios premium.",
+      "descripcion": "Frazada de alta gama con acabado satén de 300 hilos. Ofrece brillo y suavidad, ideal para presentaciones elegantes en hoteles boutique o dormitorios premium. Confección cuidada y detalles de terminación.",
+      "features": ["Satén 300 hilos", "Tacto sedoso", "Acabado premium", "Terminado fino"],
+      "specs": {
+        "Material exterior": "Satén 300 hilos (algodón / mezcla)",
+        "Relleno": "Acolchado 220 g/m²",
+        "Dimensión standard": "200 x 220 cm",
+        "Peso aproximado": "1.9 kg",
+        "Uso recomendado": "Presentaciones premium",
+        "Lavado": "Lavado delicado",
+        "Color disponible": "Marfil / Blanco"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "200 x 220 cm",
+          "spec": "Satén premium, acabado fino"
+        }
+      ],
+      "categorias": ["Frazadas", "Premium", "Ropa de Cama"],
+      "tags": ["satén", "premium", "300 hilos"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-018",
+      "nombre": "Frazada Protector Impermeable - 2 plazas",
+      "subnombre": "Protección sin renunciar al acabado",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Capa inferior impermeable que mantiene la frazada seca.",
+      "descripcion": "Frazada con membrana impermeable discreta que protege contra derrames y humedad sin sacrificar la transpirabilidad. Ideal en contextos donde se busca proteger la inversión sin perder apariencia.",
+      "features": [
+        "Membrana impermeable invisible",
+        "Transpirable",
+        "Acabado estético",
+        "Apta para uso doméstico y hotelero"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra / mezcla",
+        "Relleno": "Acolchado 200 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.6 kg",
+        "Uso recomendado": "Protección y presentación",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco / Crudo"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Impermeable discreto"
+        }
+      ],
+      "categorias": ["Frazadas", "Protectores", "Ropa de Cama"],
+      "tags": ["impermeable", "protector", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-019",
+      "nombre": "Frazada Camping - Fibras Térmicas 1 plaza",
+      "subnombre": "Compacta y aislante para actividades outdoor",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Ligera, compacta y con buen aislamiento térmico.",
+      "descripcion": "Frazada pensada para camping y actividades al aire libre: materiales ligeros, buen poder aislante y fácil transporte. Se pliega compacto y ofrece protección térmica en condiciones variables.",
+      "features": [
+        "Compacta y ligera",
+        "Buen aislamiento térmico",
+        "Fácil de transportar",
+        "Resistente al uso exterior"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra técnica",
+        "Relleno": "Fibras térmicas 250 g/m²",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "0.9 kg",
+        "Uso recomendado": "Camping, outdoor",
+        "Lavado": "A máquina 30-40°C",
+        "Color disponible": "Verde oliva / Azul"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Compacta, para camping"
+        }
+      ],
+      "categorias": ["Frazadas", "Camping", "Outdoor"],
+      "tags": ["camping", "térmica", "compacta"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-020",
+      "nombre": "Frazada Antibacterial - Microfibra 2 plazas",
+      "subnombre": "Tratamiento que reduce bacterias y malos olores",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 169.9,
+      "descripcion_corta": "Tratamiento antibacteriano para uso intensivo.",
+      "descripcion": "Frazada con acabado antibacteriano diseñado para reducir proliferación de bacterias y malos olores, prolongando la frescura de la prenda. Ideal para rotación frecuente y para entornos donde la higiene es prioritaria.",
+      "features": [
+        "Tratamiento antibacteriano",
+        "Control de malos olores",
+        "Apta para lavado frecuente",
+        "Tacto suave"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra con tratamiento antimicrobiano",
+        "Relleno": "Acolchado 220 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.6 kg",
+        "Uso recomendado": "Hotelería, hostales",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Gris / Blanco"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Antibacterial, microfibra"
+        }
+      ],
+      "categorias": ["Frazadas", "Higiene", "Ropa de Cama"],
+      "tags": ["antibacterial", "microfibra", "higiene"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-021",
+      "nombre": "Frazada King Size - Ultra Plush King",
+      "subnombre": "Máxima suavidad tipo peluche",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 399.9,
+      "descripcion_corta": "Suavidad extrema y aspecto tipo peluche para dormitorios premium.",
+      "descripcion": "Frazada ultra plush de gran volumen y suavidad, pensada para brindar una experiencia táctil tipo peluche. Recomendable para habitaciones de alto nivel y clientes que buscan una sensación sumamente acogedora.",
+      "features": [
+        "Ultra plush de alta densidad",
+        "Sensación tipo peluche",
+        "Gran volumen y abrigo",
+        "Acabado lujoso"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra ultra plush",
+        "Relleno": "Denso 450 g/m²",
+        "Dimensión standard": "240 x 260 cm",
+        "Peso aproximado": "3.5 kg",
+        "Uso recomendado": "Dormitorios premium",
+        "Lavado": "Lavado delicado; secar a baja temperatura",
+        "Color disponible": "Beige / Gris / Marfil"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "240 x 260 cm",
+          "spec": "Ultra plush, máxima suavidad"
+        }
+      ],
+      "categorias": ["Frazadas", "Premium", "Ropa de Cama"],
+      "tags": ["ultra plush", "king", "abrigo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-022",
+      "nombre": "Frazada Eco - Tela Reciclada - 2 plazas",
+      "subnombre": "Alternativa sostenible y transpirable",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Opción sostenible con buen tacto y resistencia.",
+      "descripcion": "Frazada fabricada con telas recicladas de alto rendimiento, pensada para clientes y proyectos que buscan reducir impacto ambiental sin renunciar a la funcionalidad. Buena transpirabilidad y resistencia a lavados.",
+      "features": [
+        "Tela reciclada certificada (según lote)",
+        "Transpirable",
+        "Resistente al uso",
+        "Apariencia moderna"
+      ],
+      "specs": {
+        "Material exterior": "Tela reciclada (mezcla poliéster reciclado)",
+        "Relleno": "Acolchado 160 g/m²",
+        "Dimensión standard": "200 x 240 cm",
+        "Peso aproximado": "1.2 kg",
+        "Uso recomendado": "Proyectos sostenibles, hoteles eco",
+        "Lavado": "A máquina 40°C",
+        "Color disponible": "Gris reciclado / Verde oliva"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Tela reciclada, transpirable"
+        }
+      ],
+      "categorias": ["Frazadas", "Eco", "Ropa de Cama"],
+      "tags": ["eco", "reciclado", "sostenible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-023",
+      "nombre": "Frazada Topper Fina",
+      "subnombre": "Añade suavidad sin alterar la firmeza",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Capa fina que protege y suaviza la superficie.",
+      "descripcion": "Topper tipo frazada, fino y ligero, diseñado para mejorar el tacto de la cama sin cambiar la sensación de soporte del colchón. Fácil de colocar y lavar, ideal para mejorar la experiencia del huésped de forma económica.",
+      "features": [
+        "Capa fina y suave",
+        "No altera la firmeza",
+        "Protege el colchón",
+        "Lavable y plegable"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra / mezcla suave",
+        "Relleno": "Acolchado 90 g/m²",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "0.5 kg",
+        "Uso recomendado": "Topper / capa adicional",
+        "Lavado": "A máquina 40°C",
+        "Color disponible": "Blanco / Crudo"
+      },
+      "models": [
+        {
+          "model": "Topper fino",
+          "length": "160 x 220 cm",
+          "spec": "Añade tacto sin cambiar soporte"
+        },
+        {
+          "model": "Queen",
+          "length": "200 x 220 cm",
+          "spec": "Versión mayor"
+        }
+      ],
+      "categorias": ["Frazadas", "Topper", "Ropa de Cama"],
+      "tags": ["topper", "fino", "suavidad"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-024",
+      "nombre": "Frazada Silence+ (antirruido) - Matrimonial",
+      "subnombre": "Tratamiento y capas que eliminan ruido",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Reducción de ruido al moverse, para caída natural de la sábana.",
+      "descripcion": "Frazada con capas y tratamiento que reducen el crujido típico de algunos protectores o tejidos, manteniendo la caída natural de la ropa de cama. Ideal cuando se busca confort acústico y presentación simultáneamente.",
+      "features": [
+        "Tratamiento antirruido",
+        "Caída natural de la ropa de cama",
+        "Acolchado silencioso",
+        "Buena presentación"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra silenciosa",
+        "Relleno": "Acolchado 180 g/m² con layer antirruido",
+        "Dimensión standard": "180 x 230 cm",
+        "Peso aproximado": "1.3 kg",
+        "Uso recomendado": "Hoteles que priorizan silencio",
+        "Lavado": "A máquina 40°C",
+        "Color disponible": "Blanco / Gris claro"
+      },
+      "models": [
+        {
+          "model": "Matrimonial",
+          "length": "180 x 230 cm",
+          "spec": "Silence+ antirruido"
+        }
+      ],
+      "categorias": ["Frazadas", "Confort", "Ropa de Cama"],
+      "tags": ["silence+", "antirruido", "matrimonial"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-025",
+      "nombre": "Frazada Anti-fluidos XL - King",
+      "subnombre": "Protección máxima contra líquidos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 249.9,
+      "descripcion_corta": "Superficie tratada y costuras selladas para máxima protección.",
+      "descripcion": "Frazada con tratamiento anti-fluidos y costuras selladas que ofrecen una barrera eficaz frente a derrames y manchas difíciles. Adecuada para entornos donde la protección es prioritaria (p.ej. familias con niños, hospitales privados, suites con servicio de comidas).",
+      "features": [
+        "Tratamiento anti-fluidos",
+        "Costuras selladas",
+        "Fácil limpieza",
+        "Alta durabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada anti-fluidos",
+        "Relleno": "Acolchado 300 g/m²",
+        "Dimensión standard": "240 x 260 cm",
+        "Peso aproximado": "3.0 kg",
+        "Uso recomendado": "Protección máxima, King size",
+        "Lavado": "A máquina hasta 60°C; secado moderado",
+        "Color disponible": "Blanco / Gris"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "240 x 260 cm",
+          "spec": "Anti-fluidos XL"
+        }
+      ],
+      "categorias": ["Frazadas", "Protección", "Ropa de Cama"],
+      "tags": ["anti-fluidos", "king", "sellado"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-026",
+      "nombre": "Frazada Lavable a Alta Temperatura - Matrimonial",
+      "subnombre": "Resistente a 90°C para desinfección profunda",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Soporta lavados a alta temperatura para entornos sanitarios.",
+      "descripcion": "Frazada específica para entornos que requieren desinfección profunda: materiales y confección que toleran lavados a altas temperaturas (hasta 90°C) sin perder forma ni color. Indicada para clínicas, hospitales privados y servicios de alojamiento que necesitan protocolos estrictos.",
+      "features": [
+        "Resistente a 90°C",
+        "Materiales estables en altas temperaturas",
+        "Durabilidad para lavados industriales",
+        "Apta para entornos sanitarios"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra técnica / mezcla resistente",
+        "Relleno": "Fibra estable 220 g/m²",
+        "Dimensión standard": "180 x 230 cm",
+        "Peso aproximado": "1.7 kg",
+        "Uso recomendado": "Hospitalario / Clínico / Hotelería con protocolos",
+        "Lavado": "Hasta 90°C según etiqueta",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Matrimonial",
+          "length": "180 x 230 cm",
+          "spec": "Lavable a alta temperatura"
+        }
+      ],
+      "categorias": ["Frazadas", "Hospitalario", "Ropa de Cama"],
+      "tags": ["alta temperatura", "lavable 90°C", "hospitalario"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "frazadas-producto-027",
+      "nombre": "Frazada Premium - Percal + Membrana (1 plaza)",
+      "subnombre": "Tacto percal con membrana invisible",
+      "marca": "Casas y Estilos",
+      "img": "/img/Frazadas/frazada-beta.png",
+      "img2": "/img/Frazadas/frazada-beta-2.png",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Acabado premium con protección casi imperceptible.",
+      "descripcion": "Frazada premium que combina la suavidad y caída del percal con una membrana fina e invisible que protege contra humedad y derrames leves. Ideal para clientes que buscan apariencia premium y funcionalidad protectora discreta.",
+      "features": [
+        "Tacto percal premium",
+        "Membrana protectora invisible",
+        "Acabado elegante",
+        "Buena transpirabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Percal premium + membrana",
+        "Relleno": "Acolchado 180 g/m²",
+        "Dimensión standard": "160 x 220 cm",
+        "Peso aproximado": "1.1 kg",
+        "Uso recomendado": "Presentaciones premium con protección",
+        "Lavado": "Lavado delicado; seguir etiqueta",
+        "Color disponible": "Blanco / Marfil"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "160 x 220 cm",
+          "spec": "Percal con membrana"
+        },
+        {
+          "model": "Queen",
+          "length": "200 x 220 cm",
+          "spec": "Versión mayor"
+        }
+      ],
+      "categorias": ["Frazadas", "Premium", "Protectores"],
+      "tags": ["percal", "membrana", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

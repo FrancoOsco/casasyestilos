@@ -1,0 +1,1549 @@
+{
+  "TELA_BRAMANTE": [
+    {
+      "id": "tela-bramante-producto-001",
+      "nombre": "Tela Bramante - Cruda 280g",
+      "subnombre": "Bramante crudo de uso múltiple",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 12.9,
+      "descripcion_corta": "Bramante crudo, texturado y resistente, ideal para tapicería ligera.",
+      "descripcion": "Tela bramante en color crudo con gramaje 280 g/m². Ofrece una textura rústica y buena resistencia a la tracción; adecuada para proyectos de tapicería, decoración y confección de fundas y accesorios.",
+      "features": [
+        "Gramaje 280 g/m²",
+        "Textura rústica",
+        "Alta resistencia al desgarro",
+        "Apta para teñido y acabado"
+      ],
+      "specs": {
+        "Material exterior": "Algodón / mezcla natural",
+        "Gramaje": "280 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Crudo natural",
+        "Uso recomendado": "Tapicería ligera, decoración",
+        "Lavado": "Lavar a máquina 30-40°C; planchar a temperatura media"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, ancho 150 cm"
+        },
+        {
+          "model": "Rollo 25m",
+          "length": "25 metros",
+          "spec": "Presentación en rollo para proyectos"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Tapicería", "Decoración"],
+      "tags": ["crudo", "280g", "rústico", "tapicería"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-002",
+      "nombre": "Tela Bramante - Teñida 280g",
+      "subnombre": "Bramante teñido con estabilidad de color",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 14.5,
+      "descripcion_corta": "Teñido estable con buena resistencia al roce; colores planos.",
+      "descripcion": "Tela bramante teñida en colores sólidos, gramaje 280 g/m². Tratamiento de fijación de color que minimiza migración y pérdida tras lavados domésticos y comerciales.",
+      "features": [
+        "Fijación de color certificada",
+        "Gramaje 280 g/m²",
+        "Buena resistencia al roce",
+        "Apto para confección y decoración"
+      ],
+      "specs": {
+        "Material exterior": "Algodón / mezcla teñida",
+        "Gramaje": "280 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Teñido sólido",
+        "Uso recomendado": "Cortinas, mantelería, confección",
+        "Lavado": "Lavar a máquina con colores similares"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, colores disponibles por catálogo"
+        },
+        {
+          "model": "Rollo 50m",
+          "length": "50 metros",
+          "spec": "Presentación para fabricantes y mayoristas"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Textiles", "Confección"],
+      "tags": ["teñida", "280g", "colores", "confección"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-003",
+      "nombre": "Tela Bramante - Cruda 320g",
+      "subnombre": "Bramante de mayor gramaje para más cuerpo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 16.9,
+      "descripcion_corta": "Mayor gramaje para proyectos que requieren más firmeza.",
+      "descripcion": "Bramante crudo de 320 g/m² pensado para aplicaciones donde se necesita mayor cuerpo: cortinas pesadas, fundas y refuerzos en tapicería.",
+      "features": [
+        "Gramaje 320 g/m²",
+        "Mayor densidad y cuerpo",
+        "Apto para tapizados y cortinas pesadas",
+        "Buena estabilidad dimensional"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla algodón/poliéster",
+        "Gramaje": "320 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Crudo",
+        "Uso recomendado": "Tapicería, cortinas pesadas",
+        "Lavado": "Lavado suave, secado a la sombra"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, ideal para proyectos a medida"
+        },
+        {
+          "model": "Rollo 25m",
+          "length": "25 metros",
+          "spec": "Rollo standard para tapiceros"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Tapicería", "Cortinería"],
+      "tags": ["320g", "crudo", "tapicería", "cortinas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-004",
+      "nombre": "Tela Bramante - Lona 350g",
+      "subnombre": "Lona bramante para aplicaciones exteriores moderadas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 19.9,
+      "descripcion_corta": "Lona resistente, apta para bolsas, toldos y usos exteriores moderados.",
+      "descripcion": "Bramante tipo lona, gramaje 350 g/m². Refuerzo en trama y acabado que soporta mayor tensión, ideal para bolsas, fundas y aplicaciones que requieren mayor robustez.",
+      "features": [
+        "Gramaje 350 g/m²",
+        "Trama densa y resistente",
+        "Apto para bolsos y toldos",
+        "Buen tratamiento contra abrasión"
+      ],
+      "specs": {
+        "Material exterior": "Algodón reforzado",
+        "Gramaje": "350 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Lona",
+        "Uso recomendado": "Bolsos, toldos, fundas",
+        "Lavado": "Lavado a mano o ciclo suave"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, ideal para complementos"
+        },
+        {
+          "model": "Rollo 20m",
+          "length": "20 metros",
+          "spec": "Rollo para producción"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Lona", "Outdoor"],
+      "tags": ["lona", "350g", "bolsos", "toldos"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-005",
+      "nombre": "Tela Bramante - Cruda Lavada 280g",
+      "subnombre": "Acabado lavado que suaviza la textura",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 15.5,
+      "descripcion_corta": "Acabado lavado que suaviza la tela manteniendo su carácter rústico.",
+      "descripcion": "Bramante crudo con acabado lavado que reduce rigidez inicial y aporta caída más agradable para prendas y cortinas con estética rústica-modernas.",
+      "features": [
+        "Acabado lavado",
+        "Tacto más suave",
+        "Mantiene resistencia",
+        "Apariencia envejecida ligera"
+      ],
+      "specs": {
+        "Material exterior": "Algodón lavado",
+        "Gramaje": "280 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Lavado suave",
+        "Uso recomendado": "Prendas, cortinas, mantelería",
+        "Lavado": "Lavar con cuidado para conservar el acabado"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Tacto suave, ideal para confecciones"
+        },
+        {
+          "model": "Rollo 30m",
+          "length": "30 metros",
+          "spec": "Rollo para decoración y confección"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Confección", "Decoración"],
+      "tags": ["lavada", "crudo", "280g", "suave"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-006",
+      "nombre": "Tela Bramante - Teñida Pesada 400g",
+      "subnombre": "Gramaje alto para usos industriales y tapicería pesada",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 22.9,
+      "descripcion_corta": "Gramaje alto para fundas, tapicería de alto tránsito y aplicaciones industriales.",
+      "descripcion": "Bramante teñido de 400 g/m², diseñado para tolerar uso intenso. Recomendado para mobiliario de alto tránsito, fundas y aplicaciones industriales donde se requiere máxima durabilidad.",
+      "features": [
+        "Gramaje 400 g/m²",
+        "Alta resistencia al desgaste",
+        "Estabilidad de color en teñidos",
+        "Apta para tapicería comercial"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla reforzada",
+        "Gramaje": "400 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Teñido pesado",
+        "Uso recomendado": "Tapicería comercial, fundas industriales",
+        "Lavado": "Lavado profesional recomendado"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro para tapizado robusto"
+        },
+        {
+          "model": "Rollo 10m",
+          "length": "10 metros",
+          "spec": "Rollo para reparaciones y proyectos grandes"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Tapicería", "Industrial"],
+      "tags": ["400g", "industrial", "tapicería", "resistente"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-007",
+      "nombre": "Tela Bramante - Pretratada Hidrófuga 320g",
+      "subnombre": "Tratamiento repelente al agua para uso funcional",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 21.5,
+      "descripcion_corta": "Tratamiento repelente al agua para aplicaciones exteriores y mantelería funcional.",
+      "descripcion": "Tela bramante con tratamiento hidrófugo que facilita el rechazo de líquidos ligeros. Recomendado para mantelería de uso frecuente, exteriores cubiertos y aplicaciones donde la resistencia a humedad es deseable.",
+      "features": [
+        "Tratamiento hidrófugo",
+        "Gramaje 320 g/m²",
+        "Fácil limpieza",
+        "Mantiene transpirabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Algodón tratado",
+        "Gramaje": "320 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Hidrófugo",
+        "Uso recomendado": "Mantelería funcional, exteriores cubiertos",
+        "Lavado": "Evitar suavizantes para conservar tratamiento"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Uso funcional para hostelería y restauración"
+        },
+        {
+          "model": "Rollo 40m",
+          "length": "40 metros",
+          "spec": "Rollo para instalaciones comerciales"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Mantelería", "Hostelería"],
+      "tags": ["hidrofugo", "320g", "mantelería", "funcional"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-008",
+      "nombre": "Tela Bramante - Reciclada 280g",
+      "subnombre": "Opción sostenible con buena resistencia",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 13.9,
+      "descripcion_corta": "Opción sostenible con buena resistencia, para proyectos eco-friendly.",
+      "descripcion": "Bramante fabricado parcial o totalmente con fibras recicladas. Mantiene buenas prestaciones mecánicas y es ideal para proyectos con enfoque sostenible.",
+      "features": [
+        "Contenido reciclado",
+        "Gramaje 280 g/m²",
+        "Buena resistencia",
+        "Alternativa eco-friendly"
+      ],
+      "specs": {
+        "Material exterior": "Fibras recicladas / mezcla",
+        "Gramaje": "280 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Crudo/Teñido",
+        "Uso recomendado": "Proyectos sostenibles y decoración",
+        "Lavado": "Lavado suave, evitar blanqueadores"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Alternativa ecológica para confección"
+        },
+        {
+          "model": "Rollo 30m",
+          "length": "30 metros",
+          "spec": "Presentación para proyectos grandes"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Sostenible", "Decoración"],
+      "tags": ["reciclado", "eco", "280g", "sostenible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-009",
+      "nombre": "Tela Bramante - Cruda Fina 220g",
+      "subnombre": "Bramante ligero para detalles y confecciones finas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 11.5,
+      "descripcion_corta": "Gramaje ligero para confecciones y detalles decorativos.",
+      "descripcion": "Bramante de 220 g/m² pensado para aplicaciones donde se busca la estética bramante pero con menor peso: forros, detalles decorativos y manualidades.",
+      "features": [
+        "Gramaje 220 g/m²",
+        "Ligero y manejable",
+        "Apariencia rústica",
+        "Fácil de coser"
+      ],
+      "specs": {
+        "Material exterior": "Algodón ligero",
+        "Gramaje": "220 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Crudo fino",
+        "Uso recomendado": "Detalles, patchwork, confección ligera",
+        "Lavado": "Lavar con programa para delicados"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Ideal para costura y manualidades"
+        },
+        {
+          "model": "Packs 5m",
+          "length": "5 metros",
+          "spec": "Packs para proyectos pequeños"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Confección", "Manualidades"],
+      "tags": ["220g", "ligero", "confección", "patchwork"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-010",
+      "nombre": "Tela Bramante - Estampada 280g",
+      "subnombre": "Estampados rústicos para mantelería y decoración",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 17.9,
+      "descripcion_corta": "Estampados rústicos para mantelería y decoración con carácter.",
+      "descripcion": "Bramante estampado con motivos rústicos y textura natural. Ideal para manteles, cojines y elementos decorativos con personalidad.",
+      "features": [
+        "Estampados duraderos",
+        "Gramaje 280 g/m²",
+        "Apariencia artesanal",
+        "Versátil en decoración"
+      ],
+      "specs": {
+        "Material exterior": "Algodón estampado",
+        "Gramaje": "280 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Estampado",
+        "Uso recomendado": "Mantelería, cojines, decoración",
+        "Lavado": "Lavar del revés para conservar el estampado"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro con distintos motivos"
+        },
+        {
+          "model": "Rollos 20m",
+          "length": "20 metros",
+          "spec": "Rollos para producción"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Estampados", "Mantelería"],
+      "tags": ["estampado", "280g", "mantelería", "decoración"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-011",
+      "nombre": "Tela Bramante - Ignífuga 320g",
+      "subnombre": "Tratamiento ignífugo para uso contract",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 26.9,
+      "descripcion_corta": "Tratamiento ignífugo para uso en entornos contract y hostelería.",
+      "descripcion": "Bramante con tratamiento ignífugo certificado para aplicaciones donde la normativa exige resistencia al fuego — ideal para cortinas y tapizados en ambientes contract y hotelero.",
+      "features": [
+        "Tratamiento ignífugo",
+        "Gramaje 320 g/m²",
+        "Cumple normativas contract",
+        "Resistencia elevada"
+      ],
+      "specs": {
+        "Material exterior": "Algodón tratado ignífugo",
+        "Gramaje": "320 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Ignífugo",
+        "Uso recomendado": "Hostelería, contract, cortinas",
+        "Lavado": "Limpieza profesional recomendada"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Uso para cortinas y tapizados contract"
+        },
+        {
+          "model": "Rollo 25m",
+          "length": "25 metros",
+          "spec": "Rollo para instalaciones comerciales"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Contract", "Hostelería"],
+      "tags": ["ignífugo", "320g", "contract", "hotelero"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-012",
+      "nombre": "Tela Bramante - Bicolor 300g",
+      "subnombre": "Tejido con dos tonos para acabados reversibles",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 18.5,
+      "descripcion_corta": "Dos tonos en un solo tejido para acabados reversibles y creativos.",
+      "descripcion": "Bramante bicolor con caras contrastantes que permiten usos reversibles en cojinería, mantelería y complementos, aportando versatilidad estética.",
+      "features": [
+        "Bicolor reversible",
+        "Gramaje 300 g/m²",
+        "Acabado estético",
+        "Uso decorativo y funcional"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla bicolor",
+        "Gramaje": "300 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Bicolor",
+        "Uso recomendado": "Cojines, mantelería, reversibles",
+        "Lavado": "Lavar por separado la primera vez"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, ideal para reversibles"
+        },
+        {
+          "model": "Rollo 20m",
+          "length": "20 metros",
+          "spec": "Rollo para producción"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Decoración", "Cojines"],
+      "tags": ["bicolor", "300g", "reversible", "cojines"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-013",
+      "nombre": "Tela Bramante - Acolchada Ligera 280g",
+      "subnombre": "Acolchado sutil para fundas y complementos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 23.9,
+      "descripcion_corta": "Acolchado sutil para fundas y complementos con textura.",
+      "descripcion": "Bramante con ligero acolchado que aporta volumen sin perder la esencia rústica del tejido; ideal para fundas, cojinería y accesorios de decoración.",
+      "features": [
+        "Acolchado ligero",
+        "Textura con cuerpo",
+        "Apta para fundas y cojines",
+        "Conserva aspecto rústico"
+      ],
+      "specs": {
+        "Material exterior": "Algodón acolchado",
+        "Gramaje": "280 g/m² + acolchado",
+        "Ancho": "150 cm",
+        "Acabado": "Acolchado ligero",
+        "Uso recomendado": "Cojines, fundas, complementos",
+        "Lavado": "Lavado delicado, secado a baja temperatura"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Acolchado para cojinería"
+        },
+        {
+          "model": "Panel 1x1m",
+          "length": "1 panel",
+          "spec": "Cortes listos para confección"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Cojines", "Acolchado"],
+      "tags": ["acolchado", "280g", "cojines", "fundas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-014",
+      "nombre": "Tela Bramante - Backing / Respaldo 350g",
+      "subnombre": "Respaldo para muebles y refuerzos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 20.9,
+      "descripcion_corta": "Perfecto como respaldo en muebles y para reforzar tapizados.",
+      "descripcion": "Bramante especial para backing y refuerzos, con gramaje y tratamiento que proporcionan estabilidad y soporte en piezas de mobiliario.",
+      "features": [
+        "Gramaje 350 g/m²",
+        "Alta estabilidad dimensional",
+        "Uso como respaldo y refuerzo",
+        "Compatible con adhesivos y cosidos industriales"
+      ],
+      "specs": {
+        "Material exterior": "Algodón reforzado",
+        "Gramaje": "350 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Respaldo/backing",
+        "Uso recomendado": "Muebles, refuerzos, tapicería",
+        "Lavado": "Limpieza profesional recomendada"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte para respaldos y refuerzos"
+        },
+        {
+          "model": "Rollo 15m",
+          "length": "15 metros",
+          "spec": "Rollo para tapiceros"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Tapicería", "Industrial"],
+      "tags": ["backing", "respaldo", "350g", "tapicería"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-015",
+      "nombre": "Tela Bramante - Denim Look 300g",
+      "subnombre": "Apariencia denim con robustez bramante",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 17.5,
+      "descripcion_corta": "Apariencia tipo denim con la robustez del bramante.",
+      "descripcion": "Bramante tratado para imitar apariencia denim manteniendo la resistencia característica del tejido; excelente para piezas decorativas y complementos con estética contemporánea.",
+      "features": [
+        "Look denim",
+        "Gramaje 300 g/m²",
+        "Resistente y estético",
+        "Apto para confección y complementos"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla con acabado denim",
+        "Gramaje": "300 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Denim look",
+        "Uso recomendado": "Bolsos, tapicería ligera, complementos",
+        "Lavado": "Lavar con prendas similares"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, apariencia denim"
+        },
+        {
+          "model": "Rollo 25m",
+          "length": "25 metros",
+          "spec": "Rollo para producción"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Denim Look", "Complementos"],
+      "tags": ["denim", "300g", "bolsos", "estético"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-016",
+      "nombre": "Tela Bramante - Lavable Industrial 320g",
+      "subnombre": "Tratada para lavados frecuentes sin perder estructura",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 24.9,
+      "descripcion_corta": "Tratada para soportar lavados frecuentes sin perder estructura.",
+      "descripcion": "Bramante resistente a ciclos de lavado industrial, indicado para fundas de muebles, mantelería y textiles de uso intensivo en hostelería y servicios.",
+      "features": [
+        "Resistente a lavados industriales",
+        "Gramaje 320 g/m²",
+        "Estabilidad de color",
+        "Baja deformación"
+      ],
+      "specs": {
+        "Material exterior": "Algodón tratado",
+        "Gramaje": "320 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Lavable industrial",
+        "Uso recomendado": "Hostelería, mantelería, fundas",
+        "Lavado": "Soporta lavados industriales"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro resistente"
+        },
+        {
+          "model": "Rollo 50m",
+          "length": "50 metros",
+          "spec": "Rollo para uso comercial"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Hostelería", "Industrial"],
+      "tags": ["lavable", "320g", "industrial", "hostelería"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-017",
+      "nombre": "Tela Bramante - Reforzada 420g",
+      "subnombre": "Para aplicaciones de alto tránsito e industriales",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 28.9,
+      "descripcion_corta": "Ideal para aplicaciones industriales y tapicería de alto tránsito.",
+      "descripcion": "Bramante de alta resistencia con refuerzos en trama, gramaje 420 g/m². Recomendada para mobiliario comercial, lonas técnicas y aplicaciones donde la durabilidad es crítica.",
+      "features": [
+        "Gramaje 420 g/m²",
+        "Trama reforzada",
+        "Alta resistencia a abrasión",
+        "Uso industrial"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla industrial reforzada",
+        "Gramaje": "420 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Refuerzo industrial",
+        "Uso recomendado": "Tapicería comercial, lonas",
+        "Lavado": "Limpieza profesional"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro para uso industrial"
+        },
+        {
+          "model": "Rollo 10m",
+          "length": "10 metros",
+          "spec": "Rollo para proyectos pesados"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Industrial", "Tapicería"],
+      "tags": ["420g", "reforzada", "industrial", "alto tránsito"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-018",
+      "nombre": "Tela Bramante - Microimpregnada 300g",
+      "subnombre": "Acabado que mejora resistencia a manchas y desgaste",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 21.5,
+      "descripcion_corta": "Acabado que mejora resistencia a manchas y desgaste.",
+      "descripcion": "Bramante microimpregnado que facilita la limpieza y mejora la resistencia a manchas y abrasión, manteniendo la transpirabilidad del tejido.",
+      "features": [
+        "Microimpregnado anti-manchas",
+        "Gramaje 300 g/m²",
+        "Mayor durabilidad",
+        "Fácil limpieza"
+      ],
+      "specs": {
+        "Material exterior": "Algodón microimpregnado",
+        "Gramaje": "300 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Microimpregnado",
+        "Uso recomendado": "Tapicería, mantelería, fundas",
+        "Lavado": "Limpiar con paño húmedo o lavado suave"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Corte por metro, acabado anti-manchas"
+        },
+        {
+          "model": "Rollo 30m",
+          "length": "30 metros",
+          "spec": "Rollo para hostelería y restauración"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Anti-manchas", "Tapicería"],
+      "tags": ["microimpregnado", "300g", "anti-manchas", "fácil limpieza"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-019",
+      "nombre": "Tela Bramante - Acolchada Pesada 360g",
+      "subnombre": "Acolchado con cuerpo para colchas y cubrecamas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 27.9,
+      "descripcion_corta": "Para colchas, cubrecamas y proyectos donde se requiera cuerpo.",
+      "descripcion": "Bramante con acolchado pesado que aporta volumen y estructura, ideal para cubrecamas, colchas y piezas donde la sensación de cuerpo es importante.",
+      "features": [
+        "Acolchado pesado",
+        "Gramaje 360 g/m²",
+        "Buena retención de forma",
+        "Uso en ropa de cama y cubrecamas"
+      ],
+      "specs": {
+        "Material exterior": "Algodón acolchado pesado",
+        "Gramaje": "360 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Acolchado pesado",
+        "Uso recomendado": "Cubrecamas, colchas, acolchados",
+        "Lavado": "Lavado delicado recomendado"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Acolchado para ropa de cama"
+        },
+        {
+          "model": "Panel 1x2m",
+          "length": "1 panel",
+          "spec": "Cortes listos para confección de colchas"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Ropa de Cama", "Acolchado"],
+      "tags": ["acolchado", "360g", "cubrecamas", "colchas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-020",
+      "nombre": "Tela Bramante - Patchwork 280g",
+      "subnombre": "Cortes y piezas para manualidades y proyectos creativos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 10.9,
+      "descripcion_corta": "Cortes y piezas para manualidades y proyectos creativos.",
+      "descripcion": "Surtido de piezas y cortes en bramante perfecto para patchwork, manualidades y talleres creativos. Presentación económica y versátil.",
+      "features": [
+        "Cortes listos para manualidades",
+        "Gramaje 280 g/m²",
+        "Económico y versátil",
+        "Ideal para talleres"
+      ],
+      "specs": {
+        "Material exterior": "Algodón crudo",
+        "Gramaje": "280 g/m²",
+        "Ancho": "varía según corte",
+        "Acabado": "Cortes patchwork",
+        "Uso recomendado": "Manualidades, patchwork, talleres",
+        "Lavado": "Lavar con cuidado"
+      },
+      "models": [
+        {
+          "model": "Pack piezas",
+          "length": "varios",
+          "spec": "Packs con piezas cortadas para proyectos"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Patchwork", "Manualidades"],
+      "tags": ["patchwork", "cortes", "280g", "manualidades"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-021",
+      "nombre": "Tela Bramante - Anti-manchas 300g",
+      "subnombre": "Tratamiento que facilita limpieza en entornos de comedor",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 20.5,
+      "descripcion_corta": "Tratamiento que facilita limpieza en entornos de cocina o comedor.",
+      "descripcion": "Bramante con acabado anti-manchas que reduce la absorción de líquidos y facilita la limpieza en zonas de uso alimentario o hostelería.",
+      "features": [
+        "Acabado anti-manchas",
+        "Gramaje 300 g/m²",
+        "Fácil mantenimiento",
+        "Apto para comercios y restaurantes"
+      ],
+      "specs": {
+        "Material exterior": "Algodón con acabado",
+        "Gramaje": "300 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Anti-manchas",
+        "Uso recomendado": "Restauración, mantelería, hostelería",
+        "Lavado": "Lavar con detergente neutro"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Acabado para uso alimentario"
+        },
+        {
+          "model": "Rollo 25m",
+          "length": "25 metros",
+          "spec": "Rollo para restaurantes"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Hostelería", "Mantelería"],
+      "tags": ["anti-manchas", "300g", "restauración", "mantelería"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-022",
+      "nombre": "Tela Bramante - Rollos Combinados 50m",
+      "subnombre": "Presentación en rollo para pedidos por volumen",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 650.0,
+      "descripcion_corta": "Presentación en rollo para pedidos por volumen (varios colores).",
+      "descripcion": "Rollos combinados de bramante en diferentes colores y acabados, pensados para suministros a talleres y fabricantes. Presentación económica por volumen.",
+      "features": [
+        "50 metros por rollo",
+        "Varias opciones de color",
+        "Control de calidad por lote",
+        "Ideal para mayoristas"
+      ],
+      "specs": {
+        "Material exterior": "Varía según lote",
+        "Gramaje": "220-420 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Combinado",
+        "Uso recomendado": "Fabricación, mayoristas",
+        "Lavado": "Seguir recomendaciones según lote"
+      },
+      "models": [
+        {
+          "model": "Rollo 50m",
+          "length": "50 metros",
+          "spec": "Rollo por volumen para proyectos"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Rollos", "Mayoristas"],
+      "tags": ["rollo", "50m", "volumen", "mayorista"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-023",
+      "nombre": "Tela Bramante - Funda Cojín 280g (Pack)",
+      "subnombre": "Pack de fundas listas para retail o proyectos de decoración",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Pack de piezas cortadas y cosidas listo para retail o proyectos decoración.",
+      "descripcion": "Fundas de cojín confeccionadas en bramante, presentadas en pack. Producto listo para venta o integración en proyectos de decoración.",
+      "features": [
+        "Pack listo para venta",
+        "Cierre invisible o cremallera",
+        "Gramaje 280 g/m²",
+        "Disponible en varios tonos"
+      ],
+      "specs": {
+        "Material exterior": "Tela bramante 280 g/m²",
+        "Dimensión": "45 x 45 cm (ejemplo)",
+        "Acabado": "Confeccionado con cierre",
+        "Uso recomendado": "Retail, decoración",
+        "Lavado": "Lavar del revés"
+      },
+      "models": [
+        {
+          "model": "Pack 2 unidades",
+          "length": "2 piezas",
+          "spec": "Pack de fundas 45x45 cm"
+        },
+        {
+          "model": "Pack 4 unidades",
+          "length": "4 piezas",
+          "spec": "Pack mayor para colecciones"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Cojines", "Retail"],
+      "tags": ["funda", "pack", "cojines", "listo venta"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-024",
+      "nombre": "Tela Bramante - Canvas Estampado 320g",
+      "subnombre": "Perfecta para carteras, mochilas y complementos resistentes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 25.9,
+      "descripcion_corta": "Perfecta para carteras, mochilas y complementos resistentes.",
+      "descripcion": "Bramante canvas estampado con gramaje 320 g/m², resistente y con acabado decorativo para complementos que requieren soporte y estilo.",
+      "features": [
+        "Acabado canvas",
+        "Gramaje 320 g/m²",
+        "Estampados decorativos",
+        "Alta resistencia a tracción"
+      ],
+      "specs": {
+        "Material exterior": "Algodón canvas estampado",
+        "Gramaje": "320 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Canvas estampado",
+        "Uso recomendado": "Bolsos, mochilas, complementos",
+        "Lavado": "Limpieza puntual recomendada"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Ideal para bolsos y complementos"
+        },
+        {
+          "model": "Rollo 15m",
+          "length": "15 metros",
+          "spec": "Rollo para producción"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Canvas", "Complementos"],
+      "tags": ["canvas", "320g", "bolsos", "mochilas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-025",
+      "nombre": "Tela Bramante - Acabado Suave 280g",
+      "subnombre": "Tratamiento final para tacto más amable",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 16.5,
+      "descripcion_corta": "Tratamiento final para tacto más amable sin perder resistencia.",
+      "descripcion": "Bramante sometido a acabado suave que mejora el tacto sin sacrificar las propiedades mecánicas del tejido; ideal para prendas y textiles de contacto directo.",
+      "features": [
+        "Acabado suave",
+        "Gramaje 280 g/m²",
+        "Tacto más agradable",
+        "Mantiene resistencia"
+      ],
+      "specs": {
+        "Material exterior": "Algodón acabado suave",
+        "Gramaje": "280 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Suavizado",
+        "Uso recomendado": "Prendas, textiles de contacto",
+        "Lavado": "Lavar con cuidado para conservar acabado"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Acabado suave para prendas"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Prendas", "Textiles"],
+      "tags": ["suave", "280g", "tacto", "prendas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-026",
+      "nombre": "Tela Bramante - Premium 360g",
+      "subnombre": "Selección de fibras y acabado superior",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 31.9,
+      "descripcion_corta": "Selección de fibras y acabado superior para proyectos de alto estándar.",
+      "descripcion": "Bramante premium con selección de fibras y acabado refinado, pensado para colecciones de alto nivel, revestimientos y piezas donde la apariencia y tacto son prioritarios.",
+      "features": [
+        "Fibras seleccionadas",
+        "Gramaje 360 g/m²",
+        "Acabado premium",
+        "Baja proporción de defectos"
+      ],
+      "specs": {
+        "Material exterior": "Fibras premium mezcladas",
+        "Gramaje": "360 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Premium",
+        "Uso recomendado": "Proyectos high-end, colecciones",
+        "Lavado": "Limpieza profesional recomendada"
+      },
+      "models": [
+        {
+          "model": "Metro",
+          "length": "1 metro",
+          "spec": "Calidad premium para colecciones"
+        },
+        {
+          "model": "Rollo 15m",
+          "length": "15 metros",
+          "spec": "Rollo premium para diseñadores"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Premium", "Decoración"],
+      "tags": ["premium", "360g", "alto estándar", "diseño"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    },
+    {
+      "id": "tela-bramante-producto-027",
+      "nombre": "Tela Bramante - Rollo Muestrario (10m)",
+      "subnombre": "Formato muestrario para probar colores y acabados",
+      "marca": "Casas y Estilos",
+      "img": "/img/Tela/bramante-beta.png",
+      "img2": "/img/Tela/bramante-beta-2.png",
+      "precio_desde": 110.0,
+      "descripcion_corta": "Formato muestrario para probar colores y acabados antes de la compra mayor.",
+      "descripcion": "Rollo muestrario de 10 metros pensado para estudios de color y pruebas de acabado. Ideal para diseñadores y compras técnicas antes de pedidos por volumen.",
+      "features": [
+        "Rollo 10 metros",
+        "Muestrario de colores y acabados",
+        "Control de calidad en pequeño formato",
+        "Perfecto para muestras técnicas"
+      ],
+      "specs": {
+        "Material exterior": "Varía según muestrario",
+        "Gramaje": "220-360 g/m²",
+        "Ancho": "150 cm",
+        "Acabado": "Muestrario",
+        "Uso recomendado": "Pruebas, diseño, compras técnicas",
+        "Lavado": "Seguir recomendaciones según muestra"
+      },
+      "models": [
+        {
+          "model": "Rollo 10m",
+          "length": "10 metros",
+          "spec": "Rollo muestrario para pruebas"
+        }
+      ],
+      "categorias": ["Tela Bramante", "Muestrario", "Diseño"],
+      "tags": ["muestrario", "10m", "pruebas", "diseño"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908054"
+        }
+      ]
+    }
+  ]
+}

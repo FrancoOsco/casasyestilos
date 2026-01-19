@@ -1,0 +1,1377 @@
+{
+  "TOALLAS_Y_BATAS": [
+    {
+      "id": "toallas-batas-producto-001",
+      "nombre": "Toalla Hotelera 50x90 - 500 GSM",
+      "subnombre": "Rizo 100% algodón - Uso hotelero",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 19.9,
+      "descripcion_corta": "Rizo 100% algodón, alta absorbencia y tacto duradero.",
+      "descripcion": "Toalla diseñada para uso hotelero, fabricada en rizo 100% algodón de 500 GSM que ofrece alta absorbencia y tacto consistente incluso tras múltiples lavados industriales. Presentación uniforme y resistencia al descascarillado, pensada para room sets y operación continua.",
+      "features": [
+        "Rizo 100% algodón 500 GSM",
+        "Alta absorbencia y retención de humedad",
+        "Costuras reforzadas",
+        "Resistente a lavados industriales",
+        "Bajo desprendimiento de pelusa"
+      ],
+      "specs": {
+        "Material exterior": "100% algodón (rizo)",
+        "GSM": "500 g/m²",
+        "Dimensión standard": "50 x 90 cm",
+        "Peso aproximado": "450 g",
+        "Uso recomendado": "Hotelero, hostelería, vivienda",
+        "Lavado": "A máquina hasta 60°C; secado a temperatura media",
+        "Color disponible": "Blanco, marfil, beige"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Rizo 500 GSM, acabado hotelero"
+        }
+      ],
+      "categorias": ["Toallas", "Hotelero", "Ropa de baño"],
+      "tags": ["algodón", "hotelero", "rizo", "500gsm"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-002",
+      "nombre": "Toalla Mano 30x50 - 450 GSM",
+      "subnombre": "Ideal para lavabo y presentación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 9.9,
+      "descripcion_corta": "Toalla de mano con tacto suave y buena absorbencia.",
+      "descripcion": "Toalla de mano de 450 GSM, diseñada para ofrecer un buen equilibrio entre suavidad y capacidad de secado. Perfecta para lavabos, baños secundarios y complementos de room sets.",
+      "features": [
+        "Rizo 450 GSM",
+        "Acabado anti-pilling",
+        "Bajo desprendimiento de fibras",
+        "Costuras reforzadas"
+      ],
+      "specs": {
+        "Material exterior": "100% algodón",
+        "GSM": "450 g/m²",
+        "Dimensión standard": "30 x 50 cm",
+        "Peso aproximado": "120 g",
+        "Uso recomendado": "Baños, lavabos, presentación",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco, gris, azul cielo"
+      },
+      "models": [
+        {
+          "model": "30x50",
+          "length": "30 x 50 cm",
+          "spec": "Rizo 450 GSM, costuras reforzadas"
+        }
+      ],
+      "categorias": ["Toallas", "Lavabo", "Hotelero"],
+      "tags": ["mano", "450gsm", "algodón"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-003",
+      "nombre": "Toalla Baño 70x140 - 600 GSM",
+      "subnombre": "Espesor premium para sensación de lujo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Toalla de gran espesor con alto confort y absorbencia.",
+      "descripcion": "Toalla de baño 70x140 en 600 GSM pensada para ofrecer una experiencia de lujo. Fibra de alta densidad que mantiene suavidad y apariencia aún con uso frecuente y lavados industrializados.",
+      "features": [
+        "600 GSM - espesor premium",
+        "Fibra de alta densidad",
+        "Tacto suave similar a spa",
+        "Alta durabilidad"
+      ],
+      "specs": {
+        "Material exterior": "Algodón de fibra larga",
+        "GSM": "600 g/m²",
+        "Dimensión standard": "70 x 140 cm",
+        "Peso aproximado": "950 g",
+        "Uso recomendado": "Suites, spa, hoteles premium",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "70x140",
+          "length": "70 x 140 cm",
+          "spec": "600 GSM, fibra densa"
+        }
+      ],
+      "categorias": ["Toallas", "Baño", "Premium"],
+      "tags": ["600gsm", "lujo", "algodón fibra larga"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-004",
+      "nombre": "Toalla Velour 60x120 - Acabado Premium",
+      "subnombre": "Tacto aterciopelado para presentación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Velour con terminación suave y estética superior.",
+      "descripcion": "Toalla con acabado velour que ofrece un tacto aterciopelado en la cara visible y rizo absorbente en la cara interna. Perfecta para presentaciones en habitaciones ejecutivas y boutique hotels.",
+      "features": [
+        "Acabado velour",
+        "Tacto aterciopelado",
+        "Presentación estética",
+        "Buena absorbencia"
+      ],
+      "specs": {
+        "Material exterior": "Algodón peinado (velour)",
+        "GSM": "520 g/m² (variable según el acabado)",
+        "Dimensión standard": "60 x 120 cm",
+        "Peso aproximado": "700 g",
+        "Uso recomendado": "Boutique hotels, habitaciones ejecutivas",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco, marfil, gris perla"
+      },
+      "models": [
+        {
+          "model": "60x120",
+          "length": "60 x 120 cm",
+          "spec": "Velour + rizo interior, presentación premium"
+        }
+      ],
+      "categorias": ["Toallas", "Velour", "Presentación"],
+      "tags": ["velour", "presentación", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-005",
+      "nombre": "Toalla Antimicrobiana 50x90",
+      "subnombre": "Tratamiento de higiene para entornos críticos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 29.9,
+      "descripcion_corta": "Tratamiento antimicrobiano opcional para mayor higiene.",
+      "descripcion": "Toalla tratada con acabado antimicrobiano que ayuda a reducir proliferación bacteriana entre lavados. Recomendable para clínicas, spas y establecimientos que requieren protocolos de higiene elevados.",
+      "features": [
+        "Tratamiento antimicrobiano",
+        "Rizo absorbente",
+        "Resistencia a lavados frecuentes",
+        "Bajo desprendimiento de fibras"
+      ],
+      "specs": {
+        "Material exterior": "100% algodón tratado",
+        "GSM": "500 g/m²",
+        "Dimensión standard": "50 x 90 cm",
+        "Uso recomendado": "Clínicas, spas, hoteles",
+        "Lavado": "A máquina, evitar blanqueadores agresivos",
+        "Color disponible": "Blanco, crema"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Rizo 500 GSM con tratamiento antimicrobiano"
+        }
+      ],
+      "categorias": ["Toallas", "Higiene", "Antimicrobiano"],
+      "tags": ["antimicrobiano", "higiene", "spa"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-006",
+      "nombre": "Bata Spa - Terry 350 GSM (S/M/L)",
+      "subnombre": "Bata cómoda para spa y guest use",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Bata en terry 350 GSM con corte cómodo y cinturón interior.",
+      "descripcion": "Bata spa confeccionada en terry de 350 GSM, con cuello shawl, cinturón interno y diseño pensado para guest comfort en spas y hoteles. Disponible en tallas S / M / L y en colores neutros para blending con room sets.",
+      "features": [
+        "Terry 350 GSM",
+        "Cinturón interior y bolsillos",
+        "Corte cómodo y presentación hotelera",
+        "Costuras reforzadas"
+      ],
+      "specs": {
+        "Material exterior": "Terry 100% algodón",
+        "GSM": "350 g/m²",
+        "Tallas": "S, M, L",
+        "Uso recomendado": "Spa, hotel, hogar",
+        "Lavado": "A máquina hasta 60°C; secado a temperatura media",
+        "Color disponible": "Blanco, crema"
+      },
+      "models": [
+        {
+          "model": "S",
+          "length": "Talla S",
+          "spec": "Bata terry 350 GSM, largo corto"
+        },
+        {
+          "model": "M",
+          "length": "Talla M",
+          "spec": "Bata terry 350 GSM, largo medio"
+        },
+        {
+          "model": "L",
+          "length": "Talla L",
+          "spec": "Bata terry 350 GSM, largo largo"
+        }
+      ],
+      "categorias": ["Batas", "Spa", "Hotelero"],
+      "tags": ["bata", "terry", "spa"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-007",
+      "nombre": "Bata Algodón 400 GSM - Lujosa",
+      "subnombre": "Bata premium para suites",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Bata de algodón 400 GSM con acabado premium.",
+      "descripcion": "Bata de alto gramaje (400 GSM) confeccionada para brindar máximo confort y presentación en suites. Acabado suave al tacto y mayor capacidad de retención térmica.",
+      "features": [
+        "Algodón 400 GSM",
+        "Acabado suave y denso",
+        "Presentación lujosa",
+        "Costuras reforzadas"
+      ],
+      "specs": {
+        "Material exterior": "Algodón 100% de alta densidad",
+        "GSM": "400 g/m²",
+        "Tallas": "S, M, L, XL",
+        "Uso recomendado": "Suites, hoteles premium",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "S/M/L",
+          "length": "Varía según talla",
+          "spec": "Bata algodón 400 GSM, acabado premium"
+        }
+      ],
+      "categorias": ["Batas", "Premium", "Hotelero"],
+      "tags": ["bata", "400gsm", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-008",
+      "nombre": "Set Toallas 3 piezas (Mano + Cara + Baño)",
+      "subnombre": "Juego uniforme para room sets",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Set de 3 piezas para renovar rooms con calidad homogénea.",
+      "descripcion": "Juego compuesto por toalla de mano, cara y baño, confeccionado para mantener uniformidad de color y textura en habitaciones. Ideal para renovaciones y pedidos por volumen con presentación coordinada.",
+      "features": [
+        "Set 3 piezas coordinadas",
+        "Rizo durable",
+        "Buena relación costo-calidad",
+        "Presentación para hotelería"
+      ],
+      "specs": {
+        "Contenido": "1 toalla mano + 1 toalla cara + 1 toalla baño",
+        "Material": "Algodón rizo",
+        "GSM": "Variable según pieza",
+        "Uso recomendado": "Room sets, renovación de habitaciones",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco, marfil, otros bajo pedido"
+      },
+      "models": [
+        {
+          "model": "Set 3 piezas",
+          "length": "Conjunto",
+          "spec": "Coordinado para hotelería"
+        }
+      ],
+      "categorias": ["Sets", "Toallas", "Hotelero"],
+      "tags": ["set", "pack", "toallas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-009",
+      "nombre": "Toalla Infantil con Capucha 60x60",
+      "subnombre": "Diseños seguros y divertidos para niños",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 39.9,
+      "descripcion_corta": "Toalla con capucha, material suave apto para piel sensible.",
+      "descripcion": "Toalla infantil 60x60 con capucha, fabricada en algodón suave y con costuras reforzadas. Diseños infantiles disponibles bajo pedido; pensada para completar amenities familiares o clubes infantiles.",
+      "features": [
+        "Capucha integrada",
+        "Algodón suave para piel sensible",
+        "Costuras reforzadas",
+        "Diseños infantiles"
+      ],
+      "specs": {
+        "Material exterior": "Algodón rizo",
+        "GSM": "350 g/m²",
+        "Dimensión standard": "60 x 60 cm",
+        "Uso recomendado": "Niños, piscinas, playas",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Varios diseños"
+      },
+      "models": [
+        {
+          "model": "60x60",
+          "length": "60 x 60 cm",
+          "spec": "Toalla infantil con capucha"
+        }
+      ],
+      "categorias": ["Toallas", "Infantil", "Piscina"],
+      "tags": ["infantil", "capucha", "algodón"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-010",
+      "nombre": "Toalla Playa 90x170 - Microfibra",
+      "subnombre": "Secado rápido y enrollado compacto",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 29.9,
+      "descripcion_corta": "Toalla de microfibra de secado rápido, ideal para playa y piscina.",
+      "descripcion": "Toalla de microfibra compacta, ligera y de secado rápido. Fácil de transportar y con resistencia a la decoloración por exposición solar. Perfecta para resorts, excursiones y uso deportivo.",
+      "features": [
+        "Microfibra de secado rápido",
+        "Compacta y ligera",
+        "Fácil de enrollar y transportar"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra sintética",
+        "Dimensión standard": "90 x 170 cm",
+        "Peso aproximado": "300 g",
+        "Uso recomendado": "Playa, piscina, gimnasio",
+        "Lavado": "Lavado suave; no usar blanqueadores",
+        "Color disponible": "Multicolor, estampados"
+      },
+      "models": [
+        {
+          "model": "90x170",
+          "length": "90 x 170 cm",
+          "spec": "Microfibra secado rápido"
+        }
+      ],
+      "categorias": ["Toallas", "Playa", "Microfibra"],
+      "tags": ["microfibra", "playa", "secado rápido"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-011",
+      "nombre": "Toalla Secado Rápido 50x90 - Microfibra",
+      "subnombre": "Compacta para gimnasio y uso activo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 24.9,
+      "descripcion_corta": "Toalla ligera de microfibra con secado expres.",
+      "descripcion": "Toalla de microfibra ideal para gimnasios y centros deportivos por su rápida evacuación de humedad y facilidad de transporte. Resistente a lavados frecuentes cuando se utiliza el ciclo recomendado.",
+      "features": ["Secado rápido", "Compacta y ligera", "Fácil de transportar"],
+      "specs": {
+        "Material exterior": "Microfibra",
+        "Dimensión standard": "50 x 90 cm",
+        "Peso aproximado": "160 g",
+        "Uso recomendado": "Gimnasio, actividades deportivas",
+        "Lavado": "Lavado suave",
+        "Color disponible": "Colores vivos y neutros"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Microfibra secado rápido"
+        }
+      ],
+      "categorias": ["Toallas", "Gimnasio", "Microfibra"],
+      "tags": ["gimnasio", "secado rápido", "microfibra"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-012",
+      "nombre": "Toalla Económica 50x90 - Pack 6",
+      "subnombre": "Opción por volumen para gestión de costos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Pack económico de 6 toallas para reposición eficiente.",
+      "descripcion": "Pack de 6 toallas 50x90 pensado para compras por volumen con buena relación costo-beneficio, ideal para emprendimientos, hostales y gestiones de inventario con reposición periódica.",
+      "features": [
+        "Pack 6 unidades",
+        "Costo por unidad reducido",
+        "Apto para lavados industriales"
+      ],
+      "specs": {
+        "Contenido": "6 x Toalla 50x90",
+        "Material": "Algodón rizo estándar",
+        "GSM": "420 g/m² aprox.",
+        "Uso recomendado": "Hostales, reposición por volumen",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Pack 6",
+          "length": "6 x 50 x 90 cm",
+          "spec": "Pack económico"
+        }
+      ],
+      "categorias": ["Toallas", "Pack", "Económico"],
+      "tags": ["pack", "económico", "6 unidades"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-013",
+      "nombre": "Toalla Premium Algodón Egipcio 70x140",
+      "subnombre": "Fibra larga para tacto excepcional",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Algodón egipcio de fibra larga para suavidad y durabilidad.",
+      "descripcion": "Toalla premium confeccionada con algodón de fibra larga (tipo egipcio) que ofrece un tacto sedoso, mayor resistencia y apariencia superior a lo largo del tiempo. Ideal para hoteles boutique y presentaciones exigentes.",
+      "features": [
+        "Algodón fibra larga",
+        "Tacto sedoso",
+        "Alta durabilidad",
+        "Presentación premium"
+      ],
+      "specs": {
+        "Material exterior": "Algodón fibra larga",
+        "GSM": "600 g/m² aprox.",
+        "Dimensión standard": "70 x 140 cm",
+        "Uso recomendado": "Hotelería boutique, suites",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "70x140",
+          "length": "70 x 140 cm",
+          "spec": "Algodón fibra larga, acabado premium"
+        }
+      ],
+      "categorias": ["Toallas", "Premium", "Algodón Egipcio"],
+      "tags": ["egipcio", "premium", "70x140"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-014",
+      "nombre": "Toalla Piso Antideslizante 50x70",
+      "subnombre": "Base con tratamiento antideslizante",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 34.9,
+      "descripcion_corta": "Toalla de piso con base antideslizante para seguridad.",
+      "descripcion": "Toalla de piso con respaldo antideslizante que mejora la seguridad en baños con pisos húmedos. Apta para hoteles, residencias y áreas públicas con alto tránsito.",
+      "features": ["Base antideslizante", "Rizo absorbente", "Resistente a uso continuo"],
+      "specs": {
+        "Material exterior": "Rizo algodón",
+        "Dimensión standard": "50 x 70 cm",
+        "Uso recomendado": "Baños, zonas húmedas",
+        "Lavado": "A máquina; secado suave",
+        "Color disponible": "Blanco, gris"
+      },
+      "models": [
+        {
+          "model": "50x70",
+          "length": "50 x 70 cm",
+          "spec": "Base antideslizante, rizo absorbente"
+        }
+      ],
+      "categorias": ["Toallas", "Baño", "Seguridad"],
+      "tags": ["antideslizante", "piso", "baño"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-015",
+      "nombre": "Toalla Bordada Logo - Personalizable 50x90",
+      "subnombre": "Personalización para branding",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 39.9,
+      "descripcion_corta": "Toalla personalizable con bordado de logo para identidad visual.",
+      "descripcion": "Toalla apta para bordado de logo o texto corporativo, ideal para hoteles y spas que desean reforzar su branding. Se recomienda coordinar color y densidad de bordado según tejido.",
+      "features": [
+        "Personalizable con bordado",
+        "Rizo estable para impresión/bordado",
+        "Buena presentación"
+      ],
+      "specs": {
+        "Material exterior": "Algodón rizo",
+        "Dimensión standard": "50 x 90 cm",
+        "GSM": "500 g/m²",
+        "Uso recomendado": "Branding, corporativo, hotelero",
+        "Lavado": "A máquina hasta 60°C; evitar blanqueadores fuertes",
+        "Color disponible": "Blanco y colores a pedido"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Toalla 500 GSM apta para bordado"
+        }
+      ],
+      "categorias": ["Toallas", "Branding", "Personalizable"],
+      "tags": ["bordado", "logo", "personalizable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-016",
+      "nombre": "Pack Toalla + Bata - Set Básico",
+      "subnombre": "Combinación práctica para habitaciones estándar",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 109.9,
+      "descripcion_corta": "Combinación práctica de toalla y bata para habitaciones estándar.",
+      "descripcion": "Pack que incluye una toalla de baño y una bata básica, pensado para promociones y sets de habitación. Buena relación calidad-precio y presentación adecuada para hoteles estándar.",
+      "features": ["Toalla + bata en set", "Presentación coordinada", "Ideal para promociones"],
+      "specs": {
+        "Contenido": "1 toalla + 1 bata",
+        "Material": "Algodón rizo y terry",
+        "Uso recomendado": "Habitaciones estándar, promociones",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Set Básico",
+          "length": "Conjunto",
+          "spec": "Toalla 500 GSM + bata terry 350 GSM"
+        }
+      ],
+      "categorias": ["Sets", "Toallas", "Batas"],
+      "tags": ["pack", "set", "toalla+bata"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-017",
+      "nombre": "Toalla Rizo Abierto 60x120 - Alta Absorb.",
+      "subnombre": "Máxima capacidad de retención de agua",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Rizo abierto para máxima absorbencia, ideal para spas y hospitales.",
+      "descripcion": "Toalla con rizo abierto que maximiza la superficie de absorción, recomendada para entornos donde la capacidad de secado es prioritaria, como clínicas y spas.",
+      "features": [
+        "Rizo abierto de alta absorción",
+        "Excelente retención de agua",
+        "Apto para lavado industrial"
+      ],
+      "specs": {
+        "Material exterior": "Algodón rizo abierto",
+        "Dimensión standard": "60 x 120 cm",
+        "Uso recomendado": "Spas, hospitales",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "60x120",
+          "length": "60 x 120 cm",
+          "spec": "Rizo abierto, alta absorbencia"
+        }
+      ],
+      "categorias": ["Toallas", "Rizo abierto", "Higiene"],
+      "tags": ["rizo abierto", "alta absorbencia", "60x120"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-018",
+      "nombre": "Toalla Antipelusa 50x90 - Lavados Industriales",
+      "subnombre": "Tratamiento que minimiza desprendimiento de fibras",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 32.9,
+      "descripcion_corta": "Tratamiento antipelusa para uso intensivo.",
+      "descripcion": "Toalla tratada para minimizar desprendimiento de pelusa y fibras durante lavados industriales, manteniendo apariencia y presentación por más tiempo.",
+      "features": ["Tratamiento antipelusa", "Apta para lavados frecuentes", "Buena presentación"],
+      "specs": {
+        "Material exterior": "Algodón tratado",
+        "Dimensión standard": "50 x 90 cm",
+        "Uso recomendado": "Hotelería con lavados industriales",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Toalla antipelusa para lavado industrial"
+        }
+      ],
+      "categorias": ["Toallas", "Industrial", "Antipelusa"],
+      "tags": ["antipelusa", "industrial", "50x90"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-019",
+      "nombre": "Toalla Económica 50x90 - Single",
+      "subnombre": "Opción funcional y accesible",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 12.9,
+      "descripcion_corta": "Toalla individual económica para reposiciones rápidas.",
+      "descripcion": "Toalla práctica y económica destinada a reposiciones rápidas y control de costos. Conserva calidad básica y buen comportamiento en lavados.",
+      "features": [
+        "Costo accesible",
+        "Apto para lavados frecuentes",
+        "Buena relación calidad-precio"
+      ],
+      "specs": {
+        "Material": "Algodón rizo estándar",
+        "Dimensión": "50 x 90 cm",
+        "GSM": "400-420 g/m²",
+        "Uso recomendado": "Hostales, reposición",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Single",
+          "length": "50 x 90 cm",
+          "spec": "Toalla económica single"
+        }
+      ],
+      "categorias": ["Toallas", "Económico", "Reposición"],
+      "tags": ["económico", "single", "50x90"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-020",
+      "nombre": "Toalla Luxury - Algodón Peinado 70x140",
+      "subnombre": "Tacto sedoso y presentación impecable",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Algodón peinado para tacto sedoso y look premium.",
+      "descripcion": "Toalla Luxury confeccionada en algodón peinado que proporciona un tacto suave y una caída impecable, pensada para presentaciones premium en hoteles boutique y suites.",
+      "features": ["Algodón peinado", "Tacto sedoso", "Presentación premium"],
+      "specs": {
+        "Material exterior": "Algodón peinado",
+        "Dimensión standard": "70 x 140 cm",
+        "GSM": "650 g/m² aprox.",
+        "Uso recomendado": "Suites, hoteles premium",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "70x140",
+          "length": "70 x 140 cm",
+          "spec": "Algodón peinado, presentación premium"
+        }
+      ],
+      "categorias": ["Toallas", "Luxury", "Algodón peinado"],
+      "tags": ["luxury", "algodón peinado", "70x140"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-021",
+      "nombre": "Toalla Microfibra 50x90 - Secado Express",
+      "subnombre": "Compacta, ligera y de secado rápido",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 22.9,
+      "descripcion_corta": "Microfibra para actividades y kit de gimnasio.",
+      "descripcion": "Toalla de microfibra pensada para actividades deportivas y kits de uso. Secado rápido y compacta para transporte, con buena resistencia a lavados suaves.",
+      "features": ["Secado express", "Compacta y ligera", "Fácil de transportar"],
+      "specs": {
+        "Material": "Microfibra",
+        "Dimensión": "50 x 90 cm",
+        "Peso aproximado": "140 g",
+        "Uso recomendado": "Gimnasio, actividades",
+        "Lavado": "Lavado suave; no usar blanqueadores",
+        "Color disponible": "Colores vivos"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Microfibra secado express"
+        }
+      ],
+      "categorias": ["Toallas", "Microfibra", "Deporte"],
+      "tags": ["microfibra", "secado express", "gimnasio"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-022",
+      "nombre": "Toalla Hotelera Blanca - Juego 12 unidades",
+      "subnombre": "Stock pensado para renovaciones de habitaciones",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Juego de 12 toallas blancas para reposición por lote.",
+      "descripcion": "Pack de 12 toallas blancas diseñadas para facilitar la renovación de habitaciones con stock uniforme y controlado. Ideal para contratos de suministro y renovaciones periódicas.",
+      "features": ["Pack 12 unidades", "Uniformidad de color", "Resistente a lavados industriales"],
+      "specs": {
+        "Contenido": "12 x Toalla 50x90",
+        "Material": "Algodón rizo",
+        "GSM": "420-500 g/m²",
+        "Uso recomendado": "Renovaciones, suministro",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Pack 12",
+          "length": "12 x 50 x 90 cm",
+          "spec": "Pack hotelero blanco"
+        }
+      ],
+      "categorias": ["Toallas", "Pack", "Hotelero"],
+      "tags": ["pack12", "hotelero", "blanco"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-023",
+      "nombre": "Bata Infantil 300 GSM - Con Capucha",
+      "subnombre": "Bata cómoda y segura para niños",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Bata infantil con capucha y corte pensado para niños.",
+      "descripcion": "Bata confeccionada en terry suave de 300 GSM, con capucha y diseño seguro para niños. Fácil de lavar y rápida de secar, ideal para clubes infantiles y zonas familiares en hoteles y resorts.",
+      "features": ["Terry 300 GSM", "Capucha integrada", "Diseño seguro para niños"],
+      "specs": {
+        "Material exterior": "Terry algodón",
+        "GSM": "300 g/m²",
+        "Tallas": "Niños (varias edades)",
+        "Uso recomendado": "Clubes infantiles, resorts",
+        "Lavado": "A máquina hasta 60°C",
+        "Color disponible": "Colores infantiles"
+      },
+      "models": [
+        {
+          "model": "Niños",
+          "length": "Tallas infantiles",
+          "spec": "Bata 300 GSM con capucha"
+        }
+      ],
+      "categorias": ["Batas", "Infantil", "Pool"],
+      "tags": ["bata infantil", "capucha", "300gsm"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-024",
+      "nombre": "Toalla Fitness 40x80 - Compacta",
+      "subnombre": "Pensada para gimnasios y centros deportivos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 14.9,
+      "descripcion_corta": "Toalla compacta para uso deportivo y gimnasio.",
+      "descripcion": "Toalla compacta de dimensiones reducidas para facilitar su uso en actividades deportivas. Ligera y de secado rápido, se integra fácilmente en kits deportivos y toalleros de gimnasio.",
+      "features": ["Compacta", "Secado rápido", "Ligera"],
+      "specs": {
+        "Material": "Microfibra/mezcla según modelo",
+        "Dimensión": "40 x 80 cm",
+        "Uso recomendado": "Gimnasio, actividad física",
+        "Lavado": "Lavado suave",
+        "Color disponible": "Colores sólidos"
+      },
+      "models": [
+        {
+          "model": "40x80",
+          "length": "40 x 80 cm",
+          "spec": "Toalla fitness compacta"
+        }
+      ],
+      "categorias": ["Toallas", "Gimnasio", "Compacta"],
+      "tags": ["fitness", "compacta", "40x80"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-025",
+      "nombre": "Toalla con Banda Decorativa 50x90",
+      "subnombre": "Acabados estéticos para presentación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 27.9,
+      "descripcion_corta": "Toalla con banda decorativa para elevar la presentación.",
+      "descripcion": "Toalla con banda decorativa tejida que aporta una presentación más cuidada y estética en habitaciones. Ideal para elevar la percepción del huésped sin cambiar el funcionamiento del producto.",
+      "features": ["Banda decorativa tejida", "Presentación cuidada", "Buena absorbencia"],
+      "specs": {
+        "Material exterior": "Algodón rizo con banda decorativa",
+        "Dimensión standard": "50 x 90 cm",
+        "Uso recomendado": "Presentación en habitaciones",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco con banda"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Con banda decorativa"
+        }
+      ],
+      "categorias": ["Toallas", "Decorativa", "Presentación"],
+      "tags": ["banda", "decorativa", "50x90"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-026",
+      "nombre": "Set Premium 6 piezas - Toallas y Batas",
+      "subnombre": "Conjunto completo para suites",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 399.9,
+      "descripcion_corta": "Set completo de toallas y batas para presentación premium.",
+      "descripcion": "Set premium que incluye varias toallas y una bata de presentación, pensado para suites y regalos corporativos. Selección de materiales premium para una experiencia de uso superior.",
+      "features": ["Conjunto 6 piezas", "Materiales premium", "Presentación lista para entrega"],
+      "specs": {
+        "Contenido": "Conjunto de toallas + bata (6 piezas)",
+        "Material": "Algodón y terry premium",
+        "Uso recomendado": "Suites, regalos corporativos",
+        "Lavado": "A máquina hasta 60°C; secado suave",
+        "Color disponible": "Blanco, marfil"
+      },
+      "models": [
+        {
+          "model": "Set 6 piezas",
+          "length": "Conjunto",
+          "spec": "Toallas y bata premium"
+        }
+      ],
+      "categorias": ["Sets", "Premium", "Batas"],
+      "tags": ["set premium", "toallas y batas", "6 piezas"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "toallas-batas-producto-027",
+      "nombre": "Toalla Tratada Anti-Encogimiento 50x90",
+      "subnombre": "Estabilidad dimensional tras múltiples lavados",
+      "marca": "Casas y Estilos",
+      "img": "/img/Toallas/toalla-beta.png",
+      "img2": "/img/Toallas/toalla-beta-2.png",
+      "precio_desde": 35.9,
+      "descripcion_corta": "Tratamiento anti-encogimiento para mayor estabilidad.",
+      "descripcion": "Toalla con tratamiento anti-encogimiento que preserva la forma y tamaño tras ciclos de lavado industriales, reduciendo la variación dimensional y facilitando la gestión de stock.",
+      "features": ["Tratamiento anti-encogimiento", "Buena absorbencia", "Estabilidad dimensional"],
+      "specs": {
+        "Material exterior": "Algodón tratado",
+        "Dimensión standard": "50 x 90 cm",
+        "Uso recomendado": "Hotelería, lavados industriales",
+        "Lavado": "A máquina hasta 60°C; secado controlado",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "50x90",
+          "length": "50 x 90 cm",
+          "spec": "Toalla tratada anti-encogimiento"
+        }
+      ],
+      "categorias": ["Toallas", "Tratamientos", "Industrial"],
+      "tags": ["anti-encogimiento", "tratada", "50x90"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

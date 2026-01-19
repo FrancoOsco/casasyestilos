@@ -1,0 +1,1694 @@
+{
+  "PANTUFLAS": [
+    {
+      "id": "pantuflas-producto-001",
+      "nombre": "Pantufla Hotelera - Felpa Clásica",
+      "subnombre": "Confort y presentación para uso intensivo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-felpa-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-felpa-01-2.jpg",
+      "precio_desde": 24.8,
+      "descripcion_corta": "Pantufla tipo hotel en felpa absorbente, ideal para alojamientos.",
+      "descripcion": "Diseñada para uso hotelero y doméstico, esta pantufla en felpa ofrece un tacto suave, fácil mantenimiento y construcción resistente. Su suela antideslizante y acabado limpio permiten presentaciones rápidas y uso intensivo.",
+      "features": [
+        "Felpa de alta densidad",
+        "Suela antideslizante de goma",
+        "Forro interior suave",
+        "Fácil limpieza y secado rápido"
+      ],
+      "specs": {
+        "Material exterior": "Felpa 100% poliéster",
+        "Suela": "Goma termoplástica antideslizante",
+        "Interior": "Microfibra acolchada",
+        "Tallas": "S/M/L (36-42 aproximado)",
+        "Peso aproximado": "120 g (par, talla M)",
+        "Cuidado": "Lavable a máquina a 30°C; secado al aire",
+        "Color disponible": "Blanco, Beige, Gris"
+      },
+      "models": [
+        {
+          "model": "S",
+          "length": "36-37",
+          "spec": "Para pie pequeño - felpa clásica"
+        },
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Talla media - uso hotelero estándar"
+        },
+        {
+          "model": "L",
+          "length": "40-42",
+          "spec": "Talla grande - ajuste cómodo"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Hotelero",
+        "Toallas & Batas"
+      ],
+      "tags": [
+        "felpa",
+        "hotelero",
+        "antideslizante"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-002",
+      "nombre": "Pantufla Spa - Memory Foam",
+      "subnombre": "Acolchado de memoria para confort superior",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-memory-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-memory-01-2.jpg",
+      "precio_desde": 39.9,
+      "descripcion_corta": "Plantilla de memory foam que se adapta al pie y reduce presión.",
+      "descripcion": "Pantufla tipo spa con plantilla de memory foam que ofrece un soporte ergonómico y sensación de lujo. Cubierta en microfibra ultrasuave y suela ligera antideslizante, ideal para huéspedes premium y uso doméstico.",
+      "features": [
+        "Plantilla memory foam de alta densidad",
+        "Cubierta de microfibra suave",
+        "Suela antideslizante y ligera",
+        "Ajuste ergonómico"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra de poliéster",
+        "Suela": "Goma EVA antideslizante",
+        "Interior": "Memory foam (espuma viscoelástica)",
+        "Tallas": "S/M/L/XL",
+        "Peso aproximado": "180 g (par, talla M)",
+        "Cuidado": "Limpieza local, no lavar a máquina la plantilla",
+        "Color disponible": "Blanco, Azul marino, Gris"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Acolchado memory foam para confort diario"
+        },
+        {
+          "model": "L",
+          "length": "40-41",
+          "spec": "Mayor soporte y estabilidad"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Spa",
+        "Premium"
+      ],
+      "tags": [
+        "memory foam",
+        "spa",
+        "premium"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-003",
+      "nombre": "Pantufla Infantil - Felpa Antialérgica",
+      "subnombre": "Tallas para niños con suela segura",
+      "marca": "Casas y Estilos Kids",
+      "img": "/img/Pantuflas/pantufla-infantil-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-infantil-01-2.jpg",
+      "precio_desde": 19.9,
+      "descripcion_corta": "Ligera, suave y con suela antideslizante especialmente diseñada para niños.",
+      "descripcion": "Pantufla infantil en felpa antialérgica, con suela de goma texturada que evita resbalones. Disponible en colores y estampados, pensada para comodidad y seguridad en el hogar y hoteles familiares.",
+      "features": [
+        "Felpa hipoalergénica",
+        "Suela antideslizante con textura",
+        "Diseños infantiles divertidos",
+        "Ligera y fácil de poner"
+      ],
+      "specs": {
+        "Material exterior": "Felpa hipoalergénica 100% poliéster",
+        "Suela": "Goma termoplástica con textura",
+        "Interior": "Acolchado suave",
+        "Tallas": "Toddler / 22-25 / 26-29",
+        "Peso aproximado": "80 g (par, talla pequeña)",
+        "Cuidado": "Lavable a máquina ciclo suave",
+        "Color disponible": "Varios estampados"
+      },
+      "models": [
+        {
+          "model": "22-25",
+          "length": "22-25",
+          "spec": "Talla toddler - niños pequeños"
+        },
+        {
+          "model": "26-29",
+          "length": "26-29",
+          "spec": "Niños en crecimiento"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Infantiles"
+      ],
+      "tags": [
+        "infantil",
+        "antideslizante",
+        "felpa"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-004",
+      "nombre": "Pantufla Travel - Plegable y Ligera",
+      "subnombre": "Compacta para equipaje y viajes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-travel-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-travel-01-2.jpg",
+      "precio_desde": 17.5,
+      "descripcion_corta": "Diseñada para guardarlas en la maleta: plegable, ligera y discreta.",
+      "descripcion": "Pantufla de viaje con construcción plegable, suela flexible y cubierta en tela transpirable. Ideal para estancias cortas, aviones y uso en habitaciones. Ocupa poco espacio y ofrece confort básico.",
+      "features": [
+        "Plegable y compacta",
+        "Suela fina y flexible",
+        "Material transpirable",
+        "Fácil almacenamiento"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra ligera",
+        "Suela": "Goma EVA delgada",
+        "Interior": "Acolchado fino",
+        "Tallas": "Única (36-42 aproximado)",
+        "Peso aproximado": "90 g (par)",
+        "Cuidado": "Lavado a mano o en bolsa de lavado",
+        "Color disponible": "Gris, Azul marino"
+      },
+      "models": [
+        {
+          "model": "Única",
+          "length": "36-42",
+          "spec": "Diseño universal para viajes"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Viaje",
+        "Hotelero"
+      ],
+      "tags": [
+        "viaje",
+        "plegable",
+        "ligera"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-005",
+      "nombre": "Pantufla Premium - Cuero Sintético",
+      "subnombre": "Estilo y resistencia para áreas ejecutivas",
+      "marca": "Casas y Estilos Premium",
+      "img": "/img/Pantuflas/pantufla-cuero-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-cuero-01-2.jpg",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Pantufla de aspecto premium en cuero sintético con interior acolchado.",
+      "descripcion": "Modelo elegante pensado para suites, oficinas y regalos corporativos. Exterior en cuero sintético fácil de limpiar, interior acolchado y suela antideslizante que ofrece presencia y durabilidad.",
+      "features": [
+        "Exterior en cuero sintético fácil de limpiar",
+        "Interior acolchado y suave",
+        "Suela resistente y antideslizante",
+        "Acabado elegante tipo mocasín"
+      ],
+      "specs": {
+        "Material exterior": "Cuero sintético (PU)",
+        "Suela": "Goma antideslizante reforzada",
+        "Interior": "Acolchado con espuma HR",
+        "Tallas": "38-44",
+        "Peso aproximado": "220 g (par, talla M)",
+        "Cuidado": "Limpiar con paño húmedo; evitar lavados",
+        "Color disponible": "Negro, Marrón"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Cuero sintético con soporte"
+        },
+        {
+          "model": "L",
+          "length": "40-42",
+          "spec": "Mayor talla para confort"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Premium",
+        "Corporate"
+      ],
+      "tags": [
+        "cuero sintético",
+        "premium",
+        "corporate"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-006",
+      "nombre": "Pantufla Antideslizante - Suela Grip",
+      "subnombre": "Máxima seguridad en superficies resbalosas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-grip-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-grip-01-2.jpg",
+      "precio_desde": 29.9,
+      "descripcion_corta": "Suela con patrón antideslizante de alta adherencia para mayor seguridad.",
+      "descripcion": "Pantufla diseñada para zonas húmedas o suelos lisos; su suela con patrón de agarre proporciona alta adherencia sin sacrificar confort. Forro interior suave y material resistente al desgaste.",
+      "features": [
+        "Suela con dibujo antideslizante avanzado",
+        "Material resistente al desgaste",
+        "Forro interior con acolchado",
+        "Buena ventilación"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra y mezcla sintética",
+        "Suela": "Goma con dibujo antideslizante",
+        "Interior": "Acolchado tipo EVA",
+        "Tallas": "S/M/L/XL",
+        "Peso aproximado": "160 g (par)",
+        "Cuidado": "Limpieza local o lavado suave",
+        "Color disponible": "Azul, Gris, Negro"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Agarre reforzado para interiores"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Seguridad",
+        "Hotelero"
+      ],
+      "tags": [
+        "antideslizante",
+        "seguridad",
+        "suela grip"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-007",
+      "nombre": "Pantufla Ecológica - Algodón Orgánico",
+      "subnombre": "Tela natural y proceso sostenible",
+      "marca": "Casas y Estilos Eco",
+      "img": "/img/Pantuflas/pantufla-eco-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-eco-01-2.jpg",
+      "precio_desde": 34.9,
+      "descripcion_corta": "Fabricada con algodón orgánico certificado para clientes conscientes.",
+      "descripcion": "Pantufla con exterior en algodón orgánico, interior de rizo suave y suela reciclable. Ideal para proyectos eco-friendly y clientes que buscan productos más sostenibles sin renunciar al confort.",
+      "features": [
+        "Algodón orgánico certificado",
+        "Interior de rizo absorbente",
+        "Suela reciclable de baja huella",
+        "Acabado sin químicos agresivos"
+      ],
+      "specs": {
+        "Material exterior": "Algodón orgánico 100%",
+        "Suela": "TPR reciclable",
+        "Interior": "Rizo de algodón",
+        "Tallas": "36-42",
+        "Peso aproximado": "150 g (par)",
+        "Cuidado": "Lavado a máquina a 30°C; secado natural",
+        "Color disponible": "Crudo, Verde oliva"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Algodón orgánico - rizo interior"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Eco",
+        "Sostenible"
+      ],
+      "tags": [
+        "algodón orgánico",
+        "eco",
+        "sostenible"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-008",
+      "nombre": "Pantufla Lana Merino - Calor Natural",
+      "subnombre": "Aislamiento térmico sin perder transpirabilidad",
+      "marca": "Casas y Estilos Premium",
+      "img": "/img/Pantuflas/pantufla-lana-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-lana-01-2.jpg",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Pantuflas con forro de lana merino, cálidas y transpirables.",
+      "descripcion": "Modelo premium con forro de lana merino que regula la temperatura y reduce la humedad. Su diseño robusto y suela antideslizante las hace ideales para climas fríos y para clientes que valoran materiales naturales.",
+      "features": [
+        "Forro de lana merino",
+        "Regulación térmica natural",
+        "Suela antideslizante reforzada",
+        "Acabado premium"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla de lana y algodón",
+        "Suela": "Goma reforzada antideslizante",
+        "Interior": "Lana merino",
+        "Tallas": "37-44",
+        "Peso aproximado": "260 g (par)",
+        "Cuidado": "Limpieza local o lavado en seco suave",
+        "Color disponible": "Gris jaspeado, Crudo"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Lana merino interior - calor controlado"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Premium",
+        "Invierno"
+      ],
+      "tags": [
+        "lana merino",
+        "premium",
+        "calor"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-009",
+      "nombre": "Pantufla Softshell - Exterior Impermeable",
+      "subnombre": "Protección ligera contra humedad y suciedad",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-softshell-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-softshell-01-2.jpg",
+      "precio_desde": 44.9,
+      "descripcion_corta": "Pantufla con exterior resistente al agua para uso en interiores/terrazas.",
+      "descripcion": "Modelo con exterior softshell repelente al agua y forro interior cálido. Su suela robusta permite uso ocasional fuera del hogar manteniendo los pies secos y limpios.",
+      "features": [
+        "Exterior softshell repelente",
+        "Interior cálido y suave",
+        "Suela resistente para uso semiexterior",
+        "Fácil limpieza"
+      ],
+      "specs": {
+        "Material exterior": "Softshell micro-repelente",
+        "Suela": "Goma reforzada",
+        "Interior": "Polar microfibra",
+        "Tallas": "36-44",
+        "Peso aproximado": "230 g (par)",
+        "Cuidado": "Limpieza con paño húmedo",
+        "Color disponible": "Negro, Verde oscuro"
+      },
+      "models": [
+        {
+          "model": "L",
+          "length": "40-42",
+          "spec": "Exterior repelente y suela robusta"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Exterior ocasional"
+      ],
+      "tags": [
+        "impermeable",
+        "softshell",
+        "resistente"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-010",
+      "nombre": "Pantufla Antibacteriana - Tratamiento UV",
+      "subnombre": "Control de olores y bacterias en ambientes profesionales",
+      "marca": "Casas y Estilos Clean",
+      "img": "/img/Pantuflas/pantufla-antibac-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-antibac-01-2.jpg",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Tratamiento antimicrobiano para mayor higiene en hospitales y spas.",
+      "descripcion": "Pantufla con acabado antibacteriano y tratamiento UV que reduce la proliferación de bacterias y malos olores. Recomendada para entornos sanitarios, spa y hotelería que requiere controles adicionales de higiene.",
+      "features": [
+        "Tratamiento antimicrobiano certificado",
+        "Acabado antiolor",
+        "Suela antideslizante",
+        "Fácil mantenimiento"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada",
+        "Suela": "Goma antideslizante",
+        "Interior": "Rizo tratado antimicrobiano",
+        "Tallas": "36-44",
+        "Peso aproximado": "170 g (par)",
+        "Cuidado": "Lavable; seguir instrucciones de tratamiento",
+        "Color disponible": "Blanco, Azul claro"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Tratamiento antimicrobiano para uso profesional"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Higiene",
+        "Spa"
+      ],
+      "tags": [
+        "antibacteriano",
+        "antiodor",
+        "hospitalario"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-011",
+      "nombre": "Pantufla Plataforma - Suela Elevada",
+      "subnombre": "Diseño con suela acolchada de mayor grosor",
+      "marca": "Casas y Estilos Trend",
+      "img": "/img/Pantuflas/pantufla-platform-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-platform-01-2.jpg",
+      "precio_desde": 54.9,
+      "descripcion_corta": "Suela elevada para mayor amortiguación y estilo contemporáneo.",
+      "descripcion": "Pantufla con suela tipo plataforma que aporta mayor amortiguación y un look moderno. Ideal para clientes que buscan combinación de confort y tendencia estética.",
+      "features": [
+        "Suela plataforma acolchada",
+        "Exterior en felpa premium",
+        "Alta amortiguación",
+        "Apariencia moderna"
+      ],
+      "specs": {
+        "Material exterior": "Felpa premium",
+        "Suela": "EVA plataforma 30 mm",
+        "Interior": "Espuma HR y rizo",
+        "Tallas": "37-43",
+        "Peso aproximado": "300 g (par)",
+        "Cuidado": "Limpieza local; evitar máquinas industriales",
+        "Color disponible": "Blanco, Rosa palo, Negro"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Plataforma moderada para confort y estilo"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Trend",
+        "Premium"
+      ],
+      "tags": [
+        "plataforma",
+        "trend",
+        "amortiguación"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-012",
+      "nombre": "Pantufla Ortopédica - Soporte Plantar",
+      "subnombre": "Plantilla ergonómica con soporte medial",
+      "marca": "Casas y Estilos Health",
+      "img": "/img/Pantuflas/pantufla-ortopedica-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-ortopedica-01-2.jpg",
+      "precio_desde": 64.9,
+      "descripcion_corta": "Diseñada para soporte plantar y confort terapéutico ligero.",
+      "descripcion": "Pantufla con plantilla ortopédica que incorpora soporte del arco y amortiguación en el talón. Recomendable para usuarios con necesidades de soporte o para post-tratamiento en entornos de recuperación ligera.",
+      "features": [
+        "Plantilla con soporte de arco",
+        "Amortiguación en talón",
+        "Forro transpirable",
+        "Suela estable y antideslizante"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra transpirable",
+        "Suela": "Goma antideslizante con soporte",
+        "Interior": "Plantilla ortopédica EVA+memory",
+        "Tallas": "36-45",
+        "Peso aproximado": "240 g (par)",
+        "Cuidado": "Limpieza local; retirar plantilla para lavado",
+        "Color disponible": "Gris, Azul marino"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Soporte medio para uso diario"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Ortopedia",
+        "Salud"
+      ],
+      "tags": [
+        "ortopédica",
+        "soporte plantar",
+        "salud"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-013",
+      "nombre": "Pantufla Outdoor - Sola Rugosa",
+      "subnombre": "Uso ocasional exterior y limpieza fácil",
+      "marca": "Casas y Estilos Outdoor",
+      "img": "/img/Pantuflas/pantufla-outdoor-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-outdoor-01-2.jpg",
+      "precio_desde": 49,
+      "descripcion_corta": "Construcción robusta para uso en terraza y piscina.",
+      "descripcion": "Pantufla con suela rugosa y materiales resistentes al agua que permiten uso en exteriores cercanos (terraza, jardín). Su diseño combina practicidad y confort con un perfil más duradero.",
+      "features": [
+        "Suela rugosa y resistente",
+        "Material resistente al agua",
+        "Forro de secado rápido",
+        "Fácil limpieza"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra tratada repelente",
+        "Suela": "Goma pesada con dibujo",
+        "Interior": "Microfibra de secado rápido",
+        "Tallas": "36-45",
+        "Peso aproximado": "280 g (par)",
+        "Cuidado": "Aclarado y secado al aire",
+        "Color disponible": "Verde militar, Azul marino"
+      },
+      "models": [
+        {
+          "model": "L",
+          "length": "40-42",
+          "spec": "Uso exterior ocasional - suela rugosa"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Outdoor"
+      ],
+      "tags": [
+        "outdoor",
+        "resistente",
+        "pool"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-014",
+      "nombre": "Pantufla Microfibra - Secado Rápido",
+      "subnombre": "Ideal para rotación en hostelería y uso diario",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-microfibra-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-microfibra-01-2.jpg",
+      "precio_desde": 22.5,
+      "descripcion_corta": "Microfibra ligera que seca rápido y mantiene presentación.",
+      "descripcion": "Pantufla en microfibra de secado rápido, diseñada para rotación alta en hoteles y hostales. Mantiene aspecto uniforme tras múltiples lavados y ofrece sensación suave al tacto.",
+      "features": [
+        "Microfibra de secado rápido",
+        "Bajo mantenimiento",
+        "Suela antideslizante ligera",
+        "Buen comportamiento post-lavado"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra 100% poliéster",
+        "Suela": "Goma EVA ligera",
+        "Interior": "Acolchado microfibra",
+        "Tallas": "36-43",
+        "Peso aproximado": "130 g (par)",
+        "Cuidado": "Lavable a máquina; secado rápido",
+        "Color disponible": "Blanco, Gris"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Secado rápido para hostelería"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Hostelería"
+      ],
+      "tags": [
+        "microfibra",
+        "secado rápido",
+        "hostelería"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-015",
+      "nombre": "Pantufla Deluxe - Satén & Felpa",
+      "subnombre": "Combinación elegante para presentaciones premium",
+      "marca": "Casas y Estilos Deluxe",
+      "img": "/img/Pantuflas/pantufla-saten-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-saten-01-2.jpg",
+      "precio_desde": 74.9,
+      "descripcion_corta": "Exterior satén con interior en felpa premium — look y tacto lujoso.",
+      "descripcion": "Pantufla de presentación deluxe: exterior en satén elegante y forro en felpa de alta calidad. Ideal para suites de alto nivel y regalos corporativos con packaging a medida.",
+      "features": [
+        "Exterior en satén elegante",
+        "Interior en felpa premium",
+        "Suela antideslizante discreta",
+        "Presentación para regalo"
+      ],
+      "specs": {
+        "Material exterior": "Satén poliéster",
+        "Suela": "TPR antideslizante",
+        "Interior": "Felpa premium",
+        "Tallas": "37-43",
+        "Peso aproximado": "200 g (par)",
+        "Cuidado": "Limpieza local; evitar secado en tambor",
+        "Color disponible": "Blanco marfil, Champagne"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Presentación premium para suite"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Premium",
+        "Regalos"
+      ],
+      "tags": [
+        "satén",
+        "deluxe",
+        "regalo"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-016",
+      "nombre": "Pantufla Antiestática - Entornos Técnicos",
+      "subnombre": "Control de cargas para uso en laboratorios y salas limpias",
+      "marca": "Casas y Estilos Tech",
+      "img": "/img/Pantuflas/pantufla-antiestatica-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-antiestatica-01-2.jpg",
+      "precio_desde": 69,
+      "descripcion_corta": "Tratamiento antiestático para reducir acumulación de cargas.",
+      "descripcion": "Pantufla desarrollada para entornos técnicos donde se requiere control de cargas electrostáticas. Materiales conductivos y suela diseñada para disipar cargas, sin perder confort.",
+      "features": [
+        "Materiales conductivos",
+        "Disipación de cargas electrostáticas",
+        "Suela compatible con pisos técnicos",
+        "Confort ergonómico"
+      ],
+      "specs": {
+        "Material exterior": "Tejido antiestático",
+        "Suela": "EVA conductiva",
+        "Interior": "Acolchado técnico",
+        "Tallas": "36-45",
+        "Peso aproximado": "210 g (par)",
+        "Cuidado": "Limpieza local; evitar agentes corrosivos",
+        "Color disponible": "Gris técnico"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Control de cargas para entornos técnicos"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Industrial",
+        "Técnico"
+      ],
+      "tags": [
+        "antiestática",
+        "técnico",
+        "industrial"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-017",
+      "nombre": "Pantufla Cork Sole - Suela de Corcho",
+      "subnombre": "Aislante natural y amortiguación ligera",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-cork-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-cork-01-2.jpg",
+      "precio_desde": 59.5,
+      "descripcion_corta": "Suela de corcho natural para amortiguación y sostenibilidad.",
+      "descripcion": "Pantufla con suela de corcho que aporta aislamiento térmico y amortiguación natural. Exterior en felpa y forro transpirable; suela con acabado antideslizante para uso en interiores.",
+      "features": [
+        "Suela de corcho natural",
+        "Amortiguación natural y aislante",
+        "Forro transpirable",
+        "Aspecto artesanal"
+      ],
+      "specs": {
+        "Material exterior": "Felpa premium",
+        "Suela": "Corcho con base antideslizante",
+        "Interior": "Acolchado transpirable",
+        "Tallas": "37-44",
+        "Peso aproximado": "240 g (par)",
+        "Cuidado": "Limpiar corcho con paño húmedo; lavar exterior según etiqueta",
+        "Color disponible": "Crudo, Marrón"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Suela corcho - confort natural"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Sostenible",
+        "Premium"
+      ],
+      "tags": [
+        "corcho",
+        "natural",
+        "amortiguación"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-018",
+      "nombre": "Pantufla Eco-Fuzzy - Recycled Fibers",
+      "subnombre": "Con fibras recicladas para menor huella",
+      "marca": "Casas y Estilos Eco",
+      "img": "/img/Pantuflas/pantufla-eco-fuzzy-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-eco-fuzzy-01-2.jpg",
+      "precio_desde": 27,
+      "descripcion_corta": "Felpa hecha con fibras recicladas, tacto suave y responsable.",
+      "descripcion": "Pantufla confeccionada con mezcla de fibras recicladas que mantienen suavidad y resistencia. Suela ligera y forro cómodo, ideal para clientes que buscan opciones responsables.",
+      "features": [
+        "Fibras recicladas de alto rendimiento",
+        "Suela ligera antideslizante",
+        "Forro suave",
+        "Certificado de origen reciclado (según lote)"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla fibras recicladas",
+        "Suela": "TPR ligera antideslizante",
+        "Interior": "Acolchado reciclado",
+        "Tallas": "36-44",
+        "Peso aproximado": "140 g (par)",
+        "Cuidado": "Lavado suave; secado al aire",
+        "Color disponible": "Gris jaspeado"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Opción eco con buen tacto"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Eco"
+      ],
+      "tags": [
+        "reciclado",
+        "eco",
+        "sostenible"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-019",
+      "nombre": "Pantufla Luxury - Forro de Terciopelo",
+      "subnombre": "Tacto ultra suave y acabado sofisticado",
+      "marca": "Casas y Estilos Luxury",
+      "img": "/img/Pantuflas/pantufla-terciopelo-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-terciopelo-01-2.jpg",
+      "precio_desde": 84.9,
+      "descripcion_corta": "Forro de terciopelo con relleno de alta densidad — sensación lujosa.",
+      "descripcion": "Pantufla de gama alta con forro de terciopelo y relleno denso para una sensación de lujo al caminar. Suela discreta y acabado impecable pensado para suites premium y regalos exclusivos.",
+      "features": [
+        "Forro terciopelo premium",
+        "Relleno de alta densidad",
+        "Acabado elegante",
+        "Presentación en caja (opcional)"
+      ],
+      "specs": {
+        "Material exterior": "Terciopelo poliéster",
+        "Suela": "TPR antideslizante",
+        "Interior": "Espuma alta densidad",
+        "Tallas": "37-44",
+        "Peso aproximado": "320 g (par)",
+        "Cuidado": "Limpieza local; presentar en caja",
+        "Color disponible": "Borgoña, Azul noche"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Lujo para presentaciones premium"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Luxury",
+        "Regalos"
+      ],
+      "tags": [
+        "terciopelo",
+        "lujo",
+        "premium"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-020",
+      "nombre": "Pantufla Classic Slip-on - Tela Jacquard",
+      "subnombre": "Diseño clásico con tejido texturado",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-jacquard-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-jacquard-01-2.jpg",
+      "precio_desde": 45,
+      "descripcion_corta": "Pantufla con exterior texturado tipo jacquard para apariencia cuidada.",
+      "descripcion": "Slip-on de corte clásico con tejido jacquard que aporta textura y elegancia. Forro interior cómodo y suela semi-rígida que permite uso en interiores con buena estabilidad.",
+      "features": [
+        "Tejido jacquard texturado",
+        "Corte slip-on clásico",
+        "Suela semi-rígida antideslizante",
+        "Interior acolchado"
+      ],
+      "specs": {
+        "Material exterior": "Jacquard poliéster",
+        "Suela": "TPR semirrígida",
+        "Interior": "Acolchado suave",
+        "Tallas": "37-43",
+        "Peso aproximado": "210 g (par)",
+        "Cuidado": "Limpieza local; instrucciones en etiqueta",
+        "Color disponible": "Gris jaspe, Beige"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Slip-on elegante con jacquard"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Clásicas"
+      ],
+      "tags": [
+        "jacquard",
+        "clásica",
+        "slip-on"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-021",
+      "nombre": "Pantufla Breathable Mesh - Ventilada",
+      "subnombre": "Transpirabilidad óptima para climas cálidos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-mesh-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-mesh-01-2.jpg",
+      "precio_desde": 21.9,
+      "descripcion_corta": "Malla transpirable que permite ventilación y confort en verano.",
+      "descripcion": "Pantufla ligera con paneles en malla transpirable que favorecen la evaporación y mantienen el pie fresco. Suela ligera y ajuste cómodo para uso cotidiano en climas cálidos.",
+      "features": [
+        "Paneles de malla transpirable",
+        "Ligera y aireada",
+        "Suela antideslizante ligera",
+        "Ajuste cómodo"
+      ],
+      "specs": {
+        "Material exterior": "Malla técnica",
+        "Suela": "EVA ligera",
+        "Interior": "Acolchado fino ventilado",
+        "Tallas": "36-43",
+        "Peso aproximado": "110 g (par)",
+        "Cuidado": "Limpieza rápida; secado al aire",
+        "Color disponible": "Blanco, Gris claro"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Ventilada para climas cálidos"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Verano",
+        "Transpirable"
+      ],
+      "tags": [
+        "mesh",
+        "transpirable",
+        "verano"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-022",
+      "nombre": "Pantufla Reversible - Doble Face",
+      "subnombre": "Dos estilos en una sola pantufla",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-reversible-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-reversible-01-2.jpg",
+      "precio_desde": 32,
+      "descripcion_corta": "Diseño reversible que permite cambiar apariencia rápidamente.",
+      "descripcion": "Pantufla con doble face (felpa / tejido liso) que permite dos looks en uno. Útil para optimizar stock y ofrecer variedad sin cambiar producto, ideal para ventas por lote.",
+      "features": [
+        "Doble face reversible",
+        "Ajuste cómodo",
+        "Suela antideslizante",
+        "Versatilidad de uso"
+      ],
+      "specs": {
+        "Material exterior": "Felpa / tejido liso (reversible)",
+        "Suela": "TPR antideslizante",
+        "Interior": "Acolchado reversible",
+        "Tallas": "36-43",
+        "Peso aproximado": "150 g (par)",
+        "Cuidado": "Lavado suave; secado al aire",
+        "Color disponible": "Combinaciones (2 tonos)"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Reversible para versatilidad"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Versátil"
+      ],
+      "tags": [
+        "reversible",
+        "versátil",
+        "doble face"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-023",
+      "nombre": "Pantufla Minimal - Diseño Ultraligero",
+      "subnombre": "Perfil muy delgado y cómodo para uso corto",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-minimal-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-minimal-01-2.jpg",
+      "precio_desde": 16.9,
+      "descripcion_corta": "Pantufla ultraligera para uso puntual y entrega en eventos.",
+      "descripcion": "Diseño extremadamente ligero y delgado pensado para eventos, promociones y hostelería con rotación alta. Proporciona confort breve y ocupación mínima de espacio.",
+      "features": [
+        "Ultraligera y compacta",
+        "Económica para grandes volúmenes",
+        "Suela fina antideslizante",
+        "Fácil almacenamiento"
+      ],
+      "specs": {
+        "Material exterior": "Microfibra delgada",
+        "Suela": "EVA fina antideslizante",
+        "Interior": "Acolchado mínimo",
+        "Tallas": "Única (36-42)",
+        "Peso aproximado": "70 g (par)",
+        "Cuidado": "Limpieza local",
+        "Color disponible": "Blanco"
+      },
+      "models": [
+        {
+          "model": "Única",
+          "length": "36-42",
+          "spec": "Ultraligera para eventos y promociones"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Economico"
+      ],
+      "tags": [
+        "ultraligera",
+        "económica",
+        "eventos"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-024",
+      "nombre": "Pantufla Anti-pilling - Tratamiento Duradero",
+      "subnombre": "Mantiene apariencia tras lavados frecuentes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-antipilling-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-antipilling-01-2.jpg",
+      "precio_desde": 28.9,
+      "descripcion_corta": "Tratamiento anti-pilling para mayor durabilidad del tejido.",
+      "descripcion": "Pantufla con acabado anti-pilling que reduce la formación de bolitas y mantiene el aspecto original tras múltiples lavados. Pensada para entornos con uso frecuente y mantenimiento industrial.",
+      "features": [
+        "Tratamiento anti-pilling",
+        "Tacto suave mantenido en el tiempo",
+        "Suela antideslizante",
+        "Apto para lavado frecuente"
+      ],
+      "specs": {
+        "Material exterior": "Felpa tratada anti-pilling",
+        "Suela": "TPR antideslizante",
+        "Interior": "Acolchado resistente",
+        "Tallas": "36-44",
+        "Peso aproximado": "150 g (par)",
+        "Cuidado": "Lavable en máquina; secado a temperatura media",
+        "Color disponible": "Gris, Azul marino"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Tratamiento anti-pilling para uso intensivo"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Durabilidad",
+        "Hotelero"
+      ],
+      "tags": [
+        "anti-pilling",
+        "duradero",
+        "lavable"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-025",
+      "nombre": "Pantufla Home Comfort - Tacto Algodón",
+      "subnombre": "Sensación natural con base de algodón peinado",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-algodon-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-algodon-01-2.jpg",
+      "precio_desde": 31.9,
+      "descripcion_corta": "Tacto natural y agradable gracias a algodón peinado de alta calidad.",
+      "descripcion": "Pantufla con forro en algodón peinado que proporciona tacto natural y buena transpirabilidad. Suela ligera antideslizante y acabado pensado para el hogar y uso prolongado.",
+      "features": [
+        "Algodón peinado en interior",
+        "Tacto natural y transpirable",
+        "Suela antideslizante ligera",
+        "Buena retención dimensional"
+      ],
+      "specs": {
+        "Material exterior": "Mezcla algodón-peinado",
+        "Suela": "EVA antideslizante",
+        "Interior": "Algodón peinado",
+        "Tallas": "36-43",
+        "Peso aproximado": "160 g (par)",
+        "Cuidado": "Lavable a máquina a 30°C",
+        "Color disponible": "Crudo, Azul"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Home comfort - algodón peinado"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Hogar"
+      ],
+      "tags": [
+        "algodón",
+        "transpirable",
+        "confort"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-026",
+      "nombre": "Pantufla Couple Set - Pack 2 pares",
+      "subnombre": "Pack para parejas o habitaciones dobles",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-pack-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-pack-01-2.jpg",
+      "precio_desde": 54,
+      "descripcion_corta": "Pack de 2 pares combinados (M + L) pensado para habitaciones dobles.",
+      "descripcion": "Pack pensado para hoteles y promociones: 2 pares combinados (dos tallas) en un mismo embalaje. Ahorro por volumen y presentación coordinada.",
+      "features": [
+        "Pack 2 pares coordinados",
+        "Ahorro por volumen",
+        "Presentación en bolsa o caja",
+        "Modelos combinables"
+      ],
+      "specs": {
+        "Material exterior": "Felpa / microfibra según pack",
+        "Suela": "Goma antideslizante",
+        "Interior": "Acolchado estándar",
+        "Tallas": "M + L (pack)",
+        "Peso aproximado": "320 g (pack)",
+        "Cuidado": "Lavable a máquina",
+        "Color disponible": "Combinaciones"
+      },
+      "models": [
+        {
+          "model": "Pack M+L",
+          "length": "38-42",
+          "spec": "Par M + Par L en pack"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Pack",
+        "Hotelero"
+      ],
+      "tags": [
+        "pack",
+        "pareja",
+        "promoción"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "pantuflas-producto-027",
+      "nombre": "Pantufla Personalizable - Bordado Logos",
+      "subnombre": "Servicio de bordado corporativo y hotelero",
+      "marca": "Casas y Estilos",
+      "img": "/img/Pantuflas/pantufla-personalizada-01.jpg",
+      "img2": "/img/Pantuflas/pantufla-personalizada-01-2.jpg",
+      "precio_desde": 39,
+      "descripcion_corta": "Personalización con bordado de logo o nombre para identidad de marca.",
+      "descripcion": "Pantufla diseñada para personalizar con bordado de logotipo o nombre. Disponible en varios materiales y tallas; servicio para hoteles, eventos y regalos corporativos con control de calidad en la confección del bordado.",
+      "features": [
+        "Personalizable con bordado",
+        "Variedad de materiales disponibles",
+        "Control de color y tamaño del bordado",
+        "Apto para pedidos corporativos"
+      ],
+      "specs": {
+        "Material exterior": "Felpa / satén según pedido",
+        "Suela": "TPR antideslizante",
+        "Interior": "Acolchado personalizado",
+        "Tallas": "36-44",
+        "Peso aproximado": "180 g (par)",
+        "Cuidado": "Lavable; seguir indicaciones de bordado",
+        "Color disponible": "A convenir"
+      },
+      "models": [
+        {
+          "model": "M",
+          "length": "38-39",
+          "spec": "Personalización bordado -mínimo de producción puede aplicar"
+        }
+      ],
+      "categorias": [
+        "Pantuflas",
+        "Personalizable",
+        "Corporate"
+      ],
+      "tags": [
+        "personalizable",
+        "bordado",
+        "corporate"
+      ],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        {
+          "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 06590100007987"
+        },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

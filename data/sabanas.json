@@ -1,0 +1,1257 @@
+{
+  "SABANAS": [
+    {
+      "id": "sabanas-producto-001",
+      "nombre": "Sábanas Percal 300 hilos - 2 plazas",
+      "subnombre": "Acabado hotelero, tacto fresco",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabana-beta.png",
+      "img2": "/img/Sabanas/sabana-beta-2.png",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Juego de sábana encimera + bajera elástica, 300 hilos, acabado percal.",
+      "descripcion": "Juego de sábanas en percal 300 hilos: tacto nítido, gran transpirabilidad y resistencia a lavados frecuentes. Incluye sábana encimera y sábana bajera con elástico profundo. Diseñadas para uso hotelero y doméstico exigente.",
+      "features": [
+        "Percal 300 hilos (algodón mezclado de alta calidad)",
+        "Bordes reforzados y costuras planas",
+        "Bajera con elástico profundo",
+        "Alta transpirabilidad",
+        "Resistente a lavados industriales"
+      ],
+      "specs": {
+        "Material": "Percal 100% algodón / mezcla según lote",
+        "Hilos": "300 hilos",
+        "Incluye": "Sábana encimera + sábana bajera con elástico",
+        "Tallas": "1 plaza, 1.5 plazas, 2 plazas, Queen, King",
+        "Lavado": "A máquina hasta 60°C; secado suave"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Bajera elástica, encimera estándar"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Juego completo para cama matrimonial"
+        },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Ajuste hotelero, caída elegante" }
+      ],
+      "categorias": ["Sábanas", "Ropa de Cama", "Hotelero"],
+      "tags": ["percal", "300-hilos", "encimera", "bajera-elástica"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-002",
+      "nombre": "Sábana Jersey Elasticada - 1 plaza",
+      "subnombre": "Ajuste perfecto y máxima comodidad",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabana-beta.png",
+      "img2": "/img/Sabanas/sabana-beta-2.png",
+      "precio_desde": 79.9,
+      "descripcion_corta": "Sábana de punto tipo jersey, elástica y suave; ideal para colchones altos.",
+      "descripcion": "Sábana jersey con gran elasticidad que ofrece ajuste perfecto sin arrugas. Fabricada en algodón y fibras elásticas para máxima confortabilidad y fácil colocación. Apta para uso doméstico intensivo.",
+      "features": [
+        "Algodón peinado con elastano",
+        "Ajuste elástico 4 esquinas",
+        "Tacto suave tipo camiseta",
+        "No requiere planchado frecuente"
+      ],
+      "specs": {
+        "Material": "Algodón peinado 95% + 5% elastano",
+        "Tipo": "Jersey elástico",
+        "Tallas": "1 plaza, 1.5 plazas, 2 plazas, Queen, King",
+        "Lavado": "A máquina hasta 40°C; secado a temperatura media"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Elástico profundo, ajuste cómodo" },
+        {
+          "model": "Queen",
+          "length": "160 x 200 cm",
+          "spec": "Tejido elástico para colchones altos"
+        }
+      ],
+      "categorias": ["Sábanas", "Ropa de Cama"],
+      "tags": ["jersey", "elasticada", "algodón-elástico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-003",
+      "nombre": "Sábanas Satén 400 hilos - Queen",
+      "subnombre": "Brillo y suavidad de alta gama",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabana-beta.png",
+      "img2": "/img/Sabanas/sabana-beta-2.png",
+      "precio_desde": 199.9,
+      "descripcion_corta": "Satén de tacto sedoso y brillo elegante, 400 hilos; ideal para habitaciones premium.",
+      "descripcion": "Juego de sábanas en satén 400 hilos que combina un brillo delicado con una mano sedosa. Confeccionado para mantener caída y estética de lujo, apto para presentaciones de alta gama y habitaciones boutique.",
+      "features": [
+        "Acabado satinado con brillo sutil",
+        "Costuras invisibles y orillas reforzadas",
+        "Tacto sedoso y alta densidad de hilo"
+      ],
+      "specs": {
+        "Material": "Algodón satén 100%",
+        "Hilos": "400 hilos",
+        "Incluye": "Encimera + bajera + funda(s) de almohada opcional",
+        "Lavado": "Lavar a máquina en ciclo suave; secado a temperatura baja"
+      },
+      "models": [
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Acabado satén lujoso" },
+        {
+          "model": "King",
+          "length": "180 x 200 cm",
+          "spec": "Mayor caída, ideal para camas grandes"
+        }
+      ],
+      "categorias": ["Sábanas", "Ropa de Cama", "Premium"],
+      "tags": ["satén", "400-hilos", "lujo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-004",
+      "nombre": "Sábanas Algodón Pima - 300 hilos",
+      "subnombre": "Algodón Pima peruano, máxima suavidad",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-04.jpg",
+      "img2": "/img/Sabanas/sabanas-04-2.jpg",
+      "precio_desde": 249.9,
+      "descripcion_corta": "Sábanas premium confeccionadas en algodón Pima de fibra larga.",
+      "descripcion": "Confeccionadas con algodón Pima de fibra larga, estas sábanas ofrecen un tacto excepcionalmente suave y mayor durabilidad. Perfectas para clientes que buscan confort superior y origen textil certificado.",
+      "features": [
+        "Algodón Pima 100%",
+        "Tacto suave y mayor resistencia",
+        "Acabado natural y respirable"
+      ],
+      "specs": {
+        "Material": "Algodón Pima 100%",
+        "Hilos": "300 hilos",
+        "Tallas": "1 plaza, 2 plazas, Queen, King",
+        "Lavado": "Lavar a máquina en ciclo suave; evitar blanqueadores fuertes"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Tacto premium, ideal para habitaciones boutique"
+        },
+        { "model": "2 plazas", "length": "200 x 240 cm", "spec": "Mayor caída y durabilidad" }
+      ],
+      "categorias": ["Sábanas", "Ropa de Cama", "Premium"],
+      "tags": ["algodón-pima", "300-hilos", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-005",
+      "nombre": "Sábanas Microfibra Premium - Pack Hotelero",
+      "subnombre": "Económico y resistente para operaciones intensivas",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-05.jpg",
+      "img2": "/img/Sabanas/sabanas-05-2.jpg",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Microfibra de alta densidad, secado rápido y resistencia a lavados industriales.",
+      "descripcion": "Juego de sábanas en microfibra pensado para hotelería que requiere durabilidad y facilidad de mantenimiento. Ofrece buena presentación tras múltiples lavados y secado rápido en ciclos industriales.",
+      "features": [
+        "Microfibra de alta densidad",
+        "Secado rápido",
+        "Resistente a lavados industriales",
+        "Costo-efectivo"
+      ],
+      "specs": {
+        "Material": "Microfibra 100% poliéster",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "A máquina hasta 60°C; secado rápido"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Pack económico para operación hotelera"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Resistente y de fácil mantenimiento"
+        }
+      ],
+      "categorias": ["Sábanas", "Hotelero", "Economía"],
+      "tags": ["microfibra", "hotelero", "pack"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-006",
+      "nombre": "Sábanas Tencel Lyocell - 2 plazas",
+      "subnombre": "Fibras ecológicas, tacto sedoso y termorregulación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-06.jpg",
+      "img2": "/img/Sabanas/sabanas-06-2.jpg",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Sábanas hechas en Tencel, destacan por su suavidad, manejo de humedad y sostenibilidad.",
+      "descripcion": "Fabricadas con fibra Tencel (Lyocell) derivada de pulpa de madera certificada. Tienen gran capacidad de absorción y termorregulación, son suaves al tacto y respetuosas con el medio ambiente.",
+      "features": [
+        "Fibra Tencel / Lyocell sostenible",
+        "Alta capacidad de absorción y frescura",
+        "Tacto sedoso y caída elegante",
+        "Ideal para pieles sensibles"
+      ],
+      "specs": {
+        "Material": "Tencel Lyocell 100%",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Lavar a máquina en ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Tencel transpirable" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Con caída y brillo natural" }
+      ],
+      "categorias": ["Sábanas", "Eco", "Premium"],
+      "tags": ["tencel", "lyocell", "ecológico"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-007",
+      "nombre": "Sábana Ajustable con Faldón Profundo - King",
+      "subnombre": "Diseñada para colchones altos y topper",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-07.jpg",
+      "img2": "/img/Sabanas/sabanas-07-2.jpg",
+      "precio_desde": 99.9,
+      "descripcion_corta": "Bajera con faldón extra profundo y goma reforzada para colchones de hasta 40 cm.",
+      "descripcion": "Sábana bajera con elástico reforzado y faldón profundo para colchones con topper o de gran altura. Confeccionada en algodón peinado para mantener confort y durabilidad.",
+      "features": [
+        "Elástico reforzado 360°",
+        "Faldón profundo hasta 40 cm",
+        "Costuras reforzadas en esquinas"
+      ],
+      "specs": {
+        "Material": "Algodón peinado 100%",
+        "Faldón": "Profundo (hasta 40 cm)",
+        "Tallas": "King, Queen, 2 plazas",
+        "Lavado": "A máquina hasta 40°C"
+      },
+      "models": [
+        {
+          "model": "King",
+          "length": "180 x 200 cm",
+          "spec": "Faldón profundo, ideal para toppers"
+        },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Ajuste seguro en colchones altos" }
+      ],
+      "categorias": ["Sábanas", "Accesorios", "Ajustables"],
+      "tags": ["bajera", "faldón-profundo", "ajustable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-008",
+      "nombre": "Sábanas Anti-manchas Tecnológicas - 2 plazas",
+      "subnombre": "Tratamiento repelente al líquido y fácil limpieza",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-08.jpg",
+      "img2": "/img/Sabanas/sabanas-08-2.jpg",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Acabado que repele líquidos y manchas sin afectar la transpirabilidad.",
+      "descripcion": "Sábanas con acabado técnico repelente que facilita la limpieza de manchas y protege la prenda en entornos de alto uso. Mantiene tacto suave y transpirabilidad adecuada para uso hotelero y doméstico.",
+      "features": [
+        "Tratamiento repelente al líquido",
+        "Tacto suave y transpirable",
+        "Mantiene color y textura tras lavados"
+      ],
+      "specs": {
+        "Material": "Algodón con tratamiento técnico",
+        "Tratamiento": "Repelente al líquido (coating técnico)",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Consultar etiqueta; ciclo suave"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Protección anti-manchas sin perder confort"
+        },
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Ideal para habitaciones con alto tránsito"
+        }
+      ],
+      "categorias": ["Sábanas", "Técnicas", "Hotelero"],
+      "tags": ["anti-manchas", "repelente", "fácil-limpieza"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-009",
+      "nombre": "Sábanas Antiácaros - Hipoalergénicas",
+      "subnombre": "Protección para pieles sensibles",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-09.jpg",
+      "img2": "/img/Sabanas/sabanas-09-2.jpg",
+      "precio_desde": 139.9,
+      "descripcion_corta": "Tratamiento antiácaros y fibra hipoalergénica para mayor higiene.",
+      "descripcion": "Sábanas con tratamiento antiácaros y materiales seleccionados para reducir alérgenos. Recomendadas para clientes con sensibilidad respiratoria o uso en hospitalidad que requiere altos estándares de higiene.",
+      "features": [
+        "Tratamiento antiácaros certificado",
+        "Tacto suave y transpirable",
+        "Fácil mantenimiento"
+      ],
+      "specs": {
+        "Material": "Algodón / mezcla hipoalergénica",
+        "Tratamiento": "Antiácaros",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "A máquina hasta 60°C; secado a temperatura media"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Diseñado para hoteles y hogares sensibles"
+        },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Protección antiácaros efectiva" }
+      ],
+      "categorias": ["Sábanas", "Higiene", "Hotelero"],
+      "tags": ["antiácaros", "hipoalergénico", "salud"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-010",
+      "nombre": "Sábanas Percal 200 hilos - 1 plaza",
+      "subnombre": "Clásicas, frescas y de rápida recuperación",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-10.jpg",
+      "img2": "/img/Sabanas/sabanas-10-2.jpg",
+      "precio_desde": 69.9,
+      "descripcion_corta": "Percal ligero 200 hilos, buena relación precio-calidad.",
+      "descripcion": "Juego de sábanas percal 200 hilos, ideal para climas cálidos y para quien busca un producto funcional y duradero a buen costo. Mantiene transpirabilidad y facilidad de mantenimiento en entornos de alto uso.",
+      "features": [
+        "Percal 200 hilos",
+        "Rápida recuperación y fácil planchado",
+        "Buena transpirabilidad"
+      ],
+      "specs": {
+        "Material": "Algodón percal 100%",
+        "Hilos": "200 hilos",
+        "Tallas": "1 plaza, 2 plazas",
+        "Lavado": "A máquina hasta 60°C"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Ligera y fresca" },
+        { "model": "2 plazas", "length": "200 x 240 cm", "spec": "Económica para uso diario" }
+      ],
+      "categorias": ["Sábanas", "Economía"],
+      "tags": ["percal", "200-hilos", "fresco"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-011",
+      "nombre": "Sábanas Percal 400 hilos - Premium",
+      "subnombre": "Durabilidad y tacto nítido premium",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-11.jpg",
+      "img2": "/img/Sabanas/sabanas-11-2.jpg",
+      "precio_desde": 219.9,
+      "descripcion_corta": "Percal de alta densidad para presentación premium y tacto duradero.",
+      "descripcion": "Percal 400 hilos que combina una mano nítida con elevada durabilidad. Ideal para hoteles boutique y clientes que buscan una apariencia prolija y larga vida útil tras múltiples lavados.",
+      "features": [
+        "Percal 400 hilos",
+        "Acabado resistente y nítido",
+        "Alta durabilidad y presentación"
+      ],
+      "specs": {
+        "Material": "Percal 100% algodón",
+        "Hilos": "400 hilos",
+        "Tallas": "1 plaza, 2 plazas, Queen, King",
+        "Lavado": "Ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Ideal para hoteles boutique" },
+        { "model": "King", "length": "180 x 200 cm", "spec": "Mayor caída y presencia" }
+      ],
+      "categorias": ["Sábanas", "Premium", "Hotelero"],
+      "tags": ["percal", "400-hilos", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-012",
+      "nombre": "Sábanas Orgánicas - Algodón Certificado",
+      "subnombre": "Algodón orgánico, producción responsable",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-12.jpg",
+      "img2": "/img/Sabanas/sabanas-12-2.jpg",
+      "precio_desde": 189.9,
+      "descripcion_corta": "Algodón orgánico certificado GOTS, ideal para hoteles ecológicos.",
+      "descripcion": "Juego de sábanas en algodón orgánico certificado; proceso de producción responsable y sin químicos agresivos. Suave al tacto y pensado para proyectos con compromiso ambiental.",
+      "features": [
+        "Algodón orgánico certificado",
+        "Proceso sostenible y responsable",
+        "Tacto natural y respirable"
+      ],
+      "specs": {
+        "Material": "Algodón orgánico 100% (certificación GOTS según lote)",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Ciclo suave; evitar blanqueadores agresivos"
+      },
+      "models": [
+        {
+          "model": "1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Algodón orgánico, ideal para huéspedes sensibles"
+        },
+        { "model": "2 plazas", "length": "200 x 240 cm", "spec": "Sostenible y duradera" }
+      ],
+      "categorias": ["Sábanas", "Eco", "Premium"],
+      "tags": ["orgánico", "algodón", "sostenible"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-013",
+      "nombre": "Sábanas Estampadas Premium - Diseño",
+      "subnombre": "Estampados exclusivos, colores duraderos",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-13.jpg",
+      "img2": "/img/Sabanas/sabanas-13-2.jpg",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Sábanas con estampados exclusivos y tintes de alta fidelidad cromática.",
+      "descripcion": "Línea de sábanas estampadas con diseños exclusivos y procesos de tintura que garantizan color y resistencia al desgaste. Ideal para habitaciones temáticas y ambientaciones modernas.",
+      "features": [
+        "Estampado textil de alta definición",
+        "Tintes resistentes a lavados",
+        "Tacto suave y buena caída"
+      ],
+      "specs": {
+        "Material": "Algodón / mezcla según diseño",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Lavar a máquina con colores similares; ciclo suave"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Diseños para decoración moderna"
+        },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Estampados exclusivos" }
+      ],
+      "categorias": ["Sábanas", "Estampadas", "Decoración"],
+      "tags": ["estampado", "diseño", "colores-duraderos"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-014",
+      "nombre": "Sábanas Infantil - Juego estampado 1 plaza",
+      "subnombre": "Diseños infantiles lavables y resistentes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-14.jpg",
+      "img2": "/img/Sabanas/sabanas-14-2.jpg",
+      "precio_desde": 59.9,
+      "descripcion_corta": "Sábanas para niños con estampados seguros y colores resistentes al lavado.",
+      "descripcion": "Línea infantil con estampados temáticos resistentes a múltiples lavados y con tintes no tóxicos. Confeccionadas para ser cómodas y fáciles de mantener por padres y hoteles familiares.",
+      "features": ["Tintes no tóxicos", "Costuras reforzadas", "Fácil lavado y secado rápido"],
+      "specs": {
+        "Material": "Algodón / mezcla segura",
+        "Tallas": "Cuna, 1 plaza",
+        "Lavado": "A máquina; secado rápido"
+      },
+      "models": [
+        {
+          "model": "Cuna",
+          "length": "60 x 120 cm",
+          "spec": "Juego para cuna con estampado infantil"
+        },
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Diseños para niños y niñas" }
+      ],
+      "categorias": ["Sábanas", "Infantil"],
+      "tags": ["infantil", "estampado", "lavable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-015",
+      "nombre": "Sábanas para cuna - Algodón suave",
+      "subnombre": "Con ajuste seguro y materiales delicados",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-15.jpg",
+      "img2": "/img/Sabanas/sabanas-15-2.jpg",
+      "precio_desde": 49.9,
+      "descripcion_corta": "Juego de cuna con bajera ajustada y encimera ligera, pensado para bebés.",
+      "descripcion": "Confección adaptada para cuna: esquinas reforzadas, elástico seguro y materiales suaves que cuidan la piel del bebé. Fácil de lavar y secar, apto para uso doméstico intensivo.",
+      "features": [
+        "Material suave para piel sensible",
+        "Elástico seguro y reforzado",
+        "Fácil lavado"
+      ],
+      "specs": {
+        "Material": "Algodón peinado 100%",
+        "Tallas": "Cuna estándar",
+        "Lavado": "A máquina en ciclo suave"
+      },
+      "models": [
+        { "model": "Cuna", "length": "60 x 120 cm", "spec": "Bajera ajustada y encimera ligera" }
+      ],
+      "categorias": ["Sábanas", "Infantil"],
+      "tags": ["cuna", "bajera-ajustada", "suave"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-016",
+      "nombre": "Sábana Protector Impermeable - Transpirable",
+      "subnombre": "Protección total sin perder confort",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-16.jpg",
+      "img2": "/img/Sabanas/sabanas-16-2.jpg",
+      "precio_desde": 89.9,
+      "descripcion_corta": "Protector con membrana impermeable transpirable para proteger el colchón y la bajera.",
+      "descripcion": "Protector de tejido técnico con membrana impermeable y transpirable que impide el paso de líquidos pero permite la salida de humedad. Ideal para hoteles, niños o personas con necesidades específicas de higiene.",
+      "features": [
+        "Membrana impermeable y transpirable",
+        "Fácil colocación y ajuste",
+        "Lavable y resistente"
+      ],
+      "specs": {
+        "Material": "Tejido técnico con membrana PU transpirable",
+        "Tallas": "1 plaza, 2 plazas, Queen, King",
+        "Lavado": "A máquina ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Protección completa para colchón" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Membrana transpirable y silenciosa" }
+      ],
+      "categorias": ["Sábanas", "Protectores", "Higiene"],
+      "tags": ["protector", "impermeable", "transpirable"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-017",
+      "nombre": "Juego Premium 4 piezas - Encimera + Bajera + 2 Fundas",
+      "subnombre": "Set completo para presentación de lujo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-17.jpg",
+      "img2": "/img/Sabanas/sabanas-17-2.jpg",
+      "precio_desde": 269.9,
+      "descripcion_corta": "Set completo en algodón de alta calidad pensado para presentaciones premium.",
+      "descripcion": "Pack completo que incluye sábana encimera, bajera con elástico y dos fundas de almohada confeccionadas con precisión. Materiales seleccionados para brindar una apariencia impecable y duración superior.",
+      "features": [
+        "Set completo 4 piezas",
+        "Costuras y acabado premium",
+        "Diseño pensado para presentación en camas hoteleras"
+      ],
+      "specs": {
+        "Material": "Algodón peinado 100%",
+        "Incluye": "Encimera + bajera + 2 fundas",
+        "Tallas": "2 plazas, Queen, King",
+        "Lavado": "Ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Set completo para cama matrimonial"
+        },
+        {
+          "model": "King",
+          "length": "180 x 200 cm",
+          "spec": "Presentación premium para habitaciones grandes"
+        }
+      ],
+      "categorias": ["Sábanas", "Sets", "Premium"],
+      "tags": ["set-4-piezas", "premium", "presentación"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-018",
+      "nombre": "Sábanas Satén 600 hilos - Ultra Soft",
+      "subnombre": "Máxima suavidad y brillo sedoso",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-18.jpg",
+      "img2": "/img/Sabanas/sabanas-18-2.jpg",
+      "precio_desde": 339.9,
+      "descripcion_corta": "Satén de alta densidad para un tacto extremadamente sedoso y duradero.",
+      "descripcion": "Satén 600 hilos para clientes que exigen lo mejor: acabado sedoso, brillo controlado y una mano inigualable. Recomendado para suites de alta gama y regalos corporativos.",
+      "features": ["Satén 600 hilos", "Tacto extremadamente suave", "Acabado lujoso y duradero"],
+      "specs": {
+        "Material": "Algodón satén 100%",
+        "Hilos": "600 hilos",
+        "Tallas": "Queen, King",
+        "Lavado": "Ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Tacto ultra soft para suites" },
+        { "model": "King", "length": "180 x 200 cm", "spec": "Presentación premium" }
+      ],
+      "categorias": ["Sábanas", "Lujo", "Premium"],
+      "tags": ["satén", "600-hilos", "lujo"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-019",
+      "nombre": "Sábanas de Percal Ecológico Reciclado",
+      "subnombre": "Percal con fibras recicladas post-consumo",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-19.jpg",
+      "img2": "/img/Sabanas/sabanas-19-2.jpg",
+      "precio_desde": 169.9,
+      "descripcion_corta": "Percal fabricado con procesos sostenibles y fibras recicladas, tacto impecable.",
+      "descripcion": "Línea de percal que incorpora fibras recicladas y procesos de bajo impacto, manteniendo la calidad y suavidad esperada. Ideal para proyectos con compromiso ambiental y certificaciones.",
+      "features": [
+        "Fibras recicladas post-consumo",
+        "Procesos de bajo impacto",
+        "Tacto percal clásico"
+      ],
+      "specs": {
+        "Material": "Percal con % reciclado (según lote)",
+        "Hilos": "300 hilos equivalente",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "200 x 240 cm", "spec": "Sostenible y duradera" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Buen desempeño en lavados" }
+      ],
+      "categorias": ["Sábanas", "Eco"],
+      "tags": ["reciclado", "ecológico", "percal"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-020",
+      "nombre": "Sábana Jacquard - Textura Premium",
+      "subnombre": "Diseño texturado para ambientes cuidados",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-20.jpg",
+      "img2": "/img/Sabanas/sabanas-20-2.jpg",
+      "precio_desde": 179.9,
+      "descripcion_corta": "Sábana con tejido jacquard que aporta textura y elegancia sin perder suavidad.",
+      "descripcion": "Jacquard tejido que ofrece relieve y patrón integrado en la tela, ideal para ambientes con decoración cuidada. Mantiene la resistencia y presentación tras múltiples lavados.",
+      "features": ["Tejido jacquard con patrón integrado", "Textura elegante", "Acabado duradero"],
+      "specs": {
+        "Material": "Algodón / mezcla jacquard",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        {
+          "model": "2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Relieve texturado para decoración"
+        },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Acabado premium" }
+      ],
+      "categorias": ["Sábanas", "Decoración"],
+      "tags": ["jacquard", "textura", "diseño"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-021",
+      "nombre": "Sábanas Termorreguladoras - Fibra Bamboo",
+      "subnombre": "Regula temperatura y humedad corporal",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-21.jpg",
+      "img2": "/img/Sabanas/sabanas-21-2.jpg",
+      "precio_desde": 159.9,
+      "descripcion_corta": "Fibra de bamboo que aporta frescura en verano y calor controlado en frío.",
+      "descripcion": "Sábanas elaboradas con fibra de bamboo natural que ofrece excelente capacidad de absorción, tacto suave y propiedades termorreguladoras. Recomendadas para climas variables y huéspedes exigentes.",
+      "features": [
+        "Fibra de bamboo natural",
+        "Termorregulación y alta absorción",
+        "Antibacterial natural"
+      ],
+      "specs": {
+        "Material": "Fibra de bamboo / mezcla natural",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "A máquina ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Fresco y absorbente" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Ideal para clima templado" }
+      ],
+      "categorias": ["Sábanas", "Técnicas", "Eco"],
+      "tags": ["bamboo", "termorregulador", "antibacterial"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-022",
+      "nombre": "Sábanas Antibacterianas - Tratamiento clínico",
+      "subnombre": "Control microbiano para entornos exigentes",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-22.jpg",
+      "img2": "/img/Sabanas/sabanas-22-2.jpg",
+      "precio_desde": 149.9,
+      "descripcion_corta": "Tratamiento antibacteriano que ayuda a mantener superficie más higiénica.",
+      "descripcion": "Sábanas con acabado antibacteriano diseñado para reducir proliferación microbiana en la superficie. Pensadas para clínicas, hoteles y clientes que demandan estándares de higiene superiores.",
+      "features": [
+        "Acabado antibacteriano certificado",
+        "Transpirable y suave",
+        "Apto para lavados frecuentes"
+      ],
+      "specs": {
+        "Material": "Algodón tratado",
+        "Tratamiento": "Antibacterial",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Ciclo suave; evita blanqueadores agresivos"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Higiénico y resistente" },
+        { "model": "2 plazas", "length": "200 x 240 cm", "spec": "Uso profesional y doméstico" }
+      ],
+      "categorias": ["Sábanas", "Higiene"],
+      "tags": ["antibacteriano", "clinic", "higiene"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-023",
+      "nombre": "Sábanas con Banda Antideslizante - Bajera Especial",
+      "subnombre": "Fijación superior para camas con movimiento",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-23.jpg",
+      "img2": "/img/Sabanas/sabanas-23-2.jpg",
+      "precio_desde": 109.9,
+      "descripcion_corta": "Bajera con banda antideslizante interna que evita desplazamientos durante la noche.",
+      "descripcion": "Bajera técnica diseñada con una banda o agarre interno que asegura el colchón y evita que la sábana se mueva. Muy útil en camas con movimiento o para instalaciones donde se requiere presentación constante.",
+      "features": [
+        "Banda antideslizante interna",
+        "Ajuste firme y discreto",
+        "Confección resistente"
+      ],
+      "specs": {
+        "Material": "Algodón mezclado con grip técnico",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "A máquina ciclo suave"
+      },
+      "models": [
+        { "model": "1 plaza", "length": "90 x 190 cm", "spec": "Agarre interno para colchones" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Ideal para usos intensivos" }
+      ],
+      "categorias": ["Sábanas", "Técnicas", "Accesorios"],
+      "tags": ["antideslizante", "bajera-especial", "agarre"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-024",
+      "nombre": "Sábanas con Esquinas Reforzadas - Hotelero",
+      "subnombre": "Mayor resistencia para lavados industriales",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-24.jpg",
+      "img2": "/img/Sabanas/sabanas-24-2.jpg",
+      "precio_desde": 119.9,
+      "descripcion_corta": "Confección con refuerzo en esquinas y costuras para uso profesional.",
+      "descripcion": "Sábanas específicamente reforzadas en puntos de tensión como esquinas y costuras para prolongar la vida útil en entornos de lavado industrial. Mantienen presentación y color tras múltiples ciclos.",
+      "features": [
+        "Esquinas y costuras reforzadas",
+        "Diseño resistente para lavados frecuentes",
+        "Acabado de fácil mantenimiento"
+      ],
+      "specs": {
+        "Material": "Algodón con refuerzos técnicos",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "A máquina hasta 60°C; secado a temperatura media"
+      },
+      "models": [
+        { "model": "2 plazas", "length": "200 x 240 cm", "spec": "Reforzada para uso hotelero" },
+        { "model": "Queen", "length": "160 x 200 cm", "spec": "Costuras reforzadas" }
+      ],
+      "categorias": ["Sábanas", "Hotelero"],
+      "tags": ["reforzada", "esquinas", "lavados-industriales"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-025",
+      "nombre": "Sábanas Pack Hotelero 10 unidades - Económico",
+      "subnombre": "Solución por volumen para operaciones",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-25.jpg",
+      "img2": "/img/Sabanas/sabanas-25-2.jpg",
+      "precio_desde": 549.0,
+      "descripcion_corta": "Pack de 10 juegos pensado para reposición y operación hotelera.",
+      "descripcion": "Pack de 10 juegos de sábanas en un tejido funcional y resistente, pensado para optimizar costos en operaciones hoteleras y alojamientos con alta rotación. Incluye encimera y bajera por unidad.",
+      "features": [
+        "Pack x10 juegos",
+        "Relación costo-beneficio para reposición",
+        "Confección resistente"
+      ],
+      "specs": {
+        "Material": "Microfibra / percal según selección",
+        "Incluye": "10 x (encimera + bajera)",
+        "Tallas": "1 plaza, 2 plazas según lote",
+        "Lavado": "A máquina hasta 60°C"
+      },
+      "models": [
+        {
+          "model": "Pack 10 - 1 plaza",
+          "length": "90 x 190 cm",
+          "spec": "Solución económica para reposición"
+        },
+        {
+          "model": "Pack 10 - 2 plazas",
+          "length": "200 x 240 cm",
+          "spec": "Ideal para hoteles pequeños"
+        }
+      ],
+      "categorias": ["Sábanas", "Hotelero", "Pack"],
+      "tags": ["pack", "hotelero", "volumen"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-026",
+      "nombre": "Sábana Elasticada Premium - Funda bajera con cierre",
+      "subnombre": "Comodidad y ajuste con cierre discreto",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-26.jpg",
+      "img2": "/img/Sabanas/sabanas-26-2.jpg",
+      "precio_desde": 129.9,
+      "descripcion_corta": "Bajera con cierre perimetral para un ajuste más seguro y apariencia lisa.",
+      "descripcion": "Bajera premium equipada con cierre perimetral oculto que asegura una presentación perfectamente lisa y evita desplazamientos. Ideal para habitaciones que requieren estética impecable y facilidad de montaje.",
+      "features": [
+        "Cierre perimetral oculto",
+        "Ajuste perfecto y presentación lisa",
+        "Fácil colocación"
+      ],
+      "specs": {
+        "Material": "Algodón peinado 100%",
+        "Cierre": "Cierre perimetral oculto",
+        "Tallas": "1 plaza, 2 plazas, Queen",
+        "Lavado": "Ciclo suave; secado a baja temperatura"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "160 x 200 cm",
+          "spec": "Ajuste con cierre para presentación perfecta"
+        }
+      ],
+      "categorias": ["Sábanas", "Accesorios", "Premium"],
+      "tags": ["cierre", "bajera", "premium"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    },
+    {
+      "id": "sabanas-producto-027",
+      "nombre": "Sábanas Luxury Bordadas - Edición Boutique",
+      "subnombre": "Bordado decorativo y confección artesanal",
+      "marca": "Casas y Estilos",
+      "img": "/img/Sabanas/sabanas-27.jpg",
+      "img2": "/img/Sabanas/sabanas-27-2.jpg",
+      "precio_desde": 299.9,
+      "descripcion_corta": "Sábanas con detalles bordados a mano para una presentación boutique.",
+      "descripcion": "Edición limitada con bordados decorativos en acabados finos, confeccionadas para ofrecer una experiencia boutique en habitaciones de alto nivel. Cada pieza pasa por control de calidad y acabado artesanal.",
+      "features": [
+        "Bordado artesanal en cabeceras",
+        "Acabado y confección premium",
+        "Presentación exclusiva"
+      ],
+      "specs": {
+        "Material": "Algodón peinado 100% + bordado",
+        "Tallas": "2 plazas, Queen, King",
+        "Lavado": "Lavar a mano o ciclo muy suave; secado natural"
+      },
+      "models": [
+        {
+          "model": "Queen",
+          "length": "160 x 200 cm",
+          "spec": "Bordado artesanal y acabado boutique"
+        },
+        { "model": "King", "length": "180 x 200 cm", "spec": "Presentación para suites" }
+      ],
+      "categorias": ["Sábanas", "Boutique", "Premium"],
+      "tags": ["bordado", "boutique", "luxury"],
+      "payment_methods": "Depósito / Transferencia / Yape / Plin",
+      "bank_accounts": [
+        {
+          "name": "BCP - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2440031 0 77\nCCI: 002 19100244003107757"
+        },
+        {
+          "name": "BBVA - EQUIPAMIENTO HOTELERO PERÚ E.I.R.L",
+          "info": "Cuenta: 0011 0659 0100016536"
+        },
+        { "name": "BBVA - CASAS Y ESTILOS PERÚ E.I.R.L", "info": "Cuenta: 0011 06590100007987" },
+        {
+          "name": "BCP - CASAS Y ESTILOS PERÚ E.I.R.L",
+          "info": "Cuenta: 191 2399080 0 30\nCCI: 002 19100239908003054"
+        }
+      ]
+    }
+  ]
+}

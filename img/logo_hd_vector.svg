@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Base arc -->
+  <path d="M100 550 Q600 400 1100 550 L1100 600 Q600 450 100 600 Z"
+        fill="#d8e1d0"/>
+
+  <!-- Left pillow -->
+  <path d="M300 300 
+           Q270 280 260 320 
+           L260 400 
+           Q270 440 300 420 
+           L520 420
+           Q560 430 560 380
+           L560 330
+           Q550 290 520 300 Z"
+        fill="#6c7f5e"/>
+
+  <!-- Right pillow -->
+  <path d="M520 300 
+           Q500 270 480 300
+           L480 380
+           Q480 420 520 420
+           L830 420
+           Q870 430 880 380
+           L880 330
+           Q880 290 830 300 Z"
+        fill="#7f936f"/>
+
+  <!-- Letters CE -->
+  <text x="520" y="390" font-family="Cormorant Garamond, serif"
+        font-size="150" fill="white">CE</text>
+
+</svg>
