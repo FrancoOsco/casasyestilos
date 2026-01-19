@@ -22,7 +22,6 @@ const WATCH_DIR = __dirname;
 
 const IS_PROD = process.env.NODE_ENV === 'production';
 const FORCE_HTTPS_COOKIE = process.env.FORCE_HTTPS_COOKIE === 'true';
-const COOKIE_DOMAIN = process.env.COOKIE_DOMAIN || '.casasyestilos.com';
 
 const ADMIN_PASS = process.env.ADMIN_PASS || 'casasyestilos123!';
 const TOKEN_TTL_MS = 1000 * 60 * 60 * 6;
@@ -51,6 +50,7 @@ app.use(cookieParser());
 const allowedOrigins = [
   'https://casasyestilos.com',
   'https://www.casasyestilos.com',
+  'https://casasyestilos.onrender.com',
   'http://localhost:3000',
   'http://127.0.0.1:3000',
 ];
@@ -201,11 +201,9 @@ app.post('/api/admin/login', (req, res) => {
   const cookieOpts = {
     httpOnly: true,
     secure: IS_PROD || FORCE_HTTPS_COOKIE,
-    sameSite: IS_PROD ? 'none' : 'lax',
+    sameSite: 'lax',
     maxAge: TOKEN_TTL_MS,
   };
-  // Solo establecer domain en producción y si está definido
-  if (IS_PROD && COOKIE_DOMAIN) cookieOpts.domain = COOKIE_DOMAIN;
 
   res.cookie('admin_token', token, cookieOpts);
 
@@ -291,5 +289,4 @@ app.get('/admin', (req, res) => {
 server.listen(PORT, () => {
   console.log(`✅ Server listening on port ${PORT}`);
   console.log(`🔐 Admin: /admin`);
-  if (IS_PROD) console.log(`🔒 Running in PRODUCTION mode, cookie domain: ${COOKIE_DOMAIN}`);
 });
