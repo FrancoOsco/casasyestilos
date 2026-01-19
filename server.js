@@ -280,7 +280,7 @@ app.post('/api/admin/upload-image', requireAdmin, upload.single('file'), async (
   }
 });
 
-app.get(['/admin', '/admin/*'], (req, res) => {
+app.get('/admin*', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages', 'admin.html'));
 });
 
