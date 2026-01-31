@@ -46,7 +46,6 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(cookieParser());
 
-// agregar localhost/127.0.0.1 para desarrollo
 const allowedOrigins = [
   'https://casasyestilos.com',
   'https://www.casasyestilos.com',
@@ -65,7 +64,6 @@ app.use(
           ? cb(null, true)
           : cb(new Error('Not allowed'), false);
       }
-      // en desarrollo permitir (facilita pruebas desde distintos orígenes)
       cb(null, true);
     },
     credentials: true,
@@ -86,11 +84,7 @@ app.use('/css', express.static(path.join(__dirname, 'css')));
 app.use('/img', express.static(path.join(__dirname, 'img')));
 app.use('/js', express.static(path.join(__dirname, 'js')));
 
-/**
- * Watcher para recarga en desarrollo.
- * En producción lo desactivamos (evita procesos innecesarios en Render).
- */
-let watcher = { on: () => {} }; // stub por defecto
+let watcher = { on: () => {} }; 
 if (!IS_PROD) {
   watcher = chokidar.watch(WATCH_DIR, {
     ignored: [/node_modules/, /\.git/, /server\.js/],
@@ -129,10 +123,8 @@ async function readCategory(slug) {
     const key = Object.keys(json)[0] || slug.toUpperCase();
     return { key, productos: json[key] || [] };
   } catch (err) {
-    // loguear el error para debug; NO sobrescribir automáticamente el archivo si está corrupto
     console.error('ERROR reading category', slug, err && err.message ? err.message : err);
     const key = slug.toUpperCase();
-    // solo crear si no existe el archivo (evitar sobreescribir datos corruptos)
     if (!fsSync.existsSync(file)) {
       await writeCategory(slug, [], key);
     }
@@ -278,10 +270,8 @@ app.post('/api/admin/upload-image', requireAdmin, upload.single('file'), async (
   }
 });
 
-// Serve admin static files (pages folder) at /admin
 app.use('/admin', express.static(path.join(__dirname, 'pages')));
 
-// Ensure /admin serves admin.html
 app.get('/admin', (req, res) => {
   res.sendFile(path.join(__dirname, 'pages', 'admin.html'));
 });
